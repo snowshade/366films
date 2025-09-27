@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Paris, Texas",
+    "year": 1984,
+    "director": [
+        "Wim Wenders"
+    ],
+    "clip": "clips/movie1.mp4",
+    "genre": [
+      "Drama"
+    ],
+    "length": 145,
+    "rating": 1
+  },
+  {
+    "title": "Ad Astra",
+    "year": 2019,
+    "director": [
+        "James Gray"
+    ],
+    "clip": "clips/movie2.mp4",
+    "genre": [
+      "Science Fiction",
+      "Drama"
+    ],
+    "length": 123,
+    "rating": 1
+  }
+]
