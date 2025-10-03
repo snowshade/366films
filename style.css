@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Workbench:BLED,SCAN@0..100,0..100&display=swap');
+
+body {
+	font-family: "Arial";
+	background-color: #222323;
+	color: #f0f6f0;
+	margin: 2rem;
+}
+
+#movies {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+	/* grid-auto-rows: minmax(300px, auto); */
+	column-gap: 2rem;
+	row-gap: 2rem;
+}
+
+p {
+	margin-block-start: 2px;
+	margin-block-end: 0;
+	font-size: 10px;
+}
+
+h3 {
+	font-size: 10px;
+	margin-block-end: 0px;
+}
+
+h1 {
+	font-size: 160px;
+	font-family: "Workbench", sans-serif;
+	font-variation-settings: 
+		"BLED" 0,   /* bleed */
+		"SCAN" 20;    /* scanlines */
+	margin-block-start: 0em;
+	margin-block-end: 0.1em;
+}
+
+.movie {
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+	transition: background-color 0.2s;
+	transition: opacity 0.2s;
+	/* background-color: #EFEFEF; */
+	border: solid;
+	border-color: #222323;
+	border-width: 1px;
+	padding: 20px;
+	/* border-radius: 10px; */
+}
+
+.movie-video {
+	width: 80%;
+	display: block;
+	filter: grayscale(100%);
+	transition: filter 0.2s;
+	/* opacity: 0.1;
+  transition: opacity 0.3s; */
+	pointer-events: none; /* ensures no right-click menu, no controls */
+	opacity: 0.5;
+	transition: opacity 0.2s;
+}
+
+.movie-video-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	aspect-ratio: 1.8 / 1;
+}
+
+.movie:hover .movie-video {
+	filter: grayscale(0%);
+	opacity: 1.0;
+}
+
+.movie:hover {
+	background-color: #222323;
+	border-color: #333;
+	opacity: 1.0;
+}
+
+.movie-info {
+	display:flex;
+	gap:10px;
+}

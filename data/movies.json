@@ -10,8 +10,9 @@
       "Drama"
     ],
     "length": 145,
-    "rating": 1
-  },
+    "rating": 1,
+    "synopsis": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier."
+  }, 
   {
     "title": "Ad Astra",
     "year": 2019,
@@ -24,6 +25,100 @@
       "Drama"
     ],
     "length": 123,
-    "rating": 1
+    "rating": 1,
+    "synopsis": "The near future, a time when both hope and hardships drive humanity to look to the stars and beyond. While a mysterious phenomenon menaces to destroy life on planet Earth, astronaut Roy McBride undertakes a mission across the immensity of space and its many perils to uncover the truth about a lost expedition that decades before boldly faced emptiness and silence in search of the unknown."
+  },
+  {
+    "title": "Blood Simple",
+    "year": 1984,
+    "director": [
+        "Joel Coen"
+    ],
+    "clip": "clips/movie3.mp4",
+    "genre": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "length": 97,
+    "rating": 0,
+    "synopsis": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered."
+  },
+  {
+    "title": "The Assassination of Jesse James by the Coward Robert Ford",
+    "year": 2007,
+    "director": [
+        "Andrew Dominik"
+    ],
+    "clip": "clips/movie4.mp4",
+    "genre": [
+      "Drama",
+      "Western"
+    ],
+    "length": 159,
+    "rating": 1,
+    "synopsis": "Outlaw Jesse James is rumored to be the ‘fastest gun in the West’. An eager recruit into James’ notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status."
+  },
+  {
+    "title": "Harakiri",
+    "year": 1962,
+    "director": [
+        "Masaki Kobayashi"
+    ],
+    "clip": "clips/movie5.mp4",
+    "genre": [
+      "History",
+      "Drama",
+      "Action"
+    ],
+    "length": 135,
+    "rating": 0,
+    "synopsis": "Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku—and a worthy second to deliver the coup de grâce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin’s resolve and integrity, suspecting Hanshirō of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code."
+  },
+  {
+    "title": "Memories of Murder",
+    "year": 2003,
+    "director": [
+        "Bong Joon Ho"
+    ],
+    "clip": "clips/movie6.mp4",
+    "genre": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "length": 131,
+    "rating": 1,
+    "synopsis": "During the late 1980s, two detectives in a South Korean province attempt to solve the nation's first series of rape-and-murder cases."
+  },
+  {
+    "title": "The Sea of Trees",
+    "year": 2015,
+    "director": [
+        "Gus Van Sant"
+    ],
+    "clip": "clips/movie7.mp4",
+    "genre": [
+      "Drama"
+    ],
+    "length": 110,
+    "rating": 2,
+    "synopsis": "In Japan's Aokigahara Forest, a troubled teacher meets a mysterious lost stranger who takes him on a life-changing journey of love and redemption."
+  },
+  {
+    "title": "Portrait of a Lady on Fire",
+    "year": 2019,
+    "director": [
+        "Céline Sciamma"
+    ],
+    "clip": "clips/movie8.mp4",
+    "genre": [
+      "Drama",
+      "Romance",
+      "History"
+    ],
+    "length": 121,
+    "rating": 1,
+    "synopsis": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman."
   }
 ]
