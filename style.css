@@ -1,16 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Workbench:BLED,SCAN@0..100,0..100&display=swap');
 
+:root {
+	--bg-color: #222323;
+	--text-color: #f0f6f0;
+	--border-color: #3e4040;
+	--accent-color: rgb(255, 191, 0);
+}
+
 body {
 	font-family: "Arial";
-	background-color: #222323;
-	color: #f0f6f0;
+	background-color: var(--bg-color);
+	color: var(--text-color);
 	margin: 2rem;
+	background-image: url("data:image/svg+xml;utf8,\<svg xmlns='http://www.w3.org/2000/svg' width='50' height='50' fill='%233e4040'>\<text x='10' y='14' font-size='14' text-anchor='middle'>.</text>\</svg>");
+	background-repeat: repeat;
 }
 
 #movies {
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-	/* grid-auto-rows: minmax(300px, auto); */
+	grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
 	column-gap: 2rem;
 	row-gap: 2rem;
 }
@@ -27,13 +35,13 @@ h3 {
 }
 
 h1 {
-	font-size: 160px;
+	font-size: clamp(7.5rem, 10vw, 12rem);
 	font-family: "Workbench", sans-serif;
-	font-variation-settings: 
-		"BLED" 0,   /* bleed */
-		"SCAN" 20;    /* scanlines */
-	margin-block-start: 0em;
-	margin-block-end: 0.1em;
+	font-variation-settings:
+		"BLED" 0,
+		"SCAN" 20;
+	margin-block-start: 0.03em;
+	margin-block-end: 0;
 }
 
 .movie {
@@ -42,12 +50,10 @@ h1 {
 	overflow: hidden;
 	transition: background-color 0.2s;
 	transition: opacity 0.2s;
-	/* background-color: #EFEFEF; */
 	border: solid;
-	border-color: #222323;
+	border-color: var(--bg-color);
 	border-width: 1px;
 	padding: 20px;
-	/* border-radius: 10px; */
 }
 
 .movie-video {
@@ -55,9 +61,7 @@ h1 {
 	display: block;
 	filter: grayscale(100%);
 	transition: filter 0.2s;
-	/* opacity: 0.1;
-  transition: opacity 0.3s; */
-	pointer-events: none; /* ensures no right-click menu, no controls */
+	pointer-events: none;
 	opacity: 0.5;
 	transition: opacity 0.2s;
 }
@@ -67,6 +71,7 @@ h1 {
 	align-items: center;
 	justify-content: center;
 	aspect-ratio: 1.8 / 1;
+	padding-top: 20px;
 }
 
 .movie:hover .movie-video {
@@ -75,12 +80,69 @@ h1 {
 }
 
 .movie:hover {
-	background-color: #222323;
-	border-color: #333;
+	/* background-color: var(--bg-color); */
+	border-color: var(--border-color);
 	opacity: 1.0;
 }
 
 .movie-info {
 	display:flex;
+	align-items: center;
 	gap:10px;
+}
+
+.header {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 20px;
+}
+
+.filters {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	position: sticky;
+	top: 0;
+	background: #222323;
+	z-index: 10;
+	margin-bottom: 20px;
+	gap: 10px;
+}
+
+input[type=text] {
+	background-color: var(--bg-color);
+	color: var(--text-color);
+	border: 1px solid var(--border-color);
+	width: 300px;
+	padding: 12px;
+	margin: 10px 30px 10px 0px;
+	box-sizing: border-box;
+	outline: none;
+}
+
+input[type=text]:focus {
+	border: 1px solid var(--accent-color);
+}
+
+input[type=text]:hover {
+	border: 1px solid var(--accent-color);
+}
+
+select {
+	appearance: none;
+	padding: 12px;
+	border: 1px solid var(--border-color);
+	background-color: var(--bg-color);
+	outline: none;
+	color: var(--text-color);
+}
+
+select:hover {
+	background-color: var(--accent-color);
+	color: var(--bg-color);
+	border: 1px solid var(--accent-color);
+}
+
+.star {
+	color: var(--accent-color);
 }
