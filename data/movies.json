@@ -1,124 +1,3666 @@
 [
-  {
-    "title": "Paris, Texas",
-    "year": 1984,
-    "director": [
-        "Wim Wenders"
-    ],
-    "clip": "clips/movie1.mp4",
-    "genre": [
-      "Drama"
-    ],
-    "length": 145,
-    "rating": 1,
-    "synopsis": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier."
-  }, 
-  {
-    "title": "Ad Astra",
-    "year": 2019,
-    "director": [
-        "James Gray"
-    ],
-    "clip": "clips/movie2.mp4",
-    "genre": [
-      "Science Fiction",
-      "Drama"
-    ],
-    "length": 123,
-    "rating": 1,
-    "synopsis": "The near future, a time when both hope and hardships drive humanity to look to the stars and beyond. While a mysterious phenomenon menaces to destroy life on planet Earth, astronaut Roy McBride undertakes a mission across the immensity of space and its many perils to uncover the truth about a lost expedition that decades before boldly faced emptiness and silence in search of the unknown."
-  },
-  {
-    "title": "Blood Simple",
-    "year": 1984,
-    "director": [
-        "Joel Coen"
-    ],
-    "clip": "clips/movie3.mp4",
-    "genre": [
-      "Thriller",
-      "Crime",
-      "Drama"
-    ],
-    "length": 97,
-    "rating": 0,
-    "synopsis": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered."
-  },
-  {
-    "title": "The Assassination of Jesse James by the Coward Robert Ford",
-    "year": 2007,
-    "director": [
-        "Andrew Dominik"
-    ],
-    "clip": "clips/movie4.mp4",
-    "genre": [
-      "Drama",
-      "Western"
-    ],
-    "length": 159,
-    "rating": 1,
-    "synopsis": "Outlaw Jesse James is rumored to be the ‘fastest gun in the West’. An eager recruit into James’ notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status."
-  },
-  {
-    "title": "Harakiri",
-    "year": 1962,
-    "director": [
-        "Masaki Kobayashi"
-    ],
-    "clip": "clips/movie5.mp4",
-    "genre": [
-      "History",
-      "Drama",
-      "Action"
-    ],
-    "length": 135,
-    "rating": 0,
-    "synopsis": "Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku—and a worthy second to deliver the coup de grâce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin’s resolve and integrity, suspecting Hanshirō of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code."
-  },
-  {
-    "title": "Memories of Murder",
-    "year": 2003,
-    "director": [
-        "Bong Joon Ho"
-    ],
-    "clip": "clips/movie6.mp4",
-    "genre": [
-      "Thriller",
-      "Crime",
-      "Drama"
-    ],
-    "length": 131,
-    "rating": 1,
-    "synopsis": "During the late 1980s, two detectives in a South Korean province attempt to solve the nation's first series of rape-and-murder cases."
-  },
-  {
-    "title": "The Sea of Trees",
-    "year": 2015,
-    "director": [
-        "Gus Van Sant"
-    ],
-    "clip": "clips/movie7.mp4",
-    "genre": [
-      "Drama"
-    ],
-    "length": 110,
-    "rating": 2,
-    "synopsis": "In Japan's Aokigahara Forest, a troubled teacher meets a mysterious lost stranger who takes him on a life-changing journey of love and redemption."
-  },
-  {
-    "title": "Portrait of a Lady on Fire",
-    "year": 2019,
-    "director": [
-        "Céline Sciamma"
-    ],
-    "clip": "clips/movie8.mp4",
-    "genre": [
-      "Drama",
-      "Romance",
-      "History"
-    ],
-    "length": 121,
-    "rating": 1,
-    "synopsis": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman."
-  }
+	{
+		"title": "Paris, Texas",
+		"year": 1984,
+		"director": [
+			"Wim Wenders"
+		],
+		"clip": "clips/movie1.mp4",
+		"genre": [],
+		"length": 145,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Ad Astra",
+		"year": 2019,
+		"director": [
+			"James Gray"
+		],
+		"clip": "clips/movie2.mp4",
+		"genre": [],
+		"length": 123,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Blood Simple",
+		"year": 1984,
+		"director": [
+			"Joel Coen"
+		],
+		"clip": "clips/movie3.mp4",
+		"genre": [],
+		"length": 97,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Assassination of Jesse James by the Coward Robert Ford",
+		"year": 2007,
+		"director": [
+			"Andrew Dominik"
+		],
+		"clip": "clips/movie4.mp4",
+		"genre": [],
+		"length": 159,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Harakiri",
+		"year": 1962,
+		"director": [
+			"Masaki Kobayashi"
+		],
+		"clip": "clips/movie5.mp4",
+		"genre": [],
+		"length": 135,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Memories of Murder",
+		"year": 2003,
+		"director": [
+			"Bong Joon Ho"
+		],
+		"clip": "clips/movie6.mp4",
+		"genre": [],
+		"length": 131,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Sea of Trees",
+		"year": 2015,
+		"director": [
+			"Gus Van Sant"
+		],
+		"clip": "clips/movie7.mp4",
+		"genre": [],
+		"length": 110,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "Portrait of a Lady on Fire",
+		"year": 2019,
+		"director": [
+			"Céline Sciamma"
+		],
+		"clip": "clips/movie8.mp4",
+		"genre": [],
+		"length": 121,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Perfect Days",
+		"year": 2023,
+		"director": [
+			"Wim Wenders"
+		],
+		"clip": "clips/movie9.mp4",
+		"genre": [],
+		"length": 124,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "Prospect",
+		"year": 2018,
+		"director": [
+			"Zeek Earl",
+			"Christopher Caldwell"
+		],
+		"clip": "clips/movie10.mp4",
+		"genre": [],
+		"length": 98,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Godland",
+		"year": 2022,
+		"director": [
+			"Hlynur Pálmason"
+		],
+		"clip": "clips/movie11.mp4",
+		"genre": [],
+		"length": 143,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Kingdom of Heaven",
+		"year": 2005,
+		"director": [
+			"Ridley Scott"
+		],
+		"clip": "clips/movie12.mp4",
+		"genre": [],
+		"length": 144,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Fall",
+		"year": 2006,
+		"director": [
+			"Tarsem Singh"
+		],
+		"clip": "clips/movie13.mp4",
+		"genre": [],
+		"length": 119,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "Hero",
+		"year": 2002,
+		"director": [
+			"Zhang Yimou"
+		],
+		"clip": "clips/movie14.mp4",
+		"genre": [],
+		"length": 99,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Road to Perdition",
+		"year": 2002,
+		"director": [
+			"Sam Mendes"
+		],
+		"clip": "clips/movie15.mp4",
+		"genre": [],
+		"length": 117,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Master and Commander − The Far Side of the World",
+		"year": 2003,
+		"director": [
+			"Peter Weir"
+		],
+		"clip": "clips/movie16.mp4",
+		"genre": [],
+		"length": 138,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Road",
+		"year": 2009,
+		"director": [
+			"John Hillcoat"
+		],
+		"clip": "clips/movie17.mp4",
+		"genre": [],
+		"length": 111,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Decision to Leave",
+		"year": 2022,
+		"director": [
+			"Park Chan-wook"
+		],
+		"clip": "clips/movie18.mp4",
+		"genre": [],
+		"length": 138,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "A Single Man",
+		"year": 2009,
+		"director": [
+			"Tom Ford"
+		],
+		"clip": "clips/movie19.mp4",
+		"genre": [],
+		"length": 101,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Beast",
+		"year": 2023,
+		"director": [
+			"Bertrand Bonello"
+		],
+		"clip": "clips/movie20.mp4",
+		"genre": [],
+		"length": 146,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The English Patient",
+		"year": 1996,
+		"director": [
+			"Anthony Minghella"
+		],
+		"clip": "clips/movie21.mp4",
+		"genre": [],
+		"length": 162,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Chungking Express",
+		"year": 1994,
+		"director": [
+			"Wong Kar-Wai"
+		],
+		"clip": "clips/movie22.mp4",
+		"genre": [],
+		"length": 103,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Sunshine",
+		"year": 2007,
+		"director": [
+			"Danny Boyle"
+		],
+		"clip": "clips/movie23.mp4",
+		"genre": [],
+		"length": 107,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "Jojo Rabbit",
+		"year": 2019,
+		"director": [
+			"Taika Waititi"
+		],
+		"clip": "clips/movie24.mp4",
+		"genre": [],
+		"length": 108,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "Ran",
+		"year": 1985,
+		"director": [
+			"Akira Kurosawa"
+		],
+		"clip": "clips/movie25.mp4",
+		"genre": [],
+		"length": 160,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Macbeth",
+		"year": 2015,
+		"director": [
+			"Justin Kurzel"
+		],
+		"clip": "clips/movie26.mp4",
+		"genre": [],
+		"length": 113,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Last Night in Soho",
+		"year": 2021,
+		"director": [
+			"Edgar Wright"
+		],
+		"clip": "clips/movie27.mp4",
+		"genre": [],
+		"length": 116,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "A Ghost Story",
+		"year": 2017,
+		"director": [
+			"David Lowery"
+		],
+		"clip": "clips/movie28.mp4",
+		"genre": [],
+		"length": 93,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "TÁR",
+		"year": 2022,
+		"director": [
+			"Todd Field"
+		],
+		"clip": "clips/movie29.mp4",
+		"genre": [],
+		"length": 158,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "Steve Jobs",
+		"year": 2015,
+		"director": [
+			"Danny Boyle"
+		],
+		"clip": "clips/movie30.mp4",
+		"genre": [],
+		"length": 122,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Civil War",
+		"year": 2024,
+		"director": [
+			"Alex Garland"
+		],
+		"clip": "clips/movie31.mp4",
+		"genre": [],
+		"length": 109,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Holdovers",
+		"year": 2023,
+		"director": [
+			"Alexander Payne"
+		],
+		"clip": "clips/movie32.mp4",
+		"genre": [],
+		"length": 133,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Lost City of Z",
+		"year": 2016,
+		"director": [
+			"James Gray"
+		],
+		"clip": "clips/movie33.mp4",
+		"genre": [],
+		"length": 141,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Enemy",
+		"year": 2013,
+		"director": [
+			"Denis Villeneuve"
+		],
+		"clip": "clips/movie34.mp4",
+		"genre": [],
+		"length": 91,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Medusa Deluxe",
+		"year": 2022,
+		"director": [
+			"Thomas Hardiman"
+		],
+		"clip": "clips/movie35.mp4",
+		"genre": [],
+		"length": 101,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "In the Mood for Love",
+		"year": 2000,
+		"director": [
+			"Wong Kar-Wai"
+		],
+		"clip": "clips/movie36.mp4",
+		"genre": [],
+		"length": 98,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Village",
+		"year": 2004,
+		"director": [
+			"M. Night Shyamalan"
+		],
+		"clip": "clips/movie37.mp4",
+		"genre": [],
+		"length": 108,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "I'm Thinking of Ending Things",
+		"year": 2020,
+		"director": [
+			"Charlie Kaufman"
+		],
+		"clip": "clips/movie38.mp4",
+		"genre": [],
+		"length": 135,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "After Yang",
+		"year": 2021,
+		"director": [
+			"Kogonada"
+		],
+		"clip": "clips/movie39.mp4",
+		"genre": [],
+		"length": 96,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Light of My Life",
+		"year": 2019,
+		"director": [
+			"Casey Affleck"
+		],
+		"clip": "clips/movie40.mp4",
+		"genre": [],
+		"length": 119,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Conclave",
+		"year": 2024,
+		"director": [
+			"Edward Berger"
+		],
+		"clip": "clips/movie41.mp4",
+		"genre": [],
+		"length": 120,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Imitation Game",
+		"year": 2014,
+		"director": [
+			"Morten Tyldum"
+		],
+		"clip": "clips/movie42.mp4",
+		"genre": [],
+		"length": 113,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Beyond the Black Rainbow",
+		"year": 2010,
+		"director": [
+			"Panos Cosmatos"
+		],
+		"clip": "clips/movie43.mp4",
+		"genre": [],
+		"length": 110,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Drive My Car",
+		"year": 2021,
+		"director": [
+			"Ryūsuke Hamaguchi"
+		],
+		"clip": "clips/movie44.mp4",
+		"genre": [],
+		"length": 179,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "High Life",
+		"year": 2018,
+		"director": [
+			"Claire Denis"
+		],
+		"clip": "clips/movie45.mp4",
+		"genre": [],
+		"length": 113,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Sidewalls",
+		"year": 2011,
+		"director": [
+			"Gustavo Taretto"
+		],
+		"clip": "clips/movie46.mp4",
+		"genre": [],
+		"length": 94,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Sometimes I Think About Dying",
+		"year": 2023,
+		"director": [
+			"Rachel Lambert"
+		],
+		"clip": "clips/movie47.mp4",
+		"genre": [],
+		"length": 94,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "All the President's Men",
+		"year": 1976,
+		"director": [
+			"Alan J. Pakula"
+		],
+		"clip": "clips/movie48.mp4",
+		"genre": [],
+		"length": 138,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The King",
+		"year": 2019,
+		"director": [
+			"David Michôd"
+		],
+		"clip": "clips/movie49.mp4",
+		"genre": [],
+		"length": 140,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Tuesday",
+		"year": 2023,
+		"director": [
+			"Daina Oniunas-Pusić"
+		],
+		"clip": "clips/movie50.mp4",
+		"genre": [],
+		"length": 111,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Jackie",
+		"year": 2016,
+		"director": [
+			"Pablo Larraín"
+		],
+		"clip": "clips/movie51.mp4",
+		"genre": [],
+		"length": 100,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Caddo Lake",
+		"year": 2024,
+		"director": [
+			"Celine Held",
+			"Logan George"
+		],
+		"clip": "clips/movie52.mp4",
+		"genre": [],
+		"length": 103,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "EO",
+		"year": 2022,
+		"director": [
+			"Jerzy Skolimowski"
+		],
+		"clip": "clips/movie53.mp4",
+		"genre": [],
+		"length": 88,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Man Who Killed Don Quixote",
+		"year": 2018,
+		"director": [
+			"Terry Gilliam"
+		],
+		"clip": "clips/movie54.mp4",
+		"genre": [],
+		"length": 133,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Small Things Like These",
+		"year": 2024,
+		"director": [
+			"Tim Mielants"
+		],
+		"clip": "clips/movie55.mp4",
+		"genre": [],
+		"length": 99,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Favourite",
+		"year": 2018,
+		"director": [
+			"Yorgos Lanthimos"
+		],
+		"clip": "clips/movie56.mp4",
+		"genre": [],
+		"length": 120,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Terminal",
+		"year": 2018,
+		"director": [
+			"Vaughn Stein"
+		],
+		"clip": "clips/movie57.mp4",
+		"genre": [],
+		"length": 95,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Cure",
+		"year": 1997,
+		"director": [
+			"Kiyoshi Kurosawa"
+		],
+		"clip": "clips/movie58.mp4",
+		"genre": [],
+		"length": 112,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Mission to Mars",
+		"year": 2000,
+		"director": [
+			"Brian De Palma"
+		],
+		"clip": "clips/movie59.mp4",
+		"genre": [],
+		"length": 114,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Mission",
+		"year": 1986,
+		"director": [
+			"Roland Joffé"
+		],
+		"clip": "clips/movie60.mp4",
+		"genre": [],
+		"length": 126,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Double",
+		"year": 2013,
+		"director": [
+			"Richard Ayoade"
+		],
+		"clip": "clips/movie61.mp4",
+		"genre": [],
+		"length": 93,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "tick, tick... BOOM!",
+		"year": 2021,
+		"director": [
+			"Lin-Manuel Miranda"
+		],
+		"clip": "clips/movie62.mp4",
+		"genre": [],
+		"length": 115,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "I Saw the TV Glow",
+		"year": 2024,
+		"director": [
+			"Jane Schoenbrun"
+		],
+		"clip": "clips/movie63.mp4",
+		"genre": [],
+		"length": 100,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "La Chimera",
+		"year": 2023,
+		"director": [
+			"Alice Rohrwacher"
+		],
+		"clip": "clips/movie64.mp4",
+		"genre": [],
+		"length": 131,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "October Sky",
+		"year": 1999,
+		"director": [
+			"Joe Johnston"
+		],
+		"clip": "clips/movie65.mp4",
+		"genre": [],
+		"length": 108,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Shadow",
+		"year": 2018,
+		"director": [
+			"Zhang Yimou"
+		],
+		"clip": "clips/movie66.mp4",
+		"genre": [],
+		"length": 116,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Last Emperor",
+		"year": 1987,
+		"director": [
+			"Bernardo Bertolucci"
+		],
+		"clip": "clips/movie67.mp4",
+		"genre": [],
+		"length": 163,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Columbus",
+		"year": 2017,
+		"director": [
+			"Kogonada"
+		],
+		"clip": "clips/movie68.mp4",
+		"genre": [],
+		"length": 104,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "Black Rain",
+		"year": 1989,
+		"director": [
+			"Ridley Scott"
+		],
+		"clip": "clips/movie69.mp4",
+		"genre": [],
+		"length": 125,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Society of the Snow",
+		"year": 2023,
+		"director": [
+			"J.A. Bayona"
+		],
+		"clip": "clips/movie70.mp4",
+		"genre": [],
+		"length": 144,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Strange Days",
+		"year": 1995,
+		"director": [
+			"Kathryn Bigelow"
+		],
+		"clip": "clips/movie71.mp4",
+		"genre": [],
+		"length": 145,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Novice",
+		"year": 2021,
+		"director": [
+			"Lauren Hadaway"
+		],
+		"clip": "clips/movie72.mp4",
+		"genre": [],
+		"length": 94,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Timecrimes",
+		"year": 2007,
+		"director": [
+			"Nacho Vigalondo"
+		],
+		"clip": "clips/movie73.mp4",
+		"genre": [],
+		"length": 92,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Primal Fear",
+		"year": 1996,
+		"director": [
+			"Gregory Hoblit"
+		],
+		"clip": "clips/movie74.mp4",
+		"genre": [],
+		"length": 129,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Bad Times at the El Royale",
+		"year": 2018,
+		"director": [
+			"Drew Goddard"
+		],
+		"clip": "clips/movie75.mp4",
+		"genre": [],
+		"length": 141,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Suspiria",
+		"year": 1977,
+		"director": [
+			"Dario Argento"
+		],
+		"clip": "clips/movie76.mp4",
+		"genre": [],
+		"length": 99,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Predestination",
+		"year": 2014,
+		"director": [
+			"Peter Spierig",
+			"Michael Spierig"
+		],
+		"clip": "clips/movie77.mp4",
+		"genre": [],
+		"length": 98,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Six-String Samurai",
+		"year": 1998,
+		"director": [
+			"Lance Mungia"
+		],
+		"clip": "clips/movie78.mp4",
+		"genre": [],
+		"length": 91,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Amsterdam",
+		"year": 2022,
+		"director": [
+			"David O. Russell"
+		],
+		"clip": "clips/movie79.mp4",
+		"genre": [],
+		"length": 134,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Baraka",
+		"year": 1992,
+		"director": [
+			"Ron Fricke"
+		],
+		"clip": "clips/movie80.mp4",
+		"genre": [],
+		"length": 97,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Fire of Love",
+		"year": 2022,
+		"director": [
+			"Sara Dosa"
+		],
+		"clip": "clips/movie81.mp4",
+		"genre": [],
+		"length": 93,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Three Colours − Blue",
+		"year": 1993,
+		"director": [
+			"Krzysztof Kieślowski"
+		],
+		"clip": "clips/movie82.mp4",
+		"genre": [],
+		"length": 98,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Thunder Road",
+		"year": 2018,
+		"director": [
+			"Jim Cummings"
+		],
+		"clip": "clips/movie83.mp4",
+		"genre": [],
+		"length": 90,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Fallen Angels",
+		"year": 1995,
+		"director": [
+			"Wong Kar-Wai"
+		],
+		"clip": "clips/movie84.mp4",
+		"genre": [],
+		"length": 98,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Eddie the Eagle",
+		"year": 2015,
+		"director": [
+			"Dexter Fletcher"
+		],
+		"clip": "clips/movie85.mp4",
+		"genre": [],
+		"length": 106,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Persona",
+		"year": 1966,
+		"director": [
+			"Ingmar Bergman"
+		],
+		"clip": "clips/movie86.mp4",
+		"genre": [],
+		"length": 84,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "On Body and Soul",
+		"year": 2017,
+		"director": [
+			"Ildikó Enyedi"
+		],
+		"clip": "clips/movie87.mp4",
+		"genre": [],
+		"length": 116,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Cube",
+		"year": 1997,
+		"director": [
+			"Vincenzo Natali"
+		],
+		"clip": "clips/movie88.mp4",
+		"genre": [],
+		"length": 90,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Buster's Mal Heart",
+		"year": 2016,
+		"director": [
+			"Sarah Adina Smith"
+		],
+		"clip": "clips/movie89.mp4",
+		"genre": [],
+		"length": 96,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The 13th Warrior",
+		"year": 1999,
+		"director": [
+			"John McTiernan"
+		],
+		"clip": "clips/movie90.mp4",
+		"genre": [],
+		"length": 102,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Mad Max − Fury Road",
+		"year": 2015,
+		"director": [
+			"George Miller"
+		],
+		"clip": "clips/movie91.mp4",
+		"genre": [],
+		"length": 121,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Glass Onion",
+		"year": 2022,
+		"director": [
+			"Rian Johnson"
+		],
+		"clip": "clips/movie92.mp4",
+		"genre": [],
+		"length": 140,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Upstream Color",
+		"year": 2013,
+		"director": [
+			"Shane Carruth"
+		],
+		"clip": "clips/movie93.mp4",
+		"genre": [],
+		"length": 96,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Equals",
+		"year": 2015,
+		"director": [
+			"Drake Doremus"
+		],
+		"clip": "clips/movie94.mp4",
+		"genre": [],
+		"length": 102,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Samsara",
+		"year": 2011,
+		"director": [
+			"Ron Fricke"
+		],
+		"clip": "clips/movie95.mp4",
+		"genre": [],
+		"length": 102,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Flow",
+		"year": 2024,
+		"director": [
+			"Gints Zilbalodis"
+		],
+		"clip": "clips/movie96.mp4",
+		"genre": [],
+		"length": 85,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "Jarhead",
+		"year": 2005,
+		"director": [
+			"Sam Mendes"
+		],
+		"clip": "clips/movie97.mp4",
+		"genre": [],
+		"length": 123,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Spotlight",
+		"year": 2015,
+		"director": [
+			"Tom McCarthy"
+		],
+		"clip": "clips/movie98.mp4",
+		"genre": [],
+		"length": 129,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "First Reformed",
+		"year": 2017,
+		"director": [
+			"Paul Schrader"
+		],
+		"clip": "clips/movie99.mp4",
+		"genre": [],
+		"length": 113,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Lost River",
+		"year": 2014,
+		"director": [
+			"Ryan Gosling"
+		],
+		"clip": "clips/movie100.mp4",
+		"genre": [],
+		"length": 95,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "A Real Pain",
+		"year": 2024,
+		"director": [
+			"Jesse Eisenberg"
+		],
+		"clip": "clips/movie101.mp4",
+		"genre": [],
+		"length": 90,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Eastern Promises",
+		"year": 2007,
+		"director": [
+			"David Cronenberg"
+		],
+		"clip": "clips/movie102.mp4",
+		"genre": [],
+		"length": 101,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Win Win",
+		"year": 2011,
+		"director": [
+			"Tom McCarthy"
+		],
+		"clip": "clips/movie103.mp4",
+		"genre": [],
+		"length": 106,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Rushmore",
+		"year": 1998,
+		"director": [
+			"Wes Anderson"
+		],
+		"clip": "clips/movie104.mp4",
+		"genre": [],
+		"length": 93,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "I Don't Feel at Home in This World Anymore",
+		"year": 2017,
+		"director": [
+			"Macon Blair"
+		],
+		"clip": "clips/movie105.mp4",
+		"genre": [],
+		"length": 96,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Paprika",
+		"year": 2006,
+		"director": [
+			"Satoshi Kon"
+		],
+		"clip": "clips/movie106.mp4",
+		"genre": [],
+		"length": 90,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Le Samouraï",
+		"year": 1967,
+		"director": [
+			"Jean-Pierre Melville"
+		],
+		"clip": "clips/movie107.mp4",
+		"genre": [],
+		"length": 105,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Rover",
+		"year": 2014,
+		"director": [
+			"David Michôd"
+		],
+		"clip": "clips/movie108.mp4",
+		"genre": [],
+		"length": 103,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Art of Self-Defense",
+		"year": 2019,
+		"director": [
+			"Riley Stearns"
+		],
+		"clip": "clips/movie109.mp4",
+		"genre": [],
+		"length": 104,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Power of the Dog",
+		"year": 2021,
+		"director": [
+			"Jane Campion"
+		],
+		"clip": "clips/movie110.mp4",
+		"genre": [],
+		"length": 127,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Akira",
+		"year": 1988,
+		"director": [
+			"Katsuhiro Otomo"
+		],
+		"clip": "clips/movie111.mp4",
+		"genre": [],
+		"length": 124,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "A Perfect Day",
+		"year": 2015,
+		"director": [
+			"Fernando León de Aranoa"
+		],
+		"clip": "clips/movie112.mp4",
+		"genre": [],
+		"length": 106,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Monkey Man",
+		"year": 2024,
+		"director": [
+			"Dev Patel"
+		],
+		"clip": "clips/movie113.mp4",
+		"genre": [],
+		"length": 121,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Vanishing",
+		"year": 1988,
+		"director": [
+			"George Sluizer"
+		],
+		"clip": "clips/movie114.mp4",
+		"genre": [],
+		"length": 106,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "Pawn Sacrifice",
+		"year": 2014,
+		"director": [
+			"Edward Zwick"
+		],
+		"clip": "clips/movie115.mp4",
+		"genre": [],
+		"length": 115,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Carol",
+		"year": 2015,
+		"director": [
+			"Todd Haynes"
+		],
+		"clip": "clips/movie116.mp4",
+		"genre": [],
+		"length": 118,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Blue Ruin",
+		"year": 2013,
+		"director": [
+			"Jeremy Saulnier"
+		],
+		"clip": "clips/movie117.mp4",
+		"genre": [],
+		"length": 91,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Calvary",
+		"year": 2014,
+		"director": [
+			"John Michael McDonagh"
+		],
+		"clip": "clips/movie118.mp4",
+		"genre": [],
+		"length": 102,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "A Most Wanted Man",
+		"year": 2014,
+		"director": [
+			"Anton Corbijn"
+		],
+		"clip": "clips/movie119.mp4",
+		"genre": [],
+		"length": 121,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Godzilla Minus One",
+		"year": 2023,
+		"director": [
+			"Takashi Yamazaki"
+		],
+		"clip": "clips/movie120.mp4",
+		"genre": [],
+		"length": 124,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Sisters Brothers",
+		"year": 2018,
+		"director": [
+			"Jacques Audiard"
+		],
+		"clip": "clips/movie121.mp4",
+		"genre": [],
+		"length": 121,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Hunt",
+		"year": 2012,
+		"director": [
+			"Thomas Vinterberg"
+		],
+		"clip": "clips/movie122.mp4",
+		"genre": [],
+		"length": 116,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Evil Does Not Exist",
+		"year": 2023,
+		"director": [
+			"Ryūsuke Hamaguchi"
+		],
+		"clip": "clips/movie123.mp4",
+		"genre": [],
+		"length": 106,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Good Time",
+		"year": 2017,
+		"director": [
+			"Benny Safdie",
+			"Josh Safdie"
+		],
+		"clip": "clips/movie124.mp4",
+		"genre": [],
+		"length": 102,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "River",
+		"year": 2023,
+		"director": [
+			"Junta Yamaguchi"
+		],
+		"clip": "clips/movie125.mp4",
+		"genre": [],
+		"length": 86,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Problemista",
+		"year": 2023,
+		"director": [
+			"Julio Torres"
+		],
+		"clip": "clips/movie126.mp4",
+		"genre": [],
+		"length": 104,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Red Desert",
+		"year": 1964,
+		"director": [
+			"Michelangelo Antonioni"
+		],
+		"clip": "clips/movie127.mp4",
+		"genre": [],
+		"length": 117,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Assassin",
+		"year": 2015,
+		"director": [
+			"Hou Hsiao-hsien"
+		],
+		"clip": "clips/movie128.mp4",
+		"genre": [],
+		"length": 105,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Koyaanisqatsi",
+		"year": 1982,
+		"director": [
+			"Godfrey Reggio"
+		],
+		"clip": "clips/movie129.mp4",
+		"genre": [],
+		"length": 86,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Living",
+		"year": 2022,
+		"director": [
+			"Oliver Hermanus"
+		],
+		"clip": "clips/movie130.mp4",
+		"genre": [],
+		"length": 102,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Maborosi",
+		"year": 1995,
+		"director": [
+			"Hirokazu Kore-eda"
+		],
+		"clip": "clips/movie131.mp4",
+		"genre": [],
+		"length": 110,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Being John Malkovich",
+		"year": 1999,
+		"director": [
+			"Spike Jonze"
+		],
+		"clip": "clips/movie132.mp4",
+		"genre": [],
+		"length": 113,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Tragedy of Macbeth",
+		"year": 2021,
+		"director": [
+			"Joel Coen"
+		],
+		"clip": "clips/movie133.mp4",
+		"genre": [],
+		"length": 105,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Count of Monte Cristo",
+		"year": 2024,
+		"director": [
+			"Alexandre de La Patellière",
+			"Matthieu Delaporte"
+		],
+		"clip": "clips/movie134.mp4",
+		"genre": [],
+		"length": 178,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Violet",
+		"year": 2014,
+		"director": [
+			"Bas Devos"
+		],
+		"clip": "clips/movie135.mp4",
+		"genre": [],
+		"length": 85,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Punch-Drunk Love",
+		"year": 2002,
+		"director": [
+			"Paul Thomas Anderson"
+		],
+		"clip": "clips/movie136.mp4",
+		"genre": [],
+		"length": 96,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Midnight Special",
+		"year": 2016,
+		"director": [
+			"Jeff Nichols"
+		],
+		"clip": "clips/movie137.mp4",
+		"genre": [],
+		"length": 112,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Another Earth",
+		"year": 2011,
+		"director": [
+			"Mike Cahill"
+		],
+		"clip": "clips/movie138.mp4",
+		"genre": [],
+		"length": 92,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Titane",
+		"year": 2021,
+		"director": [
+			"Julia Ducournau"
+		],
+		"clip": "clips/movie139.mp4",
+		"genre": [],
+		"length": 108,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Heroic Purgatory",
+		"year": 1970,
+		"director": [
+			"Yoshishige Yoshida"
+		],
+		"clip": "clips/movie140.mp4",
+		"genre": [],
+		"length": 118,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Woodshock",
+		"year": 2017,
+		"director": [
+			"Kate Mulleavy",
+			"Laura Mulleavy"
+		],
+		"clip": "clips/movie141.mp4",
+		"genre": [],
+		"length": 100,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Perfect Blue",
+		"year": 1997,
+		"director": [
+			"Satoshi Kon"
+		],
+		"clip": "clips/movie142.mp4",
+		"genre": [],
+		"length": 82,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Farewell",
+		"year": 2019,
+		"director": [
+			"Lulu Wang"
+		],
+		"clip": "clips/movie143.mp4",
+		"genre": [],
+		"length": 100,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Ashes of Time",
+		"year": 1994,
+		"director": [
+			"Wong Kar-Wai"
+		],
+		"clip": "clips/movie144.mp4",
+		"genre": [],
+		"length": 100,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Wolf of Snow Hollow",
+		"year": 2020,
+		"director": [
+			"Jim Cummings"
+		],
+		"clip": "clips/movie145.mp4",
+		"genre": [],
+		"length": 85,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Wild",
+		"year": 2014,
+		"director": [
+			"Jean-Marc Vallée"
+		],
+		"clip": "clips/movie146.mp4",
+		"genre": [],
+		"length": 115,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Daisies",
+		"year": 1966,
+		"director": [
+			"Věra Chytilová"
+		],
+		"clip": "clips/movie147.mp4",
+		"genre": [],
+		"length": 76,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Good One",
+		"year": 2024,
+		"director": [
+			"India Donaldson"
+		],
+		"clip": "clips/movie148.mp4",
+		"genre": [],
+		"length": 90,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Mishima − A Life in Four Chapters",
+		"year": 1985,
+		"director": [
+			"Paul Schrader"
+		],
+		"clip": "clips/movie149.mp4",
+		"genre": [],
+		"length": 121,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Showing Up",
+		"year": 2022,
+		"director": [
+			"Kelly Reichardt"
+		],
+		"clip": "clips/movie150.mp4",
+		"genre": [],
+		"length": 108,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Ashes and Snow",
+		"year": 2005,
+		"director": [
+			"Gregory Colbert"
+		],
+		"clip": "clips/movie151.mp4",
+		"genre": [],
+		"length": 62,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Empire of Light",
+		"year": 2022,
+		"director": [
+			"Sam Mendes"
+		],
+		"clip": "clips/movie152.mp4",
+		"genre": [],
+		"length": 115,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Bound",
+		"year": 1996,
+		"director": [
+			"Lilly Wachowski",
+			"Lana Wachowski"
+		],
+		"clip": "clips/movie153.mp4",
+		"genre": [],
+		"length": 105,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Angel's Egg",
+		"year": 1985,
+		"director": [
+			"Mamoru Oshii"
+		],
+		"clip": "clips/movie154.mp4",
+		"genre": [],
+		"length": 73,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Long Day's Journey into Night",
+		"year": 2018,
+		"director": [
+			"Bi Gan"
+		],
+		"clip": "clips/movie155.mp4",
+		"genre": [],
+		"length": 138,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Lucy",
+		"year": 2014,
+		"director": [
+			"Luc Besson"
+		],
+		"clip": "clips/movie156.mp4",
+		"genre": [],
+		"length": 89,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "All Quiet on the Western Front",
+		"year": 2022,
+		"director": [
+			"Edward Berger"
+		],
+		"clip": "clips/movie157.mp4",
+		"genre": [],
+		"length": 147,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Stoker",
+		"year": 2013,
+		"director": [
+			"Park Chan-wook"
+		],
+		"clip": "clips/movie158.mp4",
+		"genre": [],
+		"length": 99,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Come True",
+		"year": 2020,
+		"director": [
+			"Anthony Scott Burns"
+		],
+		"clip": "clips/movie159.mp4",
+		"genre": [],
+		"length": 105,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Detachment",
+		"year": 2011,
+		"director": [
+			"Tony Kaye"
+		],
+		"clip": "clips/movie160.mp4",
+		"genre": [],
+		"length": 98,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Captain Fantastic",
+		"year": 2016,
+		"director": [
+			"Matt Ross"
+		],
+		"clip": "clips/movie161.mp4",
+		"genre": [],
+		"length": 118,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Silence",
+		"year": 2016,
+		"director": [
+			"Martin Scorsese"
+		],
+		"clip": "clips/movie162.mp4",
+		"genre": [],
+		"length": 161,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Mickey 17",
+		"year": 2025,
+		"director": [
+			"Bong Joon Ho"
+		],
+		"clip": "clips/movie163.mp4",
+		"genre": [],
+		"length": 137,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Assessment",
+		"year": 2024,
+		"director": [
+			"Fleur Fortuné"
+		],
+		"clip": "clips/movie164.mp4",
+		"genre": [],
+		"length": 114,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Contempt",
+		"year": 1963,
+		"director": [
+			"Jean-Luc Godard"
+		],
+		"clip": "clips/movie165.mp4",
+		"genre": [],
+		"length": 103,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Hand of God",
+		"year": 2021,
+		"director": [
+			"Paolo Sorrentino"
+		],
+		"clip": "clips/movie166.mp4",
+		"genre": [],
+		"length": 130,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Sicario",
+		"year": 2015,
+		"director": [
+			"Denis Villeneuve"
+		],
+		"clip": "clips/movie167.mp4",
+		"genre": [],
+		"length": 122,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Promised Land",
+		"year": 2023,
+		"director": [
+			"Nikolaj Arcel"
+		],
+		"clip": "clips/movie168.mp4",
+		"genre": [],
+		"length": 127,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Conversation",
+		"year": 1974,
+		"director": [
+			"Francis Ford Coppola"
+		],
+		"clip": "clips/movie169.mp4",
+		"genre": [],
+		"length": 114,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Flowers of War",
+		"year": 2011,
+		"director": [
+			"Zhang Yimou"
+		],
+		"clip": "clips/movie170.mp4",
+		"genre": [],
+		"length": 146,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Royal Tenenbaums",
+		"year": 2001,
+		"director": [
+			"Wes Anderson"
+		],
+		"clip": "clips/movie171.mp4",
+		"genre": [],
+		"length": 110,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Triangle of Sadness",
+		"year": 2022,
+		"director": [
+			"Ruben Östlund"
+		],
+		"clip": "clips/movie172.mp4",
+		"genre": [],
+		"length": 147,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Quiet Girl",
+		"year": 2022,
+		"director": [
+			"Colm Bairéad"
+		],
+		"clip": "clips/movie173.mp4",
+		"genre": [],
+		"length": 94,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "First Cow",
+		"year": 2019,
+		"director": [
+			"Kelly Reichardt"
+		],
+		"clip": "clips/movie174.mp4",
+		"genre": [],
+		"length": 122,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Past Lives",
+		"year": 2023,
+		"director": [
+			"Celine Song"
+		],
+		"clip": "clips/movie175.mp4",
+		"genre": [],
+		"length": 106,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Oppenheimer",
+		"year": 2023,
+		"director": [
+			"Christopher Nolan"
+		],
+		"clip": "clips/movie176.mp4",
+		"genre": [],
+		"length": 181,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Made in Italy",
+		"year": 2020,
+		"director": [
+			"James D'Arcy"
+		],
+		"clip": "clips/movie177.mp4",
+		"genre": [],
+		"length": 94,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Landscape in the Mist",
+		"year": 1988,
+		"director": [
+			"Theo Angelopoulos"
+		],
+		"clip": "clips/movie178.mp4",
+		"genre": [],
+		"length": 125,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Close Encounters of the Third Kind",
+		"year": 1977,
+		"director": [
+			"Steven Spielberg"
+		],
+		"clip": "clips/movie179.mp4",
+		"genre": [],
+		"length": 137,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Hunt for the Wilderpeople",
+		"year": 2016,
+		"director": [
+			"Taika Waititi"
+		],
+		"clip": "clips/movie180.mp4",
+		"genre": [],
+		"length": 101,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Three Colours − Red",
+		"year": 1994,
+		"director": [
+			"Krzysztof Kieślowski"
+		],
+		"clip": "clips/movie181.mp4",
+		"genre": [],
+		"length": 100,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Tigertail",
+		"year": 2020,
+		"director": [
+			"Alan Yang"
+		],
+		"clip": "clips/movie182.mp4",
+		"genre": [],
+		"length": 91,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "PlayTime",
+		"year": 1967,
+		"director": [
+			"Jacques Tati"
+		],
+		"clip": "clips/movie183.mp4",
+		"genre": [],
+		"length": 115,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Zone of Interest",
+		"year": 2023,
+		"director": [
+			"Jonathan Glazer"
+		],
+		"clip": "clips/movie184.mp4",
+		"genre": [],
+		"length": 105,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Midsommar",
+		"year": 2019,
+		"director": [
+			"Ari Aster"
+		],
+		"clip": "clips/movie185.mp4",
+		"genre": [],
+		"length": 147,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Boy and the Heron",
+		"year": 2023,
+		"director": [
+			"Hayao Miyazaki"
+		],
+		"clip": "clips/movie186.mp4",
+		"genre": [],
+		"length": 124,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Swallow",
+		"year": 2019,
+		"director": [
+			"Carlo Mirabella-Davis"
+		],
+		"clip": "clips/movie187.mp4",
+		"genre": [],
+		"length": 95,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Killer",
+		"year": 2023,
+		"director": [
+			"David Fincher"
+		],
+		"clip": "clips/movie188.mp4",
+		"genre": [],
+		"length": 118,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Parasite",
+		"year": 2019,
+		"director": [
+			"Bong Joon Ho"
+		],
+		"clip": "clips/movie189.mp4",
+		"genre": [],
+		"length": 133,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "12 Years a Slave",
+		"year": 2013,
+		"director": [
+			"Steve McQueen"
+		],
+		"clip": "clips/movie190.mp4",
+		"genre": [],
+		"length": 134,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Moon",
+		"year": 2009,
+		"director": [
+			"Duncan Jones"
+		],
+		"clip": "clips/movie191.mp4",
+		"genre": [],
+		"length": 97,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Ex Machina",
+		"year": 2015,
+		"director": [
+			"Alex Garland"
+		],
+		"clip": "clips/movie192.mp4",
+		"genre": [],
+		"length": 108,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "The Disaster Artist",
+		"year": 2017,
+		"director": [
+			"James Franco"
+		],
+		"clip": "clips/movie193.mp4",
+		"genre": [],
+		"length": 104,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Dreams",
+		"year": 1990,
+		"director": [
+			"Akira Kurosawa"
+		],
+		"clip": "clips/movie194.mp4",
+		"genre": [],
+		"length": 119,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Passenger",
+		"year": 1975,
+		"director": [
+			"Michelangelo Antonioni"
+		],
+		"clip": "clips/movie195.mp4",
+		"genre": [],
+		"length": 126,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Fisher King",
+		"year": 1991,
+		"director": [
+			"Terry Gilliam"
+		],
+		"clip": "clips/movie196.mp4",
+		"genre": [],
+		"length": 138,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Wailing",
+		"year": 2016,
+		"director": [
+			"Na Hong-jin"
+		],
+		"clip": "clips/movie197.mp4",
+		"genre": [],
+		"length": 156,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Darjeeling Limited",
+		"year": 2007,
+		"director": [
+			"Wes Anderson"
+		],
+		"clip": "clips/movie198.mp4",
+		"genre": [],
+		"length": 92,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Menu",
+		"year": 2022,
+		"director": [
+			"Mark Mylod"
+		],
+		"clip": "clips/movie199.mp4",
+		"genre": [],
+		"length": 107,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Florida Project",
+		"year": 2017,
+		"director": [
+			"Sean Baker"
+		],
+		"clip": "clips/movie200.mp4",
+		"genre": [],
+		"length": 112,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Lost in Translation",
+		"year": 2003,
+		"director": [
+			"Sofia Coppola"
+		],
+		"clip": "clips/movie201.mp4",
+		"genre": [],
+		"length": 102,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "The Fountain",
+		"year": 2006,
+		"director": [
+			"Darren Aronofsky"
+		],
+		"clip": "clips/movie202.mp4",
+		"genre": [],
+		"length": 96,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Borg vs McEnroe",
+		"year": 2017,
+		"director": [
+			"Janus Metz"
+		],
+		"clip": "clips/movie203.mp4",
+		"genre": [],
+		"length": 108,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Atomic Blonde",
+		"year": 2017,
+		"director": [
+			"David Leitch"
+		],
+		"clip": "clips/movie204.mp4",
+		"genre": [],
+		"length": 115,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "2001 A Space Odyssey",
+		"year": 1968,
+		"director": [
+			"Stanley Kubrick"
+		],
+		"clip": "clips/movie205.mp4",
+		"genre": [],
+		"length": 149,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Inside Llewyn Davis",
+		"year": 2013,
+		"director": [
+			"Ethan Coen",
+			"Joel Coen"
+		],
+		"clip": "clips/movie206.mp4",
+		"genre": [],
+		"length": 104,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Two Popes",
+		"year": 2019,
+		"director": [
+			"Fernando Meirelles"
+		],
+		"clip": "clips/movie207.mp4",
+		"genre": [],
+		"length": 125,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Girl with the Needle",
+		"year": 2024,
+		"director": [
+			"Magnus von Horn"
+		],
+		"clip": "clips/movie208.mp4",
+		"genre": [],
+		"length": 123,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Knockin' on Heaven's Door",
+		"year": 1997,
+		"director": [
+			"Thomas Jahn"
+		],
+		"clip": "clips/movie209.mp4",
+		"genre": [],
+		"length": 88,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Oblivion",
+		"year": 2013,
+		"director": [
+			"Joseph Kosinski"
+		],
+		"clip": "clips/movie210.mp4",
+		"genre": [],
+		"length": 124,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Kinds of Kindness",
+		"year": 2024,
+		"director": [
+			"Yorgos Lanthimos"
+		],
+		"clip": "clips/movie211.mp4",
+		"genre": [],
+		"length": 164,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Days of Heaven",
+		"year": 1978,
+		"director": [
+			"Terrence Malick"
+		],
+		"clip": "clips/movie212.mp4",
+		"genre": [],
+		"length": 94,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "In the Heart of the Sea",
+		"year": 2015,
+		"director": [
+			"Ron Howard"
+		],
+		"clip": "clips/movie213.mp4",
+		"genre": [],
+		"length": 122,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Hidden Figures",
+		"year": 2016,
+		"director": [
+			"Theodore Melfi"
+		],
+		"clip": "clips/movie214.mp4",
+		"genre": [],
+		"length": 127,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Barry Lyndon",
+		"year": 1975,
+		"director": [
+			"Stanley Kubrick"
+		],
+		"clip": "clips/movie215.mp4",
+		"genre": [],
+		"length": 185,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "House of Flying Daggers",
+		"year": 2004,
+		"director": [
+			"Zhang Yimou"
+		],
+		"clip": "clips/movie216.mp4",
+		"genre": [],
+		"length": 119,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The End",
+		"year": 2024,
+		"director": [
+			"Joshua Oppenheimer"
+		],
+		"clip": "clips/movie217.mp4",
+		"genre": [],
+		"length": 149,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Burning",
+		"year": 2018,
+		"director": [
+			"Lee Chang-dong"
+		],
+		"clip": "clips/movie218.mp4",
+		"genre": [],
+		"length": 148,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Aftersun",
+		"year": 2022,
+		"director": [
+			"Charlotte Wells"
+		],
+		"clip": "clips/movie219.mp4",
+		"genre": [],
+		"length": 101,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "Beautiful Boy",
+		"year": 2018,
+		"director": [
+			"Felix van Groeningen"
+		],
+		"clip": "clips/movie220.mp4",
+		"genre": [],
+		"length": 119,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Black Narcissus",
+		"year": 1947,
+		"director": [
+			"Emeric Pressburger",
+			"Michael Powell"
+		],
+		"clip": "clips/movie221.mp4",
+		"genre": [],
+		"length": 100,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Blade Runner",
+		"year": 1982,
+		"director": [
+			"Ridley Scott"
+		],
+		"clip": "clips/movie222.mp4",
+		"genre": [],
+		"length": 118,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Green Knight",
+		"year": 2021,
+		"director": [
+			"David Lowery"
+		],
+		"clip": "clips/movie223.mp4",
+		"genre": [],
+		"length": 130,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Léon The Professional",
+		"year": 1994,
+		"director": [
+			"Luc Besson"
+		],
+		"clip": "clips/movie224.mp4",
+		"genre": [],
+		"length": 111,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "1917",
+		"year": 2019,
+		"director": [
+			"Sam Mendes"
+		],
+		"clip": "clips/movie225.mp4",
+		"genre": [],
+		"length": 119,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Raiders of the Lost Ark",
+		"year": 1981,
+		"director": [
+			"Steven Spielberg"
+		],
+		"clip": "clips/movie226.mp4",
+		"genre": [],
+		"length": 115,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Pleasantville",
+		"year": 1998,
+		"director": [
+			"Gary Ross"
+		],
+		"clip": "clips/movie227.mp4",
+		"genre": [],
+		"length": 124,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Climax",
+		"year": 2018,
+		"director": [
+			"Gaspar Noé"
+		],
+		"clip": "clips/movie228.mp4",
+		"genre": [],
+		"length": 97,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Unforgiven",
+		"year": 1992,
+		"director": [
+			"Clint Eastwood"
+		],
+		"clip": "clips/movie229.mp4",
+		"genre": [],
+		"length": 130,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Berberian Sound Studio",
+		"year": 2012,
+		"director": [
+			"Peter Strickland"
+		],
+		"clip": "clips/movie230.mp4",
+		"genre": [],
+		"length": 92,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "8½",
+		"year": 1963,
+		"director": [
+			"Federico Fellini"
+		],
+		"clip": "clips/movie231.mp4",
+		"genre": [],
+		"length": 139,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Nope",
+		"year": 2022,
+		"director": [
+			"Jordan Peele"
+		],
+		"clip": "clips/movie232.mp4",
+		"genre": [],
+		"length": 130,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Witch",
+		"year": 2015,
+		"director": [
+			"Robert Eggers"
+		],
+		"clip": "clips/movie233.mp4",
+		"genre": [],
+		"length": 92,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "La Haine",
+		"year": 1995,
+		"director": [
+			"Mathieu Kassovitz"
+		],
+		"clip": "clips/movie234.mp4",
+		"genre": [],
+		"length": 98,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Under the Skin",
+		"year": 2013,
+		"director": [
+			"Jonathan Glazer"
+		],
+		"clip": "clips/movie235.mp4",
+		"genre": [],
+		"length": 108,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Blow-Up",
+		"year": 1966,
+		"director": [
+			"Michelangelo Antonioni"
+		],
+		"clip": "clips/movie236.mp4",
+		"genre": [],
+		"length": 111,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Lamb",
+		"year": 2021,
+		"director": [
+			"Valdimar Jóhannsson"
+		],
+		"clip": "clips/movie237.mp4",
+		"genre": [],
+		"length": 106,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "There Will Be Blood",
+		"year": 2007,
+		"director": [
+			"Paul Thomas Anderson"
+		],
+		"clip": "clips/movie238.mp4",
+		"genre": [],
+		"length": 158,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Knight of Cups",
+		"year": 2015,
+		"director": [
+			"Terrence Malick"
+		],
+		"clip": "clips/movie239.mp4",
+		"genre": [],
+		"length": 118,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Brutalist",
+		"year": 2024,
+		"director": [
+			"Brady Corbet"
+		],
+		"clip": "clips/movie240.mp4",
+		"genre": [],
+		"length": 215,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Rashomon",
+		"year": 1950,
+		"director": [
+			"Akira Kurosawa"
+		],
+		"clip": "clips/movie241.mp4",
+		"genre": [],
+		"length": 88,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Arrival",
+		"year": 2016,
+		"director": [
+			"Denis Villeneuve"
+		],
+		"clip": "clips/movie242.mp4",
+		"genre": [],
+		"length": 116,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "Life of Pi",
+		"year": 2012,
+		"director": [
+			"Ang Lee"
+		],
+		"clip": "clips/movie243.mp4",
+		"genre": [],
+		"length": 127,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Minari",
+		"year": 2020,
+		"director": [
+			"Lee Isaac Chung"
+		],
+		"clip": "clips/movie244.mp4",
+		"genre": [],
+		"length": 115,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Amadeus",
+		"year": 1984,
+		"director": [
+			"Miloš Forman"
+		],
+		"clip": "clips/movie245.mp4",
+		"genre": [],
+		"length": 160,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Taste of Cherry",
+		"year": 1997,
+		"director": [
+			"Abbas Kiarostami"
+		],
+		"clip": "clips/movie246.mp4",
+		"genre": [],
+		"length": 99,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Kundun",
+		"year": 1997,
+		"director": [
+			"Martin Scorsese"
+		],
+		"clip": "clips/movie247.mp4",
+		"genre": [],
+		"length": 134,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The American Friend",
+		"year": 1977,
+		"director": [
+			"Wim Wenders"
+		],
+		"clip": "clips/movie248.mp4",
+		"genre": [],
+		"length": 125,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Chime",
+		"year": 2024,
+		"director": [
+			"Kiyoshi Kurosawa"
+		],
+		"clip": "clips/movie249.mp4",
+		"genre": [],
+		"length": 45,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "A Different Man",
+		"year": 2024,
+		"director": [
+			"Aaron Schimberg"
+		],
+		"clip": "clips/movie250.mp4",
+		"genre": [],
+		"length": 112,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Causeway",
+		"year": 2022,
+		"director": [
+			"Lila Neugebauer"
+		],
+		"clip": "clips/movie251.mp4",
+		"genre": [],
+		"length": 96,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Taipei Story",
+		"year": 1985,
+		"director": [
+			"Edward Yang"
+		],
+		"clip": "clips/movie252.mp4",
+		"genre": [],
+		"length": 120,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Ginger & Rosa",
+		"year": 2012,
+		"director": [
+			"Sally Potter"
+		],
+		"clip": "clips/movie253.mp4",
+		"genre": [],
+		"length": 90,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Taste of Tea",
+		"year": 2004,
+		"director": [
+			"Katsuhito Ishii"
+		],
+		"clip": "clips/movie254.mp4",
+		"genre": [],
+		"length": 143,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Man Who Wasn't There",
+		"year": 2001,
+		"director": [
+			"Joel Coen"
+		],
+		"clip": "clips/movie255.mp4",
+		"genre": [],
+		"length": 116,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Before Sunrise",
+		"year": 1995,
+		"director": [
+			"Richard Linklater"
+		],
+		"clip": "clips/movie256.mp4",
+		"genre": [],
+		"length": 101,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "At Eternity's Gate",
+		"year": 2018,
+		"director": [
+			"Julian Schnabel"
+		],
+		"clip": "clips/movie257.mp4",
+		"genre": [],
+		"length": 111,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Poor Things",
+		"year": 2023,
+		"director": [
+			"Yorgos Lanthimos"
+		],
+		"clip": "clips/movie258.mp4",
+		"genre": [],
+		"length": 141,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Animatrix",
+		"year": 2003,
+		"director": [
+			"Koji Morimoto",
+			"Peter Chung",
+			"Shinichiro Watanabe",
+			"Mahiro Maeda",
+			"Yoshiaki Kawajiri",
+			"Takeshi Koike",
+			"Andrew R. Jones"
+		],
+		"clip": "clips/movie259.mp4",
+		"genre": [],
+		"length": 102,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Babylon",
+		"year": 2022,
+		"director": [
+			"Damien Chazelle"
+		],
+		"clip": "clips/movie260.mp4",
+		"genre": [],
+		"length": 189,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Crouching Tiger, Hidden Dragon",
+		"year": 2000,
+		"director": [
+			"Ang Lee"
+		],
+		"clip": "clips/movie261.mp4",
+		"genre": [],
+		"length": 120,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Vertigo",
+		"year": 1958,
+		"director": [
+			"Alfred Hitchcock"
+		],
+		"clip": "clips/movie262.mp4",
+		"genre": [],
+		"length": 128,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Millennium Mambo",
+		"year": 2001,
+		"director": [
+			"Hou Hsiao-hsien"
+		],
+		"clip": "clips/movie263.mp4",
+		"genre": [],
+		"length": 106,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Mystery Train",
+		"year": 1989,
+		"director": [
+			"Jim Jarmusch"
+		],
+		"clip": "clips/movie264.mp4",
+		"genre": [],
+		"length": 106,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Anatomy of a Fall",
+		"year": 2023,
+		"director": [
+			"Justine Triet"
+		],
+		"clip": "clips/movie265.mp4",
+		"genre": [],
+		"length": 151,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Lessons of Darkness",
+		"year": 1992,
+		"director": [
+			"Werner Herzog"
+		],
+		"clip": "clips/movie266.mp4",
+		"genre": [],
+		"length": 54,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Sexy Beast",
+		"year": 2000,
+		"director": [
+			"Jonathan Glazer"
+		],
+		"clip": "clips/movie267.mp4",
+		"genre": [],
+		"length": 89,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "My First Film",
+		"year": 2024,
+		"director": [
+			"Zia Anger"
+		],
+		"clip": "clips/movie268.mp4",
+		"genre": [],
+		"length": 100,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Stop Making Sense",
+		"year": 1984,
+		"director": [
+			"Jonathan Demme"
+		],
+		"clip": "clips/movie269.mp4",
+		"genre": [],
+		"length": 88,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Frank",
+		"year": 2014,
+		"director": [
+			"Lenny Abrahamson"
+		],
+		"clip": "clips/movie270.mp4",
+		"genre": [],
+		"length": 95,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Love Lies Bleeding",
+		"year": 2024,
+		"director": [
+			"Rose Glass"
+		],
+		"clip": "clips/movie271.mp4",
+		"genre": [],
+		"length": 104,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Trap",
+		"year": 2024,
+		"director": [
+			"M. Night Shyamalan"
+		],
+		"clip": "clips/movie272.mp4",
+		"genre": [],
+		"length": 105,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Beau Is Afraid",
+		"year": 2023,
+		"director": [
+			"Ari Aster"
+		],
+		"clip": "clips/movie273.mp4",
+		"genre": [],
+		"length": 179,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Wildlife",
+		"year": 2018,
+		"director": [
+			"Paul Dano"
+		],
+		"clip": "clips/movie274.mp4",
+		"genre": [],
+		"length": 105,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Good Morning",
+		"year": 1959,
+		"director": [
+			"Yasujirō Ozu"
+		],
+		"clip": "clips/movie275.mp4",
+		"genre": [],
+		"length": 94,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "The Station Agent",
+		"year": 2003,
+		"director": [
+			"Tom McCarthy"
+		],
+		"clip": "clips/movie276.mp4",
+		"genre": [],
+		"length": 88,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Taxi Driver",
+		"year": 1976,
+		"director": [
+			"Martin Scorsese"
+		],
+		"clip": "clips/movie277.mp4",
+		"genre": [],
+		"length": 114,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Fantastic Mr. Fox",
+		"year": 2009,
+		"director": [
+			"Wes Anderson"
+		],
+		"clip": "clips/movie278.mp4",
+		"genre": [],
+		"length": 87,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Color of Pomegranates",
+		"year": 1969,
+		"director": [
+			"Sergei Parajanov"
+		],
+		"clip": "clips/movie279.mp4",
+		"genre": [],
+		"length": 80,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Wind River",
+		"year": 2017,
+		"director": [
+			"Taylor Sheridan"
+		],
+		"clip": "clips/movie280.mp4",
+		"genre": [],
+		"length": 107,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Handmaiden",
+		"year": 2016,
+		"director": [
+			"Park Chan-wook"
+		],
+		"clip": "clips/movie281.mp4",
+		"genre": [],
+		"length": 145,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Air",
+		"year": 2023,
+		"director": [
+			"Ben Affleck"
+		],
+		"clip": "clips/movie282.mp4",
+		"genre": [],
+		"length": 111,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Out of the Furnace",
+		"year": 2013,
+		"director": [
+			"Scott Cooper"
+		],
+		"clip": "clips/movie283.mp4",
+		"genre": [],
+		"length": 116,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Boy in the Striped Pyjamas",
+		"year": 2008,
+		"director": [
+			"Mark Herman"
+		],
+		"clip": "clips/movie284.mp4",
+		"genre": [],
+		"length": 94,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Flux Gourmet",
+		"year": 2022,
+		"director": [
+			"Peter Strickland"
+		],
+		"clip": "clips/movie285.mp4",
+		"genre": [],
+		"length": 112,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Dr. Strangelove",
+		"year": 1964,
+		"director": [
+			"Stanley Kubrick"
+		],
+		"clip": "clips/movie286.mp4",
+		"genre": [],
+		"length": 95,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "La Collectionneuse",
+		"year": 1967,
+		"director": [
+			"Éric Rohmer"
+		],
+		"clip": "clips/movie287.mp4",
+		"genre": [],
+		"length": 86,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Hell or High Water",
+		"year": 2016,
+		"director": [
+			"David Mackenzie"
+		],
+		"clip": "clips/movie288.mp4",
+		"genre": [],
+		"length": 102,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Don't Worry, He Won't Get Far on Foot",
+		"year": 2018,
+		"director": [
+			"Gus Van Sant"
+		],
+		"clip": "clips/movie289.mp4",
+		"genre": [],
+		"length": 115,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Devil All the Time",
+		"year": 2020,
+		"director": [
+			"Antonio Campos"
+		],
+		"clip": "clips/movie290.mp4",
+		"genre": [],
+		"length": 138,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "A Gentle Breeze in the Village",
+		"year": 2007,
+		"director": [
+			"Nobuhiro Yamashita"
+		],
+		"clip": "clips/movie291.mp4",
+		"genre": [],
+		"length": 121,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "A Most Violent Year",
+		"year": 2014,
+		"director": [
+			"J.C. Chandor"
+		],
+		"clip": "clips/movie292.mp4",
+		"genre": [],
+		"length": 124,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Swan Song",
+		"year": 2021,
+		"director": [
+			"Benjamin Cleary"
+		],
+		"clip": "clips/movie293.mp4",
+		"genre": [],
+		"length": 112,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Invisible Guest",
+		"year": 2016,
+		"director": [
+			"Oriol Paulo"
+		],
+		"clip": "clips/movie294.mp4",
+		"genre": [],
+		"length": 107,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Dune − Part Two",
+		"year": 2024,
+		"director": [
+			"Denis Villeneuve"
+		],
+		"clip": "clips/movie295.mp4",
+		"genre": [],
+		"length": 167,
+		"rating": 2,
+		"synopsis": ""
+	},
+	{
+		"title": "The Banshees of Inisherin",
+		"year": 2022,
+		"director": [
+			"Martin McDonagh"
+		],
+		"clip": "clips/movie296.mp4",
+		"genre": [],
+		"length": 114,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "2046",
+		"year": 2004,
+		"director": [
+			"Wong Kar-Wai"
+		],
+		"clip": "clips/movie297.mp4",
+		"genre": [],
+		"length": 128,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Infernal Affairs",
+		"year": 2002,
+		"director": [
+			"Alan Mak Siu-Fai",
+			"Andrew Lau Wai-Keung"
+		],
+		"clip": "clips/movie298.mp4",
+		"genre": [],
+		"length": 100,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Lust, Caution",
+		"year": 2007,
+		"director": [
+			"Ang Lee"
+		],
+		"clip": "clips/movie299.mp4",
+		"genre": [],
+		"length": 158,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "The Northman",
+		"year": 2022,
+		"director": [
+			"Robert Eggers"
+		],
+		"clip": "clips/movie300.mp4",
+		"genre": [],
+		"length": 137,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "To the Ends of the Earth",
+		"year": 2019,
+		"director": [
+			"Kiyoshi Kurosawa"
+		],
+		"clip": "clips/movie301.mp4",
+		"genre": [],
+		"length": 120,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Hunger",
+		"year": 2008,
+		"director": [
+			"Steve McQueen"
+		],
+		"clip": "clips/movie302.mp4",
+		"genre": [],
+		"length": 96,
+		"rating": 0,
+		"synopsis": ""
+	},
+	{
+		"title": "Our Friend",
+		"year": 2019,
+		"director": [
+			"Gabriela Cowperthwaite"
+		],
+		"clip": "clips/movie303.mp4",
+		"genre": [],
+		"length": 124,
+		"rating": 1,
+		"synopsis": ""
+	},
+	{
+		"title": "Kusama − Infinity",
+		"year": 2018,
+		"director": [
+			"Heather Lenz"
+		],
+		"clip": "clips/movie304.mp4",
+		"genre": [],
+		"length": 80,
+		"rating": 0,
+		"synopsis": ""
+	}
 ]

@@ -14,7 +14,7 @@ async function loadMovies() {
 	const sortSelect = document.getElementById("sort");
 
 	const genres = [...new Set(movies.flatMap(m => m.genre))].sort();
-	const directors = [...new Set(movies.map(m => m.director))].sort();
+	const directors = [...new Set(movies.flatMap(m => m.director))].sort();
 	const years = [...new Set(movies.map(m => m.year))].sort();
 	const lengthOptions = [
 		{ label: "All Lengths", value: "" },
@@ -48,11 +48,11 @@ async function loadMovies() {
 			return `
 			<div class="movie">
 				<div class="movie-info">
-					<p style="flex: 1; font-weight: bold; text-transform: uppercase; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">${star}${m.title}</p>
-					<p style="">${m.director}</p>
+					<p style="flex: 1; font-weight: bold; text-transform: uppercase; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">${m.title}</p>
+					<p style="">${m.director.join(", ")}</p>
 				</div>
 				<div class="movie-info">
-					<p style="text-align:left;">${m.year}</p>
+					<p style="text-align:left;">${m.year} ${star}</p>
 					<p style="flex: 1; text-align:center;">${m.genre.join("  •  ")}</p>
 					<p style="text-align:right;">${m.length}m</p>
 				</div>
@@ -69,7 +69,8 @@ async function loadMovies() {
 				</div>
 			</div>
 			</div>
-		`;}).join("");
+		`;
+		}).join("");
 
 		document.querySelectorAll(".movie-video").forEach(video => {
 			const parent = video.closest(".movie");
@@ -106,7 +107,7 @@ async function loadMovies() {
 			});
 		});
 	}
-	
+
 	render(movies);
 
 	// search + filter
@@ -126,12 +127,12 @@ async function loadMovies() {
 		if (y) results = results.filter(m => m.year == y);
 		if (l) {
 			results = results.filter(m => {
-			const len = m.length;
-				if (l === "1")   return len <= 74;
+				const len = m.length;
+				if (l === "1") return len <= 74;
 				if (l === "1.5") return len >= 75 && len <= 104;
-				if (l === "2")   return len >= 105 && len <= 134;
+				if (l === "2") return len >= 105 && len <= 134;
 				if (l === "2.5") return len >= 135 && len <= 164;
-				if (l === "3")   return len >= 165;
+				if (l === "3") return len >= 165;
 			});
 		}
 
