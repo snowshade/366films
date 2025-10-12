@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>366 movies</title>
+	<title>366MOVIES</title>
 	<link rel="stylesheet" href="style.css">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -11,14 +11,33 @@
 </head>
 
 <body>
+	<!-- <div style="display: flex; flex-direction: row;">
+		<div>
+			<img src="logo_part1.svg" class="logo">
+			<p>A collection of short clips from 366 movies that I watched over the course of 1 year.</p>
+		</div>
+		<div>
+			<img src="logo_part2.svg" class="logo">
+			<p>The process of collecting these clips made me appreciate small nuances of cinematogaphy like camera movement, use of color, lighting, framing, composition.</p>
+		</div>
+		<div>
+			<img src="logo_part3.svg" class="logo">
+			<p>There are no ratings, recommendations or reviews here. Some movies have a ☆ or ★ next to their title, which just indicates movies that I enjoyed the most.</p>
+		</div>
+		<div>
+			<img src="logo_part4.svg" class="logo">
+			<p>Enjoy the collection.</p>
+		</div>
+	</div> -->
 	<div class="header">
-		<h1><span style="color: var(--accent-color);">366</span>MOVIES</h1>
-		<p class="info">A collection of short clips from 366 movies that I watched over the course of 1 year.<br><br>The
-			process of collecting these clips made me appreciate more small nuances of cinematogaphy like camera
-			movement, use of color, light, framing that tells a story, composition, meaning, storytelling through
-			visuals.<br><br>There are no ratings, recommendations or reviews here. Some movies have a ☆ or ★ next to
-			their title, which just indicates movies that I enjoyed the most.<br><br>Enjoy the collection.</p>
-		<img id="randomPoster" src="posters-mini/sep-mini-01.png">
+		<div class="info">
+			<p>A collection of short clips from 366 movies that I watched over the course of 1 year.</p>
+			<p>The process of collecting these clips made me appreciate small nuances of cinematogaphy like camera movement, use of color, lighting, framing, composition.</p>
+			<p>There are no ratings, recommendations or reviews here. Some movies have a star next to their title, which just indicates movies that I enjoyed the most.</p>
+			<p>Enjoy the collection.<br><a href="https://x.com/snowshade">Made by</a></p>
+			<!-- <img id="randomPoster" src="posters-mini/sep-mini-01.png"> -->
+		</div>
+		<img src="logo.svg" class="logo">
 	</div>
 	<div class="filters">
 		<input type="text" id="search" placeholder="Search movies...">
@@ -26,6 +45,12 @@
 		<select id="filter-director"></select>
 		<select id="filter-year"></select>
 		<select id="filter-length"></select>
+		<select id="filter-rating">
+			<option value="all">All movies</option>
+			<option value="positive">Only ★ and ☆</option>
+			<option value="favorite">Only ★</option>
+			<option value="good">Only ☆</option>
+		</select>
 		<select id="sort">
 			<option value="original">Original order</option>
 			<option value="title-asc">Title (A → Z)</option>

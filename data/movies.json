@@ -6,10 +6,11 @@
 			"Wim Wenders"
 		],
 		"clip": "clips/movie1.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie1.jpg",
+		"genre": ["Drama"],
 		"length": 145,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier."
 	},
 	{
 		"title": "Ad Astra",
@@ -18,10 +19,11 @@
 			"James Gray"
 		],
 		"clip": "clips/movie2.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie2.jpg",
+		"genre": ["Science Fiction","Drama"],
 		"length": 123,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "The near future, a time when both hope and hardships drive humanity to look to the stars and beyond. While a mysterious phenomenon menaces to destroy life on planet Earth, astronaut Roy McBride undertakes a mission across the immensity of space and its many perils to uncover the truth about a lost expedition that decades before boldly faced emptiness and silence in search of the unknown."
 	},
 	{
 		"title": "Blood Simple",
@@ -30,10 +32,11 @@
 			"Joel Coen"
 		],
 		"clip": "clips/movie3.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie3.jpg",
+		"genre": ["Thriller","Crime","Drama"],
 		"length": 97,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered."
 	},
 	{
 		"title": "The Assassination of Jesse James by the Coward Robert Ford",
@@ -42,10 +45,11 @@
 			"Andrew Dominik"
 		],
 		"clip": "clips/movie4.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie4.jpg",
+		"genre": ["Drama","Western"],
 		"length": 159,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Outlaw Jesse James is rumored to be the 'fastest gun in the West'. An eager recruit into James' notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status."
 	},
 	{
 		"title": "Harakiri",
@@ -54,10 +58,11 @@
 			"Masaki Kobayashi"
 		],
 		"clip": "clips/movie5.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie5.jpg",
+		"genre": ["History","Drama","Action"],
 		"length": 135,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku—and a worthy second to deliver the coup de grâce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin’s resolve and integrity, suspecting Hanshirō of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code."
 	},
 	{
 		"title": "Memories of Murder",
@@ -66,10 +71,11 @@
 			"Bong Joon Ho"
 		],
 		"clip": "clips/movie6.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie6.jpg",
+		"genre": ["Thriller","Crime","Drama"],
 		"length": 131,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "During the late 1980s, two detectives in a South Korean province attempt to solve the nation's first series of rape-and-murder cases."
 	},
 	{
 		"title": "The Sea of Trees",
@@ -78,10 +84,11 @@
 			"Gus Van Sant"
 		],
 		"clip": "clips/movie7.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie7.jpg",
+		"genre": ["Drama"],
 		"length": 110,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "In Japan's Aokigahara Forest, a troubled teacher meets a mysterious lost stranger who takes him on a life-changing journey of love and redemption."
 	},
 	{
 		"title": "Portrait of a Lady on Fire",
@@ -90,10 +97,11 @@
 			"Céline Sciamma"
 		],
 		"clip": "clips/movie8.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie8.jpg",
+		"genre": ["Drama","Romance","History"],
 		"length": 121,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman."
 	},
 	{
 		"title": "Perfect Days",
@@ -102,10 +110,11 @@
 			"Wim Wenders"
 		],
 		"clip": "clips/movie9.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie9.jpg",
+		"genre": ["Drama"],
 		"length": 124,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world."
 	},
 	{
 		"title": "Prospect",
@@ -115,10 +124,11 @@
 			"Christopher Caldwell"
 		],
 		"clip": "clips/movie10.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie10.jpg",
+		"genre": ["Science Fiction"],
 		"length": 98,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A teenage girl and her father travel to a remote alien moon, aiming to strike it rich. They've secured a contract to harvest a large deposit of the elusive gems hidden in the depths of the moon's toxic forest. But there are others roving the wilderness and the job quickly devolves into a fight to survive."
 	},
 	{
 		"title": "Godland",
@@ -127,10 +137,11 @@
 			"Hlynur Pálmason"
 		],
 		"clip": "clips/movie11.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie11.jpg",
+		"genre": ["Drama"],
 		"length": 143,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "In the late 19th century, a young Danish priest travels to a remote part of Iceland to build a church and photograph its people. But the deeper he goes into the unforgiving landscape, the more he strays from his purpose, the mission and morality."
 	},
 	{
 		"title": "Kingdom of Heaven",
@@ -139,10 +150,11 @@
 			"Ridley Scott"
 		],
 		"clip": "clips/movie12.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie12.jpg",
+		"genre": ["History","Drama","Action","Adventure","War"],
 		"length": 144,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades."
 	},
 	{
 		"title": "The Fall",
@@ -151,10 +163,11 @@
 			"Tarsem Singh"
 		],
 		"clip": "clips/movie13.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie13.jpg",
+		"genre": ["Adventure","Drama","Fantasy"],
 		"length": 119,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story about 5 mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality starts to blur as the tale advances."
 	},
 	{
 		"title": "Hero",
@@ -163,10 +176,11 @@
 			"Zhang Yimou"
 		],
 		"clip": "clips/movie14.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie14.jpg",
+		"genre": ["Adventure","Drama","Action","History"],
 		"length": 99,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "During China's Warring States period, a district prefect arrives at the palace of Qin Shi Huang, claiming to have killed the three assassins who had made an attempt on the king's life three years ago."
 	},
 	{
 		"title": "Road to Perdition",
@@ -175,22 +189,24 @@
 			"Sam Mendes"
 		],
 		"clip": "clips/movie15.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie15.jpg",
+		"genre": ["Thriller","Drama","Crime"],
 		"length": 117,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Mike Sullivan works as a hit man for crime boss John Rooney. Sullivan views Rooney as a father figure, however after his son is witness to a killing, Mike Sullivan finds himself on the run in attempt to save the life of his son and at the same time looking for revenge on those who wronged him."
 	},
 	{
-		"title": "Master and Commander − The Far Side of the World",
+		"title": "Master and Commander: The Far Side of the World",
 		"year": 2003,
 		"director": [
 			"Peter Weir"
 		],
 		"clip": "clips/movie16.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie16.jpg",
+		"genre": ["Adventure","Drama","War"],
 		"length": 138,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship's thoughtful surgeon, his best friend."
 	},
 	{
 		"title": "The Road",
@@ -199,10 +215,11 @@
 			"John Hillcoat"
 		],
 		"clip": "clips/movie17.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie17.jpg",
+		"genre": ["Drama","Adventure"],
 		"length": 111,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind and water. It is cold enough to crack stones and, when the snow falls, it is gray. Their destination is the warmer south, although they don't know what, if anything, awaits them there."
 	},
 	{
 		"title": "Decision to Leave",
@@ -211,10 +228,11 @@
 			"Park Chan-wook"
 		],
 		"clip": "clips/movie18.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie18.jpg",
+		"genre": ["Mystery","Thriller","Romance"],
 		"length": 138,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "From a mountain peak in South Korea, a man plummets to his death. Did he jump, or was he pushed? When detective Hae-joon arrives on the scene, he begins to suspect the dead man’s wife Seo-rae. But as he digs deeper into the investigation, he finds himself trapped in a web of deception and desire."
 	},
 	{
 		"title": "A Single Man",
@@ -223,10 +241,11 @@
 			"Tom Ford"
 		],
 		"clip": "clips/movie19.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie19.jpg",
+		"genre": ["Romance","Drama"],
 		"length": 101,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Set in Los Angeles in 1962, at the height of the Cuban missile crisis, is the story of a British college professor who dwells on the past and cannot see his future. We follow him through a single day, where a series of events and encounters ultimately lead him to decide if there is a meaning to life after the death of his long time partner, Jim."
 	},
 	{
 		"title": "The Beast",
@@ -235,10 +254,11 @@
 			"Bertrand Bonello"
 		],
 		"clip": "clips/movie20.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie20.jpg",
+		"genre": ["Drama","Romance","Science Fiction"],
 		"length": 146,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "In the near future where emotions have become a threat, Gabrielle finally decides to purify her DNA in a machine that will immerse her in her past lives and rid her of any strong feelings. She then meets Louis and feels a powerful connection, as if she had known him forever."
 	},
 	{
 		"title": "The English Patient",
@@ -247,10 +267,11 @@
 			"Anthony Minghella"
 		],
 		"clip": "clips/movie21.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie21.jpg",
+		"genre": ["Drama","Romance","War"],
 		"length": 162,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In the 1930s, Count Almásy is a Hungarian map maker employed by the Royal Geographical Society to chart the vast expanses of the Sahara Desert along with several other prominent explorers. As World War II unfolds, Almásy enters into a world of love, betrayal, and politics."
 	},
 	{
 		"title": "Chungking Express",
@@ -259,10 +280,11 @@
 			"Wong Kar-Wai"
 		],
 		"clip": "clips/movie22.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie22.jpg",
+		"genre": ["Comedy","Drama","Romance"],
 		"length": 103,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant."
 	},
 	{
 		"title": "Sunshine",
@@ -271,10 +293,11 @@
 			"Danny Boyle"
 		],
 		"clip": "clips/movie23.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie23.jpg",
+		"genre": ["Science Fiction","Thriller"],
 		"length": 107,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "Fifty years into the future, the sun is dying, and Earth is threatened by arctic temperatures. A team of astronauts is sent to revive the Sun — but the mission fails. Seven years later, a new team is sent to finish the mission as mankind’s last hope."
 	},
 	{
 		"title": "Jojo Rabbit",
@@ -283,10 +306,11 @@
 			"Taika Waititi"
 		],
 		"clip": "clips/movie24.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie24.jpg",
+		"genre": ["War","Comedy","Drama"],
 		"length": 108,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "A World War II satire that follows a lonely German boy whose world view is turned upside down when he discovers his single mother is hiding a young Jewish girl in their attic. Aided only by his idiotic imaginary friend, Adolf Hitler, Jojo must confront his blind nationalism."
 	},
 	{
 		"title": "Ran",
@@ -295,10 +319,11 @@
 			"Akira Kurosawa"
 		],
 		"clip": "clips/movie25.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie25.jpg",
+		"genre": ["Drama","History","Action"],
 		"length": 160,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Shakespeare's King Lear is reimagined as a singular historical epic set in sixteenth-century Japan where an aging warlord divides his kingdom between his three sons."
 	},
 	{
 		"title": "Macbeth",
@@ -307,10 +332,11 @@
 			"Justin Kurzel"
 		],
 		"clip": "clips/movie26.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie26.jpg",
+		"genre": ["War","Drama"],
 		"length": 113,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Feature film adaptation of Shakespeare's Scottish play about General Macbeth whose ambitious wife urges him to use wicked means in order to gain power of the throne over the sitting king, Duncan."
 	},
 	{
 		"title": "Last Night in Soho",
@@ -319,10 +345,11 @@
 			"Edgar Wright"
 		],
 		"clip": "clips/movie27.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie27.jpg",
+		"genre": ["Drama","Horror","Thriller","Mystery"],
 		"length": 116,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences."
 	},
 	{
 		"title": "A Ghost Story",
@@ -331,10 +358,11 @@
 			"David Lowery"
 		],
 		"clip": "clips/movie28.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie28.jpg",
+		"genre": ["Fantasy","Drama","Romance","Mystery"],
 		"length": 93,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Recently deceased, a white-sheeted ghost returns to his suburban home to console his bereft wife, only to find that in his spectral state he has become unstuck in time, forced to watch passively as the life he knew and the woman he loves slowly slip away."
 	},
 	{
 		"title": "TÁR",
@@ -343,10 +371,11 @@
 			"Todd Field"
 		],
 		"clip": "clips/movie29.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie29.jpg",
+		"genre": ["Music","Drama"],
 		"length": 158,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "As celebrated conductor Lydia Tár starts rehearsals for a career-defining symphony, the consequences of her past choices begin to echo in the present."
 	},
 	{
 		"title": "Steve Jobs",
@@ -355,10 +384,11 @@
 			"Danny Boyle"
 		],
 		"clip": "clips/movie30.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie30.jpg",
+		"genre": ["Drama","History"],
 		"length": 122,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Set backstage at three iconic product launches and ending in 1998 with the unveiling of the iMac, Steve Jobs takes us behind the scenes of the digital revolution to paint an intimate portrait of the brilliant man at its epicenter."
 	},
 	{
 		"title": "Civil War",
@@ -367,10 +397,11 @@
 			"Alex Garland"
 		],
 		"clip": "clips/movie31.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie31.jpg",
+		"genre": ["War","Drama","Action"],
 		"length": 109,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war."
 	},
 	{
 		"title": "The Holdovers",
@@ -379,10 +410,11 @@
 			"Alexander Payne"
 		],
 		"clip": "clips/movie32.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie32.jpg",
+		"genre": ["Drama","Comedy"],
 		"length": 133,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam."
 	},
 	{
 		"title": "The Lost City of Z",
@@ -391,10 +423,11 @@
 			"James Gray"
 		],
 		"clip": "clips/movie33.mp4",
+		"thumb": "thumbs/movie33.jpg",
 		"genre": [],
 		"length": 141,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A true-life drama in the 1920s, centering on British explorer Col. Percy Fawcett, who discovered evidence of a previously unknown, advanced civilization in the Amazon and disappeared whilst searching for it."
 	},
 	{
 		"title": "Enemy",
@@ -403,10 +436,11 @@
 			"Denis Villeneuve"
 		],
 		"clip": "clips/movie34.mp4",
+		"thumb": "thumbs/movie34.jpg",
 		"genre": [],
 		"length": 91,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A mild-mannered college professor discovers a look-alike actor and delves into the other man's private affairs."
 	},
 	{
 		"title": "Medusa Deluxe",
@@ -415,10 +449,11 @@
 			"Thomas Hardiman"
 		],
 		"clip": "clips/movie35.mp4",
+		"thumb": "thumbs/movie35.jpg",
 		"genre": [],
 		"length": 101,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Talented and cutthroat hairstylists at a competition find one of their own murdered before judging can begin. Winding through neon-lit halls, competitors unspool long-simmering resentments and lies as they search for the killer among them."
 	},
 	{
 		"title": "In the Mood for Love",
@@ -427,10 +462,11 @@
 			"Wong Kar-Wai"
 		],
 		"clip": "clips/movie36.mp4",
+		"thumb": "thumbs/movie36.jpg",
 		"genre": [],
 		"length": 98,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "In 1962 Hong Kong, neighbors Su Li-zhen (Mrs. Chan) and Chow Mo-wan (Mr. Chow) discover their spouses are having an affair. As they spend time together, they develop feelings for each other, but their relationship remains chaste and unspoken, reflecting societal constraints and their own moral compass."
 	},
 	{
 		"title": "The Village",
@@ -439,10 +475,11 @@
 			"M. Night Shyamalan"
 		],
 		"clip": "clips/movie37.mp4",
+		"thumb": "thumbs/movie37.jpg",
 		"genre": [],
 		"length": 108,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "When a willful young man tries to venture beyond his sequestered Pennsylvania hamlet, his actions set off a chain of chilling incidents that will alter the community forever."
 	},
 	{
 		"title": "I'm Thinking of Ending Things",
@@ -451,10 +488,11 @@
 			"Charlie Kaufman"
 		],
 		"clip": "clips/movie38.mp4",
+		"thumb": "thumbs/movie38.jpg",
 		"genre": [],
 		"length": 135,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Nothing is as it seems when a woman experiencing misgivings about her new boyfriend joins him on a road trip to meet his parents at their remote farm."
 	},
 	{
 		"title": "After Yang",
@@ -463,10 +501,11 @@
 			"Kogonada"
 		],
 		"clip": "clips/movie39.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie39.jpg",
+		"genre": ["Drama","Science Fiction"],
 		"length": 96,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "When his young daughter's beloved companion — an android named Yang — malfunctions, Jake searches for a way to repair him. In the process, Jake discovers the life that has been passing in front of him, reconnecting with his wife and daughter across a distance he didn't know was there."
 	},
 	{
 		"title": "Light of My Life",
@@ -475,10 +514,11 @@
 			"Casey Affleck"
 		],
 		"clip": "clips/movie40.mp4",
+		"thumb": "thumbs/movie40.jpg",
 		"genre": [],
 		"length": 119,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Parent and child journey through the outskirts of society a decade after a pandemic has wiped out half the world's population. As a father struggles to protect his child, their bond—and the character of humanity—is tested."
 	},
 	{
 		"title": "Conclave",
@@ -487,10 +527,11 @@
 			"Edward Berger"
 		],
 		"clip": "clips/movie41.mp4",
+		"thumb": "thumbs/movie41.jpg",
 		"genre": [],
 		"length": 120,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall."
 	},
 	{
 		"title": "The Imitation Game",
@@ -499,10 +540,11 @@
 			"Morten Tyldum"
 		],
 		"clip": "clips/movie42.mp4",
+		"thumb": "thumbs/movie42.jpg",
 		"genre": [],
 		"length": 113,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II."
 	},
 	{
 		"title": "Beyond the Black Rainbow",
@@ -511,10 +553,11 @@
 			"Panos Cosmatos"
 		],
 		"clip": "clips/movie43.mp4",
+		"thumb": "thumbs/movie43.jpg",
 		"genre": [],
 		"length": 110,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Deep within the mysterious Arboria Institute, a disturbed and beautiful girl is held captive by a doctor in search of inner peace. Her mind controlled by a sinister technology. Silently, she waits for her next session with deranged therapist Dr. Barry Nyle. If she hopes to escape, she must journey through the darkest reaches of The Institute, but Nyle wonʼt easily part with his most gifted and dangerous creation."
 	},
 	{
 		"title": "Drive My Car",
@@ -523,10 +566,11 @@
 			"Ryūsuke Hamaguchi"
 		],
 		"clip": "clips/movie44.mp4",
+		"thumb": "thumbs/movie44.jpg",
 		"genre": [],
 		"length": 179,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "Yusuke Kafuku, a stage actor and director, still unable, after two years, to cope with the loss of his beloved wife, accepts to direct Uncle Vanya at a theater festival in Hiroshima. There he meets Misaki, an introverted young woman, appointed to drive his car. In between rides, secrets from the past and heartfelt confessions will be unveiled."
 	},
 	{
 		"title": "High Life",
@@ -535,10 +579,11 @@
 			"Claire Denis"
 		],
 		"clip": "clips/movie45.mp4",
+		"thumb": "thumbs/movie45.jpg",
 		"genre": [],
 		"length": 113,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A father and his daughter struggle to survive in deep space where they live in isolation."
 	},
 	{
 		"title": "Sidewalls",
@@ -547,10 +592,11 @@
 			"Gustavo Taretto"
 		],
 		"clip": "clips/movie46.mp4",
+		"thumb": "thumbs/movie46.jpg",
 		"genre": [],
 		"length": 94,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Martin is a neurotic web designer taking baby steps out of the isolation of his one-room apartment and his virtual reality. Mariana is an artist fresh out of a a long relationship. They are perfect for each other, live on the same street, in opposite buildings, but they never meet. Can the movement of a modern city of three million people bring them together?"
 	},
 	{
 		"title": "Sometimes I Think About Dying",
@@ -559,10 +605,11 @@
 			"Rachel Lambert"
 		],
 		"clip": "clips/movie47.mp4",
+		"thumb": "thumbs/movie47.jpg",
 		"genre": [],
 		"length": 94,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Fran likes to think about dying. It brings sensation to her quiet life. When she makes the new guy at work laugh, it leads to more: a date, a slice of pie, a conversation, a spark. The only thing standing in their way is Fran herself."
 	},
 	{
 		"title": "All the President's Men",
@@ -571,10 +618,11 @@
 			"Alan J. Pakula"
 		],
 		"clip": "clips/movie48.mp4",
+		"thumb": "thumbs/movie48.jpg",
 		"genre": [],
 		"length": 138,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post."
 	},
 	{
 		"title": "The King",
@@ -583,10 +631,11 @@
 			"David Michôd"
 		],
 		"clip": "clips/movie49.mp4",
+		"thumb": "thumbs/movie49.jpg",
 		"genre": [],
 		"length": 140,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "England, 15th century. Hal, a capricious prince who lives among the populace far from court, is forced by circumstances to reluctantly accept the throne and become Henry V."
 	},
 	{
 		"title": "Tuesday",
@@ -595,10 +644,11 @@
 			"Daina Oniunas-Pusić"
 		],
 		"clip": "clips/movie50.mp4",
+		"thumb": "thumbs/movie50.jpg",
 		"genre": [],
 		"length": 111,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A mother and her teenage daughter must confront Death when it arrives in the form of an astonishing talking bird."
 	},
 	{
 		"title": "Jackie",
@@ -607,10 +657,11 @@
 			"Pablo Larraín"
 		],
 		"clip": "clips/movie51.mp4",
+		"thumb": "thumbs/movie51.jpg",
 		"genre": [],
 		"length": 100,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "An account of the days of First Lady, Jacqueline Kennedy, in the immediate aftermath of John F. Kennedy's assassination in 1963."
 	},
 	{
 		"title": "Caddo Lake",
@@ -620,10 +671,11 @@
 			"Logan George"
 		],
 		"clip": "clips/movie52.mp4",
+		"thumb": "thumbs/movie52.jpg",
 		"genre": [],
 		"length": 103,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "When an 8-year-old girl mysteriously vanishes on Caddo Lake, a series of past deaths and disappearances begin to link together, forever altering a broken family’s history."
 	},
 	{
 		"title": "EO",
@@ -632,10 +684,11 @@
 			"Jerzy Skolimowski"
 		],
 		"clip": "clips/movie53.mp4",
+		"thumb": "thumbs/movie53.jpg",
 		"genre": [],
 		"length": 88,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "The world is a mysterious place when seen through the eyes of an animal. EO, a grey donkey with melancholic eyes, meets good and bad people on his life’s path, experiences joy and pain, endures the wheel of fortune randomly turn his luck into disaster and his despair into unexpected bliss. But not even for a moment does he lose his innocence."
 	},
 	{
 		"title": "The Man Who Killed Don Quixote",
@@ -644,10 +697,11 @@
 			"Terry Gilliam"
 		],
 		"clip": "clips/movie54.mp4",
+		"thumb": "thumbs/movie54.jpg",
 		"genre": [],
 		"length": 133,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Toby, a cynical film director finds himself trapped in the outrageous delusions of an old Spanish shoe-maker who believes himself to be Don Quixote. In the course of their comic and increasingly surreal adventures, Toby is forced to confront the tragic repercussions of a film he made in his idealistic youth."
 	},
 	{
 		"title": "Small Things Like These",
@@ -656,10 +710,11 @@
 			"Tim Mielants"
 		],
 		"clip": "clips/movie55.mp4",
+		"thumb": "thumbs/movie55.jpg",
 		"genre": [],
 		"length": 99,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In 1985, while working as a coal merchant to support his family, Bill Furlong discovers disturbing secrets kept by the local convent and uncovers truths of his own; forcing him to confront his past and the complicit silence of a small Irish town controlled by the Catholic Church."
 	},
 	{
 		"title": "The Favourite",
@@ -668,10 +723,11 @@
 			"Yorgos Lanthimos"
 		],
 		"clip": "clips/movie56.mp4",
+		"thumb": "thumbs/movie56.jpg",
 		"genre": [],
 		"length": 120,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite."
 	},
 	{
 		"title": "Terminal",
@@ -680,10 +736,11 @@
 			"Vaughn Stein"
 		],
 		"clip": "clips/movie57.mp4",
+		"thumb": "thumbs/movie57.jpg",
 		"genre": [],
 		"length": 95,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In the dark heart of a sprawling, anonymous city, two assassins carry out a sinister mission, a teacher battles a fatal illness, and an enigmatic janitor and a curious waitress lead dangerous double lives. Murderous consequences unravel in the dead of night, as their lives intertwine at the hands of a mysterious criminal mastermind who is hell-bent on revenge."
 	},
 	{
 		"title": "Cure",
@@ -692,10 +749,11 @@
 			"Kiyoshi Kurosawa"
 		],
 		"clip": "clips/movie58.mp4",
+		"thumb": "thumbs/movie58.jpg",
 		"genre": [],
 		"length": 112,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A detective starts spiraling out of control when a wave of gruesome murders with seemingly similar bizarre circumstances is sweeping Tokyo."
 	},
 	{
 		"title": "Mission to Mars",
@@ -704,10 +762,11 @@
 			"Brian De Palma"
 		],
 		"clip": "clips/movie59.mp4",
+		"thumb": "thumbs/movie59.jpg",
 		"genre": [],
 		"length": 114,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "When the first manned mission to Mars meets with a catastrophic and mysterious disaster after reporting an unidentified structure, a rescue mission is launched to investigate the tragedy and bring back any survivors."
 	},
 	{
 		"title": "The Mission",
@@ -716,10 +775,11 @@
 			"Roland Joffé"
 		],
 		"clip": "clips/movie60.mp4",
+		"thumb": "thumbs/movie60.jpg",
 		"genre": [],
 		"length": 126,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "When a Spanish Jesuit goes into the South American wilderness to build a mission in the hope of converting the Indians of the region, a slave hunter is converted and joins his mission. When Spain sells the colony to Portugal, they are forced to defend all they have built against the Portuguese aggressors."
 	},
 	{
 		"title": "The Double",
@@ -728,10 +788,11 @@
 			"Richard Ayoade"
 		],
 		"clip": "clips/movie61.mp4",
+		"thumb": "thumbs/movie61.jpg",
 		"genre": [],
 		"length": 93,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "An awkward office drone becomes increasingly unhinged after a charismatic and confident look-alike takes a job at his workplace and seduces the woman he desires."
 	},
 	{
 		"title": "tick, tick... BOOM!",
@@ -740,10 +801,11 @@
 			"Lin-Manuel Miranda"
 		],
 		"clip": "clips/movie62.mp4",
+		"thumb": "thumbs/movie62.jpg",
 		"genre": [],
 		"length": 115,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "On the brink of turning 30, a promising theater composer navigates love, friendship and the pressure to create something great before time runs out."
 	},
 	{
 		"title": "I Saw the TV Glow",
@@ -752,10 +814,11 @@
 			"Jane Schoenbrun"
 		],
 		"clip": "clips/movie63.mp4",
+		"thumb": "thumbs/movie63.jpg",
 		"genre": [],
 		"length": 100,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Teenager Owen is just trying to make it through life in the suburbs when his classmate Maddy introduces him to a mysterious TV show — a vision of a supernatural world beneath their own. In the pale glow of the television, Owen’s view of reality begins to crack."
 	},
 	{
 		"title": "La Chimera",
@@ -764,10 +827,11 @@
 			"Alice Rohrwacher"
 		],
 		"clip": "clips/movie64.mp4",
+		"thumb": "thumbs/movie64.jpg",
 		"genre": [],
 		"length": 131,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Just out of jail, rumpled English archaeologist Arthur reconnects with his wayward crew of tombaroli accomplices – a happy-go-lucky collective of itinerant grave-robbers who survive by looting Etruscan tombs and fencing the ancient treasures they dig up."
 	},
 	{
 		"title": "October Sky",
@@ -776,10 +840,11 @@
 			"Joe Johnston"
 		],
 		"clip": "clips/movie65.mp4",
+		"thumb": "thumbs/movie65.jpg",
 		"genre": [],
 		"length": 108,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Homer Hickam is a kid with only one future in sight, to work in the local coal mine like his father. However, in October 1957 everything changes when the first artificial satellite, Sputnik, goes into orbit. When Homer sees the Soviet satellite streak overhead, he becomes inspired to learn how to build rockets. With the help of his friends, and the local nerd, Homer sets to do just that by trial and a lot of error. Unfortunately, most of the town, and especially Homer's father, thinks that they are wasting their time. Only one teacher understands their efforts and lets them know that they could become contenders in the national science fair with college scholarships being the prize. Now the gang must learn to perfect their craft and overcome the many problems facing them as they shoot for the stars."
 	},
 	{
 		"title": "Shadow",
@@ -788,10 +853,11 @@
 			"Zhang Yimou"
 		],
 		"clip": "clips/movie66.mp4",
+		"thumb": "thumbs/movie66.jpg",
 		"genre": [],
 		"length": 116,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In a kingdom ruled by a young and unpredictable king, the military commander has a secret weapon: a shadow, a look-alike who can fool both his enemies and the King himself. Now he must use this weapon in an intricate plan that will lead his people to victory in a war that the King does not want."
 	},
 	{
 		"title": "The Last Emperor",
@@ -800,10 +866,11 @@
 			"Bernardo Bertolucci"
 		],
 		"clip": "clips/movie67.mp4",
+		"thumb": "thumbs/movie67.jpg",
 		"genre": [],
 		"length": 163,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A dramatic history of Pu Yi, the last of the Emperors of China, from his lofty birth and brief reign in the Forbidden City, the object of worship by half a billion people; through his abdication, his decline and dissolute lifestyle; his exploitation by the invading Japanese, and finally to his obscure existence as just another peasant worker in the People's Republic."
 	},
 	{
 		"title": "Columbus",
@@ -812,10 +879,11 @@
 			"Kogonada"
 		],
 		"clip": "clips/movie68.mp4",
+		"thumb": "thumbs/movie68.jpg",
 		"genre": [],
 		"length": 104,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "When a renowned architecture scholar falls suddenly ill during a speaking tour, his son Jin finds himself stranded in Columbus, Indiana - a small Midwestern city celebrated for its many significant modernist buildings. Jin strikes up a friendship with Casey, a young architecture enthusiast who works at the local library."
 	},
 	{
 		"title": "Black Rain",
@@ -824,10 +892,11 @@
 			"Ridley Scott"
 		],
 		"clip": "clips/movie69.mp4",
+		"thumb": "thumbs/movie69.jpg",
 		"genre": [],
 		"length": 125,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Two New York cops get involved in a gang war between members of the Yakuza, the Japanese Mafia. They arrest one of their killers and are ordered to escort him back to Japan. However, in Japan he manages to escape, and as they try to track him down, they get deeper and deeper into the Japanese Mafia scene and they have to learn that they can only win by playing the game—the Japanese way."
 	},
 	{
 		"title": "Society of the Snow",
@@ -836,10 +905,11 @@
 			"J.A. Bayona"
 		],
 		"clip": "clips/movie70.mp4",
+		"thumb": "thumbs/movie70.jpg",
 		"genre": [],
 		"length": 144,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes."
 	},
 	{
 		"title": "Strange Days",
@@ -848,10 +918,11 @@
 			"Kathryn Bigelow"
 		],
 		"clip": "clips/movie71.mp4",
+		"thumb": "thumbs/movie71.jpg",
 		"genre": [],
 		"length": 145,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Former policeman Lenny Nero has moved into a more lucrative trade: the illegal sale of virtual reality-like recordings that allow users to experience the emotions and past experiences of others. While they typically contain tawdry incidents, Nero is shocked when he receives one showing a murder."
 	},
 	{
 		"title": "The Novice",
@@ -860,10 +931,11 @@
 			"Lauren Hadaway"
 		],
 		"clip": "clips/movie72.mp4",
+		"thumb": "thumbs/movie72.jpg",
 		"genre": [],
 		"length": 94,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A college freshman joins her university's rowing team and undertakes an obsessive physical and psychological journey to make it to the top varsity boat, no matter the cost."
 	},
 	{
 		"title": "Timecrimes",
@@ -872,10 +944,11 @@
 			"Nacho Vigalondo"
 		],
 		"clip": "clips/movie73.mp4",
+		"thumb": "thumbs/movie73.jpg",
 		"genre": [],
 		"length": 92,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A man accidentally gets into a time machine and travels back in time nearly an hour. Finding himself will be the first of a series of disasters of unforeseeable consequences."
 	},
 	{
 		"title": "Primal Fear",
@@ -884,10 +957,11 @@
 			"Gregory Hoblit"
 		],
 		"clip": "clips/movie74.mp4",
+		"thumb": "thumbs/movie74.jpg",
 		"genre": [],
 		"length": 129,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "An arrogant, high-powered attorney takes on the case of a poor altar boy found running away from the scene of the grisly murder of the bishop who has taken him in. The case gets a lot more complex when the accused reveals that there may or may not have been a third person in the room."
 	},
 	{
 		"title": "Bad Times at the El Royale",
@@ -896,10 +970,11 @@
 			"Drew Goddard"
 		],
 		"clip": "clips/movie75.mp4",
+		"thumb": "thumbs/movie75.jpg",
 		"genre": [],
 		"length": 141,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Lake Tahoe, 1969. Seven strangers, each one with a secret to bury, meet at El Royale, a decadent motel with a dark past. In the course of a fateful night, everyone will have one last shot at redemption."
 	},
 	{
 		"title": "Suspiria",
@@ -908,10 +983,11 @@
 			"Dario Argento"
 		],
 		"clip": "clips/movie76.mp4",
+		"thumb": "thumbs/movie76.jpg",
 		"genre": [],
 		"length": 99,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders."
 	},
 	{
 		"title": "Predestination",
@@ -921,10 +997,11 @@
 			"Michael Spierig"
 		],
 		"clip": "clips/movie77.mp4",
+		"thumb": "thumbs/movie77.jpg",
 		"genre": [],
 		"length": 98,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost."
 	},
 	{
 		"title": "Six-String Samurai",
@@ -933,10 +1010,11 @@
 			"Lance Mungia"
 		],
 		"clip": "clips/movie78.mp4",
+		"thumb": "thumbs/movie78.jpg",
 		"genre": [],
 		"length": 91,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In a post-apocalyptic world where the Russians have taken over a nuked USA and Elvis is king of Lost Vegas, Buddy is a '50s rocker and wandering warrior rolled into one, too-cool package. Armed with his six-string in one hand and his sword in the other, Buddy is on his way to Vegas to succeed Elvis as King. Along the way, he saves an orphan who decides to tag along."
 	},
 	{
 		"title": "Amsterdam",
@@ -945,10 +1023,11 @@
 			"David O. Russell"
 		],
 		"clip": "clips/movie79.mp4",
+		"thumb": "thumbs/movie79.jpg",
 		"genre": [],
 		"length": 134,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In the 1930s, three friends—a doctor, a nurse, and an attorney—witness a murder, become suspects themselves and uncover one of the most outrageous plots in American history."
 	},
 	{
 		"title": "Baraka",
@@ -957,10 +1036,11 @@
 			"Ron Fricke"
 		],
 		"clip": "clips/movie80.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie80.jpg",
+		"genre": ["Documentary"],
 		"length": 97,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A paralysingly beautiful documentary with a global vision—an odyssey through landscape and time—that attempts to capture the essence of life."
 	},
 	{
 		"title": "Fire of Love",
@@ -969,22 +1049,24 @@
 			"Sara Dosa"
 		],
 		"clip": "clips/movie81.mp4",
+		"thumb": "thumbs/movie81.jpg",
 		"genre": [],
 		"length": 93,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A doomed love triangle between intrepid French scientists Katia and Maurice Krafft, and their beloved volcanoes."
 	},
 	{
-		"title": "Three Colours − Blue",
+		"title": "Three Colours: Blue",
 		"year": 1993,
 		"director": [
 			"Krzysztof Kieślowski"
 		],
 		"clip": "clips/movie82.mp4",
+		"thumb": "thumbs/movie82.jpg",
 		"genre": [],
 		"length": 98,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "The wife of a famous composer survives a car accident that kills her husband and daughter. Now alone, she shakes off her old identity and explores her newfound freedom but finds that she is unbreakably bound to other humans, including her husband’s mistress, whose existence she never suspected."
 	},
 	{
 		"title": "Thunder Road",
@@ -993,10 +1075,11 @@
 			"Jim Cummings"
 		],
 		"clip": "clips/movie83.mp4",
+		"thumb": "thumbs/movie83.jpg",
 		"genre": [],
 		"length": 90,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A police officer faces a personal meltdown following a divorce and the death of his mother."
 	},
 	{
 		"title": "Fallen Angels",
@@ -1005,10 +1088,11 @@
 			"Wong Kar-Wai"
 		],
 		"clip": "clips/movie84.mp4",
+		"thumb": "thumbs/movie84.jpg",
 		"genre": [],
 		"length": 98,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "An assassin goes through obstacles as he attempts to escape his violent lifestyle despite the opposition of his partner, who is secretly attracted to him."
 	},
 	{
 		"title": "Eddie the Eagle",
@@ -1017,10 +1101,11 @@
 			"Dexter Fletcher"
 		],
 		"clip": "clips/movie85.mp4",
+		"thumb": "thumbs/movie85.jpg",
 		"genre": [],
 		"length": 106,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "The feel-good story of Michael 'Eddie' Edwards, an unlikely but courageous British ski-jumper who never stopped believing in himself—even as an entire nation was counting him out. With the help of a rebellious and charismatic coach, Eddie takes on the establishment and wins the hearts of sports fans around the world by making an improbable and historic showing at the 1988 Calgary Winter Olympics."
 	},
 	{
 		"title": "Persona",
@@ -1029,10 +1114,11 @@
 			"Ingmar Bergman"
 		],
 		"clip": "clips/movie86.mp4",
+		"thumb": "thumbs/movie86.jpg",
 		"genre": [],
 		"length": 84,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer."
 	},
 	{
 		"title": "On Body and Soul",
@@ -1041,10 +1127,11 @@
 			"Ildikó Enyedi"
 		],
 		"clip": "clips/movie87.mp4",
+		"thumb": "thumbs/movie87.jpg",
 		"genre": [],
 		"length": 116,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Two introverted people find out by pure chance that they share the same dream every night. They are puzzled, incredulous, a bit frightened. As they hesitantly accept this strange coincidence, they try to recreate in broad daylight what happens in their dream."
 	},
 	{
 		"title": "Cube",
@@ -1053,10 +1140,11 @@
 			"Vincenzo Natali"
 		],
 		"clip": "clips/movie88.mp4",
+		"thumb": "thumbs/movie88.jpg",
 		"genre": [],
 		"length": 90,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A group of strangers find themselves trapped in a maze-like prison. It soon becomes clear that each of them possesses the peculiar skills necessary to escape, if they don't wind up dead first."
 	},
 	{
 		"title": "Buster's Mal Heart",
@@ -1065,10 +1153,11 @@
 			"Sarah Adina Smith"
 		],
 		"clip": "clips/movie89.mp4",
+		"thumb": "thumbs/movie89.jpg",
 		"genre": [],
 		"length": 96,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "An eccentric mountain man on the run from the local sheriff recalls the mysterious events that brought him to his present fugitive state."
 	},
 	{
 		"title": "The 13th Warrior",
@@ -1077,22 +1166,24 @@
 			"John McTiernan"
 		],
 		"clip": "clips/movie90.mp4",
+		"thumb": "thumbs/movie90.jpg",
 		"genre": [],
 		"length": 102,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A Muslim ambassador exiled from his homeland joins a group of Vikings, initially offended by their behavior but growing to respect them. As they travel together, they learn of a legendary evil closing in and must unite to confront this formidable force."
 	},
 	{
-		"title": "Mad Max − Fury Road",
+		"title": "Mad Max: Fury Road",
 		"year": 2015,
 		"director": [
 			"George Miller"
 		],
 		"clip": "clips/movie91.mp4",
+		"thumb": "thumbs/movie91.jpg",
 		"genre": [],
 		"length": 121,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order."
 	},
 	{
 		"title": "Glass Onion",
@@ -1101,10 +1192,11 @@
 			"Rian Johnson"
 		],
 		"clip": "clips/movie92.mp4",
+		"thumb": "thumbs/movie92.jpg",
 		"genre": [],
 		"length": 140,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends."
 	},
 	{
 		"title": "Upstream Color",
@@ -1113,10 +1205,11 @@
 			"Shane Carruth"
 		],
 		"clip": "clips/movie93.mp4",
+		"thumb": "thumbs/movie93.jpg",
 		"genre": [],
 		"length": 96,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A man and woman are drawn together, entangled in the lifecycle of an ageless organism. Identity becomes an illusion as they struggle to assemble the loose fragments of wrecked lives."
 	},
 	{
 		"title": "Equals",
@@ -1125,10 +1218,11 @@
 			"Drake Doremus"
 		],
 		"clip": "clips/movie94.mp4",
+		"thumb": "thumbs/movie94.jpg",
 		"genre": [],
 		"length": 102,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A futuristic love story set in a world where emotions have been eradicated."
 	},
 	{
 		"title": "Samsara",
@@ -1137,10 +1231,11 @@
 			"Ron Fricke"
 		],
 		"clip": "clips/movie95.mp4",
+		"thumb": "thumbs/movie95.jpg",
 		"genre": [],
 		"length": 102,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Filmed over nearly five years in twenty-five countries on five continents, and shot on seventy-millimetre film, Samsara transports us to the varied worlds of sacred grounds, disaster zones, industrial complexes, and natural wonders."
 	},
 	{
 		"title": "Flow",
@@ -1149,10 +1244,11 @@
 			"Gints Zilbalodis"
 		],
 		"clip": "clips/movie96.mp4",
+		"thumb": "thumbs/movie96.jpg",
 		"genre": [],
 		"length": 85,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together."
 	},
 	{
 		"title": "Jarhead",
@@ -1161,10 +1257,11 @@
 			"Sam Mendes"
 		],
 		"clip": "clips/movie97.mp4",
+		"thumb": "thumbs/movie97.jpg",
 		"genre": [],
 		"length": 123,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Jarhead is a film about a US Marine Anthony Swofford’s experience in the Gulf War. After putting up with an arduous boot camp, Swofford and his unit are sent to the Persian Gulf where they are eager to fight, but are forced to stay back from the action. Swofford struggles with the possibility of his girlfriend cheating on him, and as his mental state deteriorates, his desire to kill increases."
 	},
 	{
 		"title": "Spotlight",
@@ -1173,10 +1270,11 @@
 			"Tom McCarthy"
 		],
 		"clip": "clips/movie98.mp4",
+		"thumb": "thumbs/movie98.jpg",
 		"genre": [],
 		"length": 129,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core."
 	},
 	{
 		"title": "First Reformed",
@@ -1185,10 +1283,11 @@
 			"Paul Schrader"
 		],
 		"clip": "clips/movie99.mp4",
+		"thumb": "thumbs/movie99.jpg",
 		"genre": [],
 		"length": 113,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A pastor of a small church in upstate New York starts to spiral out of control after a soul-shaking encounter with an unstable environmental activist and his pregnant wife."
 	},
 	{
 		"title": "Lost River",
@@ -1197,10 +1296,11 @@
 			"Ryan Gosling"
 		],
 		"clip": "clips/movie100.mp4",
+		"thumb": "thumbs/movie100.jpg",
 		"genre": [],
 		"length": 95,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Billy, a single mother of two, is led into a macabre underworld while her teenage son, Bones, discovers a secret road leading to an underwater town. Both Billy and Bones must dive deep into the mystery if their family is to survive."
 	},
 	{
 		"title": "A Real Pain",
@@ -1209,10 +1309,11 @@
 			"Jesse Eisenberg"
 		],
 		"clip": "clips/movie101.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie101.jpg",
+		"genre": ["Comedy","Drama"],
 		"length": 90,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history."
 	},
 	{
 		"title": "Eastern Promises",
@@ -1221,10 +1322,11 @@
 			"David Cronenberg"
 		],
 		"clip": "clips/movie102.mp4",
+		"thumb": "thumbs/movie102.jpg",
 		"genre": [],
 		"length": 101,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A Russian teenager living in London dies during childbirth but leaves clues in her diary that could tie her child to a rape involving a violent Russian mob family."
 	},
 	{
 		"title": "Win Win",
@@ -1233,10 +1335,11 @@
 			"Tom McCarthy"
 		],
 		"clip": "clips/movie103.mp4",
+		"thumb": "thumbs/movie103.jpg",
 		"genre": [],
 		"length": 106,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "When down-on-his-luck part-time high school wrestling coach Mike agrees to become legal guardian to an elderly man, his ward's troubled grandson turns out to be a star grappler, sparking dreams of a big win -- until the boy's mother retrieves him."
 	},
 	{
 		"title": "Rushmore",
@@ -1245,10 +1348,11 @@
 			"Wes Anderson"
 		],
 		"clip": "clips/movie104.mp4",
+		"thumb": "thumbs/movie104.jpg",
 		"genre": [],
 		"length": 93,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "When a beautiful first-grade teacher arrives at a prep school, she soon attracts the attention of an ambitious teenager named Max, who quickly falls in love with her. Max turns to the father of two of his schoolmates for advice on how to woo the teacher. However, the situation soon gets complicated when Max's new friend becomes involved with her, setting the two pals against one another in a war for her attention."
 	},
 	{
 		"title": "I Don't Feel at Home in This World Anymore",
@@ -1257,10 +1361,11 @@
 			"Macon Blair"
 		],
 		"clip": "clips/movie105.mp4",
+		"thumb": "thumbs/movie105.jpg",
 		"genre": [],
 		"length": 96,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "When a depressed woman is burglarized, she finds a new sense of purpose by tracking down the thieves alongside her obnoxious neighbor. But they soon find themselves dangerously out of their depth against a pack of degenerate criminals."
 	},
 	{
 		"title": "Paprika",
@@ -1269,10 +1374,11 @@
 			"Satoshi Kon"
 		],
 		"clip": "clips/movie106.mp4",
+		"thumb": "thumbs/movie106.jpg",
 		"genre": [],
 		"length": 90,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "When a machine that allows therapists to enter their patient's dreams is stolen, all hell breaks loose. Only a young female therapist can stop it and recover it before damage is done: Paprika."
 	},
 	{
 		"title": "Le Samouraï",
@@ -1281,10 +1387,11 @@
 			"Jean-Pierre Melville"
 		],
 		"clip": "clips/movie107.mp4",
+		"thumb": "thumbs/movie107.jpg",
 		"genre": [],
 		"length": 105,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "After carrying out a flawlessly planned hit, Jef Costello, a contract killer with samurai instincts, finds himself caught between a persistent police investigator and a ruthless employer, and not even his armor of fedora and trench coat can protect him."
 	},
 	{
 		"title": "The Rover",
@@ -1293,10 +1400,11 @@
 			"David Michôd"
 		],
 		"clip": "clips/movie108.mp4",
+		"thumb": "thumbs/movie108.jpg",
 		"genre": [],
 		"length": 103,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Ten years after a severe economic collapse in the western world, lawlessness reigns and life is cheap. Eric is a lone drifter, and his car is his only possession. When a gang steals it, Eric comes across the injured Rey, left behind by the car thieves. The pair form an unlikely and uneasy alliance."
 	},
 	{
 		"title": "The Art of Self-Defense",
@@ -1305,10 +1413,11 @@
 			"Riley Stearns"
 		],
 		"clip": "clips/movie109.mp4",
+		"thumb": "thumbs/movie109.jpg",
 		"genre": [],
 		"length": 104,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Casey is attacked at random on the street and enlists in a local dojo led by a charismatic and mysterious Sensei in an effort to learn how to defend himself. What he uncovers is a sinister world of fraternity, violence and hypermasculinity and a woman fighting for her place in it."
 	},
 	{
 		"title": "The Power of the Dog",
@@ -1317,10 +1426,11 @@
 			"Jane Campion"
 		],
 		"clip": "clips/movie110.mp4",
+		"thumb": "thumbs/movie110.jpg",
 		"genre": [],
 		"length": 127,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A domineering but charismatic rancher wages a war of intimidation on his brother's new wife and her teen son, until long-hidden secrets come to light."
 	},
 	{
 		"title": "Akira",
@@ -1329,10 +1439,11 @@
 			"Katsuhiro Otomo"
 		],
 		"clip": "clips/movie111.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie111.jpg",
+		"genre": ["Action","Animation","Science Fiction"],
 		"length": 124,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop."
 	},
 	{
 		"title": "A Perfect Day",
@@ -1341,10 +1452,11 @@
 			"Fernando León de Aranoa"
 		],
 		"clip": "clips/movie112.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie112.jpg",
+		"genre": ["Drama","War","Comedy"],
 		"length": 106,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Somewhere in the Balkans, 1995. A team of aid workers must solve an apparently simple problem in an almost completely pacified territory that has been devastated by a cruel war, but some of the local inhabitants, the retreating combatants, the UN forces, many cows and an absurd bureaucracy will not cease to put obstacles in their way."
 	},
 	{
 		"title": "Monkey Man",
@@ -1353,10 +1465,11 @@
 			"Dev Patel"
 		],
 		"clip": "clips/movie113.mp4",
+		"thumb": "thumbs/movie113.jpg",
 		"genre": [],
 		"length": 121,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Kid is an anonymous young man who ekes out a meager living in an underground fight club where, night after night, wearing a gorilla mask, he is beaten bloody by more popular fighters for cash. After years of suppressed rage, Kid discovers a way to infiltrate the enclave of the city’s sinister elite. As his childhood trauma boils over, his mysteriously scarred hands unleash an explosive campaign of retribution to settle the score with the men who took everything from him."
 	},
 	{
 		"title": "The Vanishing",
@@ -1365,10 +1478,11 @@
 			"George Sluizer"
 		],
 		"clip": "clips/movie114.mp4",
+		"thumb": "thumbs/movie114.jpg",
 		"genre": [],
 		"length": 106,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "Rex and Saskia, a young couple in love, are on vacation. They stop at a busy service station and Saskia is abducted. After three years and no sign of Saskia, Rex begins receiving letters from the abductor."
 	},
 	{
 		"title": "Pawn Sacrifice",
@@ -1377,10 +1491,11 @@
 			"Edward Zwick"
 		],
 		"clip": "clips/movie115.mp4",
+		"thumb": "thumbs/movie115.jpg",
 		"genre": [],
 		"length": 115,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "American chess champion Bobby Fischer prepares for a legendary match-up against Russian Boris Spassky."
 	},
 	{
 		"title": "Carol",
@@ -1389,10 +1504,11 @@
 			"Todd Haynes"
 		],
 		"clip": "clips/movie116.mp4",
+		"thumb": "thumbs/movie116.jpg",
 		"genre": [],
 		"length": 118,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In 1950s New York, a department-store clerk who dreams of a better life falls for an older, married woman."
 	},
 	{
 		"title": "Blue Ruin",
@@ -1401,10 +1517,11 @@
 			"Jeremy Saulnier"
 		],
 		"clip": "clips/movie117.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie117.jpg",
+		"genre": ["Crime","Thriller"],
 		"length": 91,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "When the quiet life of a beach bum is upended by dreadful news, he sets off for his childhood home to carry out an act of vengeance. However, he proves an inept assassin and finds himself in a brutal fight to protect his estranged family."
 	},
 	{
 		"title": "Calvary",
@@ -1413,10 +1530,11 @@
 			"John Michael McDonagh"
 		],
 		"clip": "clips/movie118.mp4",
+		"thumb": "thumbs/movie118.jpg",
 		"genre": [],
 		"length": 102,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "After being threatened during a confession, a good-natured priest must battle the dark forces closing in around him."
 	},
 	{
 		"title": "A Most Wanted Man",
@@ -1425,10 +1543,11 @@
 			"Anton Corbijn"
 		],
 		"clip": "clips/movie119.mp4",
+		"thumb": "thumbs/movie119.jpg",
 		"genre": [],
 		"length": 121,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A Chechen Muslim illegally immigrates to Hamburg and becomes a person of interest for a covert government team tracking the movements of potential terrorists."
 	},
 	{
 		"title": "Godzilla Minus One",
@@ -1437,10 +1556,11 @@
 			"Takashi Yamazaki"
 		],
 		"clip": "clips/movie120.mp4",
+		"thumb": "thumbs/movie120.jpg",
 		"genre": [],
 		"length": 124,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror."
 	},
 	{
 		"title": "The Sisters Brothers",
@@ -1449,10 +1569,11 @@
 			"Jacques Audiard"
 		],
 		"clip": "clips/movie121.mp4",
+		"thumb": "thumbs/movie121.jpg",
 		"genre": [],
 		"length": 121,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Oregon, 1851. Hermann Kermit Warm, a chemist and aspiring gold prospector, keeps a profitable secret that the Commodore wants to know, so he sends the Sisters brothers, two notorious assassins, to capture him on his way to California."
 	},
 	{
 		"title": "The Hunt",
@@ -1461,10 +1582,11 @@
 			"Thomas Vinterberg"
 		],
 		"clip": "clips/movie122.mp4",
+		"thumb": "thumbs/movie122.jpg",
 		"genre": [],
 		"length": 116,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A teacher lives a lonely life, all the while struggling over his son’s custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie."
 	},
 	{
 		"title": "Evil Does Not Exist",
@@ -1473,10 +1595,11 @@
 			"Ryūsuke Hamaguchi"
 		],
 		"clip": "clips/movie123.mp4",
+		"thumb": "thumbs/movie123.jpg",
 		"genre": [],
 		"length": 106,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Takumi and his daughter Hana live in Mizubiki Village, close to Tokyo. One day, the village inhabitants become aware of a plan to build a camping site near Takumi's house offering city residents a comfortable \"escape\" to nature."
 	},
 	{
 		"title": "Good Time",
@@ -1486,10 +1609,11 @@
 			"Josh Safdie"
 		],
 		"clip": "clips/movie124.mp4",
+		"thumb": "thumbs/movie124.jpg",
 		"genre": [],
 		"length": 102,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail."
 	},
 	{
 		"title": "River",
@@ -1498,10 +1622,11 @@
 			"Junta Yamaguchi"
 		],
 		"clip": "clips/movie125.mp4",
+		"thumb": "thumbs/movie125.jpg",
 		"genre": [],
 		"length": 86,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "The one-hundred-year-old Fujiya inn stands in the quiet region of Kyoto. Mikoto is standing in front of the Kibune river at the back of the building when she is called back to work. But two minutes later, she finds herself back at the river again. The whole inn seems to be stuck in a time loop!"
 	},
 	{
 		"title": "Problemista",
@@ -1510,10 +1635,11 @@
 			"Julio Torres"
 		],
 		"clip": "clips/movie126.mp4",
+		"thumb": "thumbs/movie126.jpg",
 		"genre": [],
 		"length": 104,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Alejandro is an aspiring toy designer from El Salvador, struggling to bring his unusual ideas to life in New York City. As time on his work visa runs out, a job assisting an erratic art-world outcast becomes his only hope to stay in the country and realize his dream."
 	},
 	{
 		"title": "Red Desert",
@@ -1522,10 +1648,11 @@
 			"Michelangelo Antonioni"
 		],
 		"clip": "clips/movie127.mp4",
+		"thumb": "thumbs/movie127.jpg",
 		"genre": [],
 		"length": 117,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In an industrializing Italian town, a married woman, rendered mentally unstable after a traffic accident, drifts into an affair with a friend of her husband."
 	},
 	{
 		"title": "The Assassin",
@@ -1534,10 +1661,11 @@
 			"Hou Hsiao-hsien"
 		],
 		"clip": "clips/movie128.mp4",
+		"thumb": "thumbs/movie128.jpg",
 		"genre": [],
 		"length": 105,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "9th century China. Ten year old general’s daughter Nie Yinniang is abducted by a nun who initiates her into the martial arts, transforming her into an exceptional assassin charged with eliminating cruel and corrupt local governors. One day, having failed in a task, she is sent back by her mistress to the land of her birth, with orders to kill the man to whom she was promised – a cousin who now leads the largest military region in North China. After 13 years of exile, the young woman must confront her parents, her memories and her long-repressed feelings."
 	},
 	{
 		"title": "Koyaanisqatsi",
@@ -1546,10 +1674,11 @@
 			"Godfrey Reggio"
 		],
 		"clip": "clips/movie129.mp4",
+		"thumb": "thumbs/movie129.jpg",
 		"genre": [],
 		"length": 86,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Takes us to locations all around the US and shows us the heavy toll that modern technology is having on humans and the earth. The visual tone poem contains neither dialogue nor a vocalized narration: its tone is set by the juxtaposition of images and the exceptional music by Philip Glass."
 	},
 	{
 		"title": "Living",
@@ -1558,10 +1687,11 @@
 			"Oliver Hermanus"
 		],
 		"clip": "clips/movie130.mp4",
+		"thumb": "thumbs/movie130.jpg",
 		"genre": [],
 		"length": 102,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "London, 1953. Mr. Williams, a veteran civil servant, is an important cog within the city's bureaucracy as it struggles to rebuild in the aftermath of World War II. Buried under paperwork at the office and lonely at home, his life has long felt empty and meaningless. Then a devastating medical diagnosis forces him to take stock, and to try and grasp some fulfilment before it passes permanently beyond reach."
 	},
 	{
 		"title": "Maborosi",
@@ -1570,10 +1700,11 @@
 			"Hirokazu Kore-eda"
 		],
 		"clip": "clips/movie131.mp4",
+		"thumb": "thumbs/movie131.jpg",
 		"genre": [],
 		"length": 110,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A tragedy strikes a young woman's life without warning or reason. She continues living while searching for meaning in a lonely world."
 	},
 	{
 		"title": "Being John Malkovich",
@@ -1582,10 +1713,11 @@
 			"Spike Jonze"
 		],
 		"clip": "clips/movie132.mp4",
+		"thumb": "thumbs/movie132.jpg",
 		"genre": [],
 		"length": 113,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "One day at work, unsuccessful puppeteer Craig finds a portal into the head of actor John Malkovich. The portal soon becomes a passion for anybody who enters its mad and controlling world of overtaking another human body."
 	},
 	{
 		"title": "The Tragedy of Macbeth",
@@ -1594,10 +1726,11 @@
 			"Joel Coen"
 		],
 		"clip": "clips/movie133.mp4",
+		"thumb": "thumbs/movie133.jpg",
 		"genre": [],
 		"length": 105,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself."
 	},
 	{
 		"title": "The Count of Monte Cristo",
@@ -1607,10 +1740,11 @@
 			"Matthieu Delaporte"
 		],
 		"clip": "clips/movie134.mp4",
+		"thumb": "thumbs/movie134.jpg",
 		"genre": [],
 		"length": 178,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Edmond Dantes becomes the target of a sinister plot and is arrested on his wedding day for a crime he did not commit. After 14 years in the island prison of Château d’If, he manages a daring escape. Now rich beyond his dreams, he assumes the identity of the Count of Monte-Cristo and exacts his revenge on the three men who betrayed him."
 	},
 	{
 		"title": "Violet",
@@ -1619,10 +1753,11 @@
 			"Bas Devos"
 		],
 		"clip": "clips/movie135.mp4",
+		"thumb": "thumbs/movie135.jpg",
 		"genre": [],
 		"length": 85,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "15-year-old Jesse is the only one who witnessed the stabbing of his friend Jonas. Now he has to face his family and friends from the BMX riders crew and explain the unexplainable - how he feels about it."
 	},
 	{
 		"title": "Punch-Drunk Love",
@@ -1631,10 +1766,11 @@
 			"Paul Thomas Anderson"
 		],
 		"clip": "clips/movie136.mp4",
+		"thumb": "thumbs/movie136.jpg",
 		"genre": [],
 		"length": 96,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A socially awkward and volatile small business owner meets the love of his life after being threatened by a gang of scammers."
 	},
 	{
 		"title": "Midnight Special",
@@ -1643,10 +1779,11 @@
 			"Jeff Nichols"
 		],
 		"clip": "clips/movie137.mp4",
+		"thumb": "thumbs/movie137.jpg",
 		"genre": [],
 		"length": 112,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A father and son go on the run after the dad learns his child possesses special powers."
 	},
 	{
 		"title": "Another Earth",
@@ -1655,10 +1792,11 @@
 			"Mike Cahill"
 		],
 		"clip": "clips/movie138.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie138.jpg",
+		"genre": ["Science Fiction","Drama"],
 		"length": 92,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Tragedy connects a young woman and a shattered music professor as an exact replica of Earth is discovered."
 	},
 	{
 		"title": "Titane",
@@ -1667,10 +1805,11 @@
 			"Julia Ducournau"
 		],
 		"clip": "clips/movie139.mp4",
+		"thumb": "thumbs/movie139.jpg",
 		"genre": [],
 		"length": 108,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A woman with a metal plate in her head from a childhood car accident embarks on a bizarre journey, bringing her into contact with a firefighter who's reunited with his missing son after 10 years."
 	},
 	{
 		"title": "Heroic Purgatory",
@@ -1679,10 +1818,11 @@
 			"Yoshishige Yoshida"
 		],
 		"clip": "clips/movie140.mp4",
+		"thumb": "thumbs/movie140.jpg",
 		"genre": [],
 		"length": 118,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Rikiya Shoda is an engineer working for the Atomic Agency in Japan. One day, his wife Nanako returns home with a lost teenager called Ayu. A man, pretending to be the father, comes to get her back; Ayu keeps telling him that Rikiya and Nanako are her parents. Through this disruption, Rikiya suddenly starts remembering his youth as a revolutionary."
 	},
 	{
 		"title": "Woodshock",
@@ -1692,10 +1832,11 @@
 			"Laura Mulleavy"
 		],
 		"clip": "clips/movie141.mp4",
+		"thumb": "thumbs/movie141.jpg",
 		"genre": [],
 		"length": 100,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Theresa, a haunted young woman spiraling in the wake of profound loss, is torn between her fractured emotional state and the reality-altering effects of a potent cannabinoid drug."
 	},
 	{
 		"title": "Perfect Blue",
@@ -1704,10 +1845,11 @@
 			"Satoshi Kon"
 		],
 		"clip": "clips/movie142.mp4",
+		"thumb": "thumbs/movie142.jpg",
 		"genre": [],
 		"length": 82,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Encouraged by her managers, rising pop star Mima takes on a recurring role on a popular TV show, when suddenly her handlers and collaborators begin turning up murdered."
 	},
 	{
 		"title": "The Farewell",
@@ -1716,10 +1858,11 @@
 			"Lulu Wang"
 		],
 		"clip": "clips/movie143.mp4",
+		"thumb": "thumbs/movie143.jpg",
 		"genre": [],
 		"length": 100,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A headstrong Chinese-American woman returns to China when her beloved grandmother is given a terminal diagnosis. Billi struggles with her family's decision to keep grandma in the dark about her own illness as they all stage an impromptu wedding to see grandma one last time."
 	},
 	{
 		"title": "Ashes of Time",
@@ -1728,10 +1871,11 @@
 			"Wong Kar-Wai"
 		],
 		"clip": "clips/movie144.mp4",
+		"thumb": "thumbs/movie144.jpg",
 		"genre": [],
 		"length": 100,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Ouyang Feng is a heartbroken and cynical man who spends his days in the desert, connecting expert swordsmen with those seeking revenge and willing to pay for it. Throughout five seasons in exile, Ouyang spins tales of his clients' unrequited loves and unusual acts of bravery."
 	},
 	{
 		"title": "The Wolf of Snow Hollow",
@@ -1740,10 +1884,11 @@
 			"Jim Cummings"
 		],
 		"clip": "clips/movie145.mp4",
+		"thumb": "thumbs/movie145.jpg",
 		"genre": [],
 		"length": 85,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Terror grips a small mountain town as bodies are discovered after each full moon. Losing sleep, raising a teenage daughter, and caring for his ailing father, officer Marshall struggles to remind himself there's no such thing as werewolves."
 	},
 	{
 		"title": "Wild",
@@ -1752,10 +1897,11 @@
 			"Jean-Marc Vallée"
 		],
 		"clip": "clips/movie146.mp4",
+		"thumb": "thumbs/movie146.jpg",
 		"genre": [],
 		"length": 115,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A woman with a tragic past decides to start her new life by hiking for one thousand miles on the Pacific Crest Trail."
 	},
 	{
 		"title": "Daisies",
@@ -1764,10 +1910,11 @@
 			"Věra Chytilová"
 		],
 		"clip": "clips/movie147.mp4",
+		"thumb": "thumbs/movie147.jpg",
 		"genre": [],
 		"length": 76,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Two teenage girls embark on a series of destructive pranks in which they consume and destroy the world around them."
 	},
 	{
 		"title": "Good One",
@@ -1776,22 +1923,24 @@
 			"India Donaldson"
 		],
 		"clip": "clips/movie148.mp4",
+		"thumb": "thumbs/movie148.jpg",
 		"genre": [],
 		"length": 90,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "On a weekend backpacking trip in the Catskills, 17-year-old Sam contends with the competing egos of her father and his oldest friend."
 	},
 	{
-		"title": "Mishima − A Life in Four Chapters",
+		"title": "Mishima: A Life in Four Chapters",
 		"year": 1985,
 		"director": [
 			"Paul Schrader"
 		],
 		"clip": "clips/movie149.mp4",
+		"thumb": "thumbs/movie149.jpg",
 		"genre": [],
 		"length": 121,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A fictional account of the life of Japanese author Yukio Mishima, combining dramatizations of three of his novels and a depiction of the events of November 25th, 1970."
 	},
 	{
 		"title": "Showing Up",
@@ -1800,10 +1949,11 @@
 			"Kelly Reichardt"
 		],
 		"clip": "clips/movie150.mp4",
+		"thumb": "thumbs/movie150.jpg",
 		"genre": [],
 		"length": 108,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In the days leading up to a possibly career-changing exhibition, a sculptor navigates her relationships with family, friends, and colleagues."
 	},
 	{
 		"title": "Ashes and Snow",
@@ -1812,10 +1962,11 @@
 			"Gregory Colbert"
 		],
 		"clip": "clips/movie151.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie151.jpg",
+		"genre": ["Drama","Documentary"],
 		"length": 62,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Ashes and Snow, a film by Gregory Colbert, uses both still and movie cameras to explore extraordinary interactions between humans and animals. The 60-minute feature is a poetic narrative rather than a documentary. It aims to lift the natural and artificial barriers between humans and other species, dissolving the distance that exists between them."
 	},
 	{
 		"title": "Empire of Light",
@@ -1824,10 +1975,11 @@
 			"Sam Mendes"
 		],
 		"clip": "clips/movie152.mp4",
+		"thumb": "thumbs/movie152.jpg",
 		"genre": [],
 		"length": 115,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "The duty manager of a seaside cinema, who is struggling with her mental health, forms a relationship with a new employee on the south coast of England in the 1980s."
 	},
 	{
 		"title": "Bound",
@@ -1837,10 +1989,11 @@
 			"Lana Wachowski"
 		],
 		"clip": "clips/movie153.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie153.jpg",
+		"genre": ["Crime","Thriller","Drama"],
 		"length": 105,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Corky, a tough female ex-convict working on an apartment renovation in a Chicago building, meets a couple living next door, Caesar, a paranoid mobster, and Violet, his seductive girlfriend, who is immediately attracted to her."
 	},
 	{
 		"title": "Angel's Egg",
@@ -1849,10 +2002,11 @@
 			"Mamoru Oshii"
 		],
 		"clip": "clips/movie154.mp4",
+		"thumb": "thumbs/movie154.jpg",
 		"genre": [],
 		"length": 73,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In an underwater city, a young girl takes care of a large egg she holds carefully in her arms – a treasure that she believes is an angel's egg. One day, a boy with a gun arrives in search of a bird he saw in his dream and, at first, it seems as if feelings of sympathy are developing between the two."
 	},
 	{
 		"title": "Long Day's Journey into Night",
@@ -1861,10 +2015,11 @@
 			"Bi Gan"
 		],
 		"clip": "clips/movie155.mp4",
+		"thumb": "thumbs/movie155.jpg",
 		"genre": [],
 		"length": 138,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Luo Hongwu returns to Kaili, the hometown from which he fled many years ago. He begins the search for the woman he loved and whom he has never been able to forget."
 	},
 	{
 		"title": "Lucy",
@@ -1873,10 +2028,11 @@
 			"Luc Besson"
 		],
 		"clip": "clips/movie156.mp4",
+		"thumb": "thumbs/movie156.jpg",
 		"genre": [],
 		"length": 89,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic."
 	},
 	{
 		"title": "All Quiet on the Western Front",
@@ -1885,10 +2041,11 @@
 			"Edward Berger"
 		],
 		"clip": "clips/movie157.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie157.jpg",
+		"genre": ["History","Drama","War"],
 		"length": 147,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I."
 	},
 	{
 		"title": "Stoker",
@@ -1897,10 +2054,11 @@
 			"Park Chan-wook"
 		],
 		"clip": "clips/movie158.mp4",
+		"thumb": "thumbs/movie158.jpg",
 		"genre": [],
 		"length": 99,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "After India's father dies in an auto accident, her uncle Charlie, who she never knew existed, comes to live with her and her emotionally unstable mother Evelyn. Soon after his arrival, she comes to suspect this mysterious, charming man has ulterior motives, but instead of feeling outrage or horror, this friendless girl becomes increasingly infatuated with him."
 	},
 	{
 		"title": "Come True",
@@ -1909,10 +2067,11 @@
 			"Anthony Scott Burns"
 		],
 		"clip": "clips/movie159.mp4",
+		"thumb": "thumbs/movie159.jpg",
 		"genre": [],
 		"length": 105,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Looking for an escape from her recurring nightmares, 18-year-old Sarah submits to a university sleep study, but soon realizes she's become the conduit to a frightening new discovery."
 	},
 	{
 		"title": "Detachment",
@@ -1921,10 +2080,11 @@
 			"Tony Kaye"
 		],
 		"clip": "clips/movie160.mp4",
+		"thumb": "thumbs/movie160.jpg",
 		"genre": [],
 		"length": 98,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A chronicle of three weeks in the lives of several high school teachers, administrators and students through the eyes of substitute teacher, Henry Barthes. Henry roams from school to school, imparting modes of knowledge, but never staying long enough to form any semblance of sentient attachment."
 	},
 	{
 		"title": "Captain Fantastic",
@@ -1933,10 +2093,11 @@
 			"Matt Ross"
 		],
 		"clip": "clips/movie161.mp4",
+		"thumb": "thumbs/movie161.jpg",
 		"genre": [],
 		"length": 118,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Deep in the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, beginning a journey that challenges his idea of what it means to be a parent."
 	},
 	{
 		"title": "Silence",
@@ -1945,10 +2106,11 @@
 			"Martin Scorsese"
 		],
 		"clip": "clips/movie162.mp4",
+		"thumb": "thumbs/movie162.jpg",
 		"genre": [],
 		"length": 161,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In the 17th century, two Portuguese Jesuit priests travel to Japan in an attempt to locate their mentor, who is rumored to have committed apostasy, and to propagate Catholicism."
 	},
 	{
 		"title": "Mickey 17",
@@ -1957,10 +2119,11 @@
 			"Bong Joon Ho"
 		],
 		"clip": "clips/movie163.mp4",
+		"thumb": "thumbs/movie163.jpg",
 		"genre": [],
 		"length": 137,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living."
 	},
 	{
 		"title": "The Assessment",
@@ -1969,10 +2132,11 @@
 			"Fleur Fortuné"
 		],
 		"clip": "clips/movie164.mp4",
+		"thumb": "thumbs/movie164.jpg",
 		"genre": [],
 		"length": 114,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In a climate change-ravaged world, a utopian society optimizes life, including parenthood assessments. A successful couple faces scrutiny by an evaluator over seven days to determine their fitness for childbearing."
 	},
 	{
 		"title": "Contempt",
@@ -1981,10 +2145,11 @@
 			"Jean-Luc Godard"
 		],
 		"clip": "clips/movie165.mp4",
+		"thumb": "thumbs/movie165.jpg",
 		"genre": [],
 		"length": 103,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A philistine in the art film business, Jeremy Prokosch is a producer unhappy with the work of his director. Prokosch has hired Fritz Lang to direct an adaptation of \"The Odyssey,\" but when it seems that the legendary filmmaker is making a picture destined to bomb at the box office, he brings in a screenwriter to energize the script. The professional intersects with the personal when a rift develops between the writer and his wife."
 	},
 	{
 		"title": "The Hand of God",
@@ -1993,10 +2158,11 @@
 			"Paolo Sorrentino"
 		],
 		"clip": "clips/movie166.mp4",
+		"thumb": "thumbs/movie166.jpg",
 		"genre": [],
 		"length": 130,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In 1980s Naples, Italy, an awkward Italian teen struggling to find his place experiences heartbreak and liberation after he's inadvertently saved from a freak accident by football legend Diego Maradona."
 	},
 	{
 		"title": "Sicario",
@@ -2005,10 +2171,11 @@
 			"Denis Villeneuve"
 		],
 		"clip": "clips/movie167.mp4",
+		"thumb": "thumbs/movie167.jpg",
 		"genre": [],
 		"length": 122,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico."
 	},
 	{
 		"title": "The Promised Land",
@@ -2017,10 +2184,11 @@
 			"Nikolaj Arcel"
 		],
 		"clip": "clips/movie168.mp4",
+		"thumb": "thumbs/movie168.jpg",
 		"genre": [],
 		"length": 127,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Denmark, 1755. Captain Ludvig Kahlen sets out to conquer a Danish heath reputed to be uncultivable, with an impossible goal: to establish a colony in the name of the king, in exchange for a royal title. A single-minded ambition that the ruthless lord of the region will relentlessly seek to put down. Kahlen's fate hangs in the balance: will his endevours bring him wealth and honour, or cost him his life...?"
 	},
 	{
 		"title": "The Conversation",
@@ -2029,10 +2197,11 @@
 			"Francis Ford Coppola"
 		],
 		"clip": "clips/movie169.mp4",
+		"thumb": "thumbs/movie169.jpg",
 		"genre": [],
 		"length": 114,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that the couple he is spying on will be murdered."
 	},
 	{
 		"title": "The Flowers of War",
@@ -2041,10 +2210,11 @@
 			"Zhang Yimou"
 		],
 		"clip": "clips/movie170.mp4",
+		"thumb": "thumbs/movie170.jpg",
 		"genre": [],
 		"length": 146,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A Westerner finds refuge with a group of women in a church during Japan's rape of Nanking in 1937. Posing as a priest, he attempts to lead the women to safety."
 	},
 	{
 		"title": "The Royal Tenenbaums",
@@ -2053,10 +2223,11 @@
 			"Wes Anderson"
 		],
 		"clip": "clips/movie171.mp4",
+		"thumb": "thumbs/movie171.jpg",
 		"genre": [],
 		"length": 110,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Royal Tenenbaum and his wife Etheline had three children and then they separated. All three children are extraordinary --- all geniuses. Virtually all memory of the brilliance of the young Tenenbaums was subsequently erased by two decades of betrayal, failure, and disaster. Most of this was generally considered to be their father's fault. \"The Royal Tenenbaums\" is the story of the family's sudden, unexpected reunion one recent winter."
 	},
 	{
 		"title": "Triangle of Sadness",
@@ -2065,10 +2236,11 @@
 			"Ruben Östlund"
 		],
 		"clip": "clips/movie172.mp4",
+		"thumb": "thumbs/movie172.jpg",
 		"genre": [],
 		"length": 147,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy."
 	},
 	{
 		"title": "The Quiet Girl",
@@ -2077,10 +2249,11 @@
 			"Colm Bairéad"
 		],
 		"clip": "clips/movie173.mp4",
+		"thumb": "thumbs/movie173.jpg",
 		"genre": [],
 		"length": 94,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "A quiet, neglected girl is sent away from her dysfunctional family to live with relatives for the summer. She blossoms in their care, but in this house where there are meant to be no secrets, she discovers one."
 	},
 	{
 		"title": "First Cow",
@@ -2089,10 +2262,11 @@
 			"Kelly Reichardt"
 		],
 		"clip": "clips/movie174.mp4",
+		"thumb": "thumbs/movie174.jpg",
 		"genre": [],
 		"length": 122,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "In the 1820s, a taciturn loner and skilled cook travels west to Oregon Territory, where he meets a Chinese immigrant also seeking his fortune. Soon the two team up on a dangerous scheme to steal milk from the wealthy landowner’s prized Jersey cow – the first, and only, in the territory."
 	},
 	{
 		"title": "Past Lives",
@@ -2101,10 +2275,11 @@
 			"Celine Song"
 		],
 		"clip": "clips/movie175.mp4",
+		"thumb": "thumbs/movie175.jpg",
 		"genre": [],
 		"length": 106,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "After decades apart, childhood friends Nora and Hae Sung are reunited in New York for one fateful weekend as they confront notions of destiny, love, and the choices that make a life."
 	},
 	{
 		"title": "Oppenheimer",
@@ -2113,10 +2288,11 @@
 			"Christopher Nolan"
 		],
 		"clip": "clips/movie176.mp4",
+		"thumb": "thumbs/movie176.jpg",
 		"genre": [],
 		"length": 181,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II."
 	},
 	{
 		"title": "Made in Italy",
@@ -2125,10 +2301,11 @@
 			"James D'Arcy"
 		],
 		"clip": "clips/movie177.mp4",
+		"thumb": "thumbs/movie177.jpg",
 		"genre": [],
 		"length": 94,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A bohemian artist travels from London to Italy with his estranged son to sell the house they inherited from his late wife."
 	},
 	{
 		"title": "Landscape in the Mist",
@@ -2137,10 +2314,11 @@
 			"Theo Angelopoulos"
 		],
 		"clip": "clips/movie178.mp4",
+		"thumb": "thumbs/movie178.jpg",
 		"genre": [],
 		"length": 125,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Two Greek children embark on a journey to search for their father, who supposedly lives in Germany."
 	},
 	{
 		"title": "Close Encounters of the Third Kind",
@@ -2149,10 +2327,11 @@
 			"Steven Spielberg"
 		],
 		"clip": "clips/movie179.mp4",
+		"thumb": "thumbs/movie179.jpg",
 		"genre": [],
 		"length": 137,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen."
 	},
 	{
 		"title": "Hunt for the Wilderpeople",
@@ -2161,22 +2340,24 @@
 			"Taika Waititi"
 		],
 		"clip": "clips/movie180.mp4",
+		"thumb": "thumbs/movie180.jpg",
 		"genre": [],
 		"length": 101,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Ricky is a defiant young city kid who finds himself on the run with his cantankerous foster uncle in the wild New Zealand bush. A national manhunt ensues, and the two are forced to put aside their differences and work together to survive."
 	},
 	{
-		"title": "Three Colours − Red",
+		"title": "Three Colours: Red",
 		"year": 1994,
 		"director": [
 			"Krzysztof Kieślowski"
 		],
 		"clip": "clips/movie181.mp4",
+		"thumb": "thumbs/movie181.jpg",
 		"genre": [],
 		"length": 100,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Part-time model Valentine unexpectedly befriends a retired judge after she runs over his dog. At first, the grumpy man shows no concern about the dog, and Valentine decides to keep it. But the two form a bond when she returns to his house and catches him listening to his neighbors’ phone calls."
 	},
 	{
 		"title": "Tigertail",
@@ -2185,10 +2366,11 @@
 			"Alan Yang"
 		],
 		"clip": "clips/movie182.mp4",
+		"thumb": "thumbs/movie182.jpg",
 		"genre": [],
 		"length": 91,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A man reflects on the lost love of his youth and his long-ago journey from Taiwan to America as he begins to reconnect with his estranged daughter."
 	},
 	{
 		"title": "PlayTime",
@@ -2197,10 +2379,11 @@
 			"Jacques Tati"
 		],
 		"clip": "clips/movie183.mp4",
+		"thumb": "thumbs/movie183.jpg",
 		"genre": [],
 		"length": 115,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Clumsy Monsieur Hulot finds himself perplexed by the intimidating complexity of a gadget-filled Paris. He attempts to meet with a business contact but soon becomes lost. His roundabout journey parallels that of an American tourist, and as they weave through the inventive urban environment, they intermittently meet, developing an interest in one another. They eventually get together at a chaotic restaurant, along with several other quirky characters."
 	},
 	{
 		"title": "The Zone of Interest",
@@ -2209,10 +2392,11 @@
 			"Jonathan Glazer"
 		],
 		"clip": "clips/movie184.mp4",
+		"thumb": "thumbs/movie184.jpg",
 		"genre": [],
 		"length": 105,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp."
 	},
 	{
 		"title": "Midsommar",
@@ -2221,10 +2405,11 @@
 			"Ari Aster"
 		],
 		"clip": "clips/movie185.mp4",
+		"thumb": "thumbs/movie185.jpg",
 		"genre": [],
 		"length": 147,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities."
 	},
 	{
 		"title": "The Boy and the Heron",
@@ -2233,10 +2418,11 @@
 			"Hayao Miyazaki"
 		],
 		"clip": "clips/movie186.mp4",
+		"thumb": "thumbs/movie186.jpg",
 		"genre": [],
 		"length": 124,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\""
 	},
 	{
 		"title": "Swallow",
@@ -2245,10 +2431,11 @@
 			"Carlo Mirabella-Davis"
 		],
 		"clip": "clips/movie187.mp4",
+		"thumb": "thumbs/movie187.jpg",
 		"genre": [],
 		"length": 95,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Hunter, a newly pregnant housewife, finds herself increasingly compelled to consume dangerous objects. As her husband and his family tighten their control over her life, she must confront the dark secret behind her new obsession."
 	},
 	{
 		"title": "The Killer",
@@ -2257,10 +2444,11 @@
 			"David Fincher"
 		],
 		"clip": "clips/movie188.mp4",
+		"thumb": "thumbs/movie188.jpg",
 		"genre": [],
 		"length": 118,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "After a fateful miss, an assassin battles his employers, and himself, on an international manhunt he insists isn't personal."
 	},
 	{
 		"title": "Parasite",
@@ -2269,10 +2457,11 @@
 			"Bong Joon Ho"
 		],
 		"clip": "clips/movie189.mp4",
+		"thumb": "thumbs/movie189.jpg",
 		"genre": [],
 		"length": 133,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident."
 	},
 	{
 		"title": "12 Years a Slave",
@@ -2281,10 +2470,11 @@
 			"Steve McQueen"
 		],
 		"clip": "clips/movie190.mp4",
+		"thumb": "thumbs/movie190.jpg",
 		"genre": [],
 		"length": 134,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon’s chance meeting with a Canadian abolitionist will forever alter his life."
 	},
 	{
 		"title": "Moon",
@@ -2293,10 +2483,11 @@
 			"Duncan Jones"
 		],
 		"clip": "clips/movie191.mp4",
+		"thumb": "thumbs/movie191.jpg",
 		"genre": [],
 		"length": 97,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "With only three weeks left in his three-year contract, Sam Bell is getting anxious to finally return to Earth. He is the only occupant of a Moon-based manufacturing facility along with his computer and assistant, GERTY. When he has an accident however, he awakens to find that he is not alone."
 	},
 	{
 		"title": "Ex Machina",
@@ -2305,10 +2496,11 @@
 			"Alex Garland"
 		],
 		"clip": "clips/movie192.mp4",
+		"thumb": "thumbs/movie192.jpg",
 		"genre": [],
 		"length": 108,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl."
 	},
 	{
 		"title": "The Disaster Artist",
@@ -2317,10 +2509,11 @@
 			"James Franco"
 		],
 		"clip": "clips/movie193.mp4",
+		"thumb": "thumbs/movie193.jpg",
 		"genre": [],
 		"length": 104,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made."
 	},
 	{
 		"title": "Dreams",
@@ -2329,10 +2522,11 @@
 			"Akira Kurosawa"
 		],
 		"clip": "clips/movie194.mp4",
+		"thumb": "thumbs/movie194.jpg",
 		"genre": [],
 		"length": 119,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A collection of magical tales based upon the actual dreams of director Akira Kurosawa."
 	},
 	{
 		"title": "The Passenger",
@@ -2341,10 +2535,11 @@
 			"Michelangelo Antonioni"
 		],
 		"clip": "clips/movie195.mp4",
+		"thumb": "thumbs/movie195.jpg",
 		"genre": [],
 		"length": 126,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "David Locke is a world-weary American journalist who has been sent to cover a conflict in northern Africa, but he makes little progress with the story. When he discovers the body of a stranger who looks similar to him, Locke assumes the dead man's identity. However, he soon finds out that the man was an arms dealer, leading Locke into dangerous situations. Aided by a beautiful woman, Locke attempts to avoid both the police and criminals out to get him."
 	},
 	{
 		"title": "The Fisher King",
@@ -2353,10 +2548,11 @@
 			"Terry Gilliam"
 		],
 		"clip": "clips/movie196.mp4",
+		"thumb": "thumbs/movie196.jpg",
 		"genre": [],
 		"length": 138,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Two troubled men face their terrible destinies and events of their past as they join together on a mission to find the Holy Grail and thus to save themselves."
 	},
 	{
 		"title": "The Wailing",
@@ -2365,10 +2561,11 @@
 			"Na Hong-jin"
 		],
 		"clip": "clips/movie197.mp4",
+		"thumb": "thumbs/movie197.jpg",
 		"genre": [],
 		"length": 156,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A stranger arrives in a little village and soon after a mysterious sickness starts spreading. A policeman is drawn into the incident and is forced to solve the mystery in order to save his daughter."
 	},
 	{
 		"title": "The Darjeeling Limited",
@@ -2377,10 +2574,11 @@
 			"Wes Anderson"
 		],
 		"clip": "clips/movie198.mp4",
+		"thumb": "thumbs/movie198.jpg",
 		"genre": [],
 		"length": 92,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Three American brothers who have not spoken to each other in a year set off on a train voyage across India with a plan to find themselves and bond with each other -- to become brothers again like they used to be. Their \"spiritual quest\", however, veers rapidly off-course (due to events involving over-the-counter pain killers, Indian cough syrup, and pepper spray)."
 	},
 	{
 		"title": "The Menu",
@@ -2389,10 +2587,11 @@
 			"Mark Mylod"
 		],
 		"clip": "clips/movie199.mp4",
+		"thumb": "thumbs/movie199.jpg",
 		"genre": [],
 		"length": 107,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises."
 	},
 	{
 		"title": "The Florida Project",
@@ -2401,10 +2600,11 @@
 			"Sean Baker"
 		],
 		"clip": "clips/movie200.mp4",
+		"thumb": "thumbs/movie200.jpg",
 		"genre": [],
 		"length": 112,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "The story of a precocious six year-old and her ragtag group of friends whose summer break is filled with childhood wonder, possibility and a sense of adventure while the adults around them struggle with hard times."
 	},
 	{
 		"title": "Lost in Translation",
@@ -2413,10 +2613,11 @@
 			"Sofia Coppola"
 		],
 		"clip": "clips/movie201.mp4",
+		"thumb": "thumbs/movie201.jpg",
 		"genre": [],
 		"length": 102,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America."
 	},
 	{
 		"title": "The Fountain",
@@ -2425,10 +2626,11 @@
 			"Darren Aronofsky"
 		],
 		"clip": "clips/movie202.mp4",
+		"thumb": "thumbs/movie202.jpg",
 		"genre": [],
 		"length": 96,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Spanning over one thousand years, and three parallel stories, The Fountain is a story of love, death, spirituality, and the fragility of our existence in this world."
 	},
 	{
 		"title": "Borg vs McEnroe",
@@ -2437,10 +2639,11 @@
 			"Janus Metz"
 		],
 		"clip": "clips/movie203.mp4",
+		"thumb": "thumbs/movie203.jpg",
 		"genre": [],
 		"length": 108,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "The Swedish Björn Borg and the American John McEnroe, the best tennis players in the world, maintain a legendary duel during the 1980 Wimbledon tournament."
 	},
 	{
 		"title": "Atomic Blonde",
@@ -2449,22 +2652,24 @@
 			"David Leitch"
 		],
 		"clip": "clips/movie204.mp4",
+		"thumb": "thumbs/movie204.jpg",
 		"genre": [],
 		"length": 115,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents."
 	},
 	{
-		"title": "2001 A Space Odyssey",
+		"title": "2001: A Space Odyssey",
 		"year": 1968,
 		"director": [
 			"Stanley Kubrick"
 		],
 		"clip": "clips/movie205.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie205.jpg",
+		"genre": ["Science Fiction","Adventure","Mystery"],
 		"length": 149,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer."
 	},
 	{
 		"title": "Inside Llewyn Davis",
@@ -2474,10 +2679,11 @@
 			"Joel Coen"
 		],
 		"clip": "clips/movie206.mp4",
+		"thumb": "thumbs/movie206.jpg",
 		"genre": [],
 		"length": 104,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In Greenwich Village in the early 1960s, gifted but volatile folk musician Llewyn Davis struggles with money, relationships, and his uncertain future."
 	},
 	{
 		"title": "The Two Popes",
@@ -2486,10 +2692,11 @@
 			"Fernando Meirelles"
 		],
 		"clip": "clips/movie207.mp4",
+		"thumb": "thumbs/movie207.jpg",
 		"genre": [],
 		"length": 125,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Frustrated with the direction of the church, Cardinal Bergoglio requests permission to retire in 2012 from Pope Benedict. Instead, facing scandal and self-doubt, the introspective Pope Benedict summons his harshest critic and future successor to Rome to reveal a secret that would shake the foundations of the Catholic Church."
 	},
 	{
 		"title": "The Girl with the Needle",
@@ -2498,10 +2705,11 @@
 			"Magnus von Horn"
 		],
 		"clip": "clips/movie208.mp4",
+		"thumb": "thumbs/movie208.jpg",
 		"genre": [],
 		"length": 123,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything."
 	},
 	{
 		"title": "Knockin' on Heaven's Door",
@@ -2510,10 +2718,11 @@
 			"Thomas Jahn"
 		],
 		"clip": "clips/movie209.mp4",
+		"thumb": "thumbs/movie209.jpg",
 		"genre": [],
 		"length": 88,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Two young men, Martin and Rudi, both suffering from terminal cancer, get to know each other in a hospital room. They drown their desperation in tequila and decide to take one last trip to the sea. Drunk and still in pajamas they steal the first fancy car they find, a 60's Mercedes convertible. The car happens to belong to a bunch of gangsters, which immediately start to chase it, since it contains more than the pistol Martin finds in the glove box."
 	},
 	{
 		"title": "Oblivion",
@@ -2522,10 +2731,11 @@
 			"Joseph Kosinski"
 		],
 		"clip": "clips/movie210.mp4",
+		"thumb": "thumbs/movie210.jpg",
 		"genre": [],
 		"length": 124,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Jack Harper is one of the last few drone repairmen stationed on Earth. Part of a massive operation to extract vital resources after decades of war with a terrifying threat known as the Scavs, Jack’s mission is nearly complete. His existence is brought crashing down when he rescues a beautiful stranger from a downed spacecraft. Her arrival triggers a chain of events that forces him to question everything he knows and puts the fate of humanity in his hands."
 	},
 	{
 		"title": "Kinds of Kindness",
@@ -2534,10 +2744,11 @@
 			"Yorgos Lanthimos"
 		],
 		"clip": "clips/movie211.mp4",
+		"thumb": "thumbs/movie211.jpg",
 		"genre": [],
 		"length": 164,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A triptych fable following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader."
 	},
 	{
 		"title": "Days of Heaven",
@@ -2546,10 +2757,11 @@
 			"Terrence Malick"
 		],
 		"clip": "clips/movie212.mp4",
+		"thumb": "thumbs/movie212.jpg",
 		"genre": [],
 		"length": 94,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In 1916, a Chicago steel worker accidentally kills his supervisor and flees to the Texas panhandle with his girlfriend and little sister to work harvesting wheat in the fields of a stoic farmer."
 	},
 	{
 		"title": "In the Heart of the Sea",
@@ -2558,10 +2770,11 @@
 			"Ron Howard"
 		],
 		"clip": "clips/movie213.mp4",
+		"thumb": "thumbs/movie213.jpg",
 		"genre": [],
 		"length": 122,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In the winter of 1820, the New England whaling ship Essex is assaulted by something no one could believe—a whale of mammoth size and will, and an almost human sense of vengeance."
 	},
 	{
 		"title": "Hidden Figures",
@@ -2570,10 +2783,11 @@
 			"Theodore Melfi"
 		],
 		"clip": "clips/movie214.mp4",
+		"thumb": "thumbs/movie214.jpg",
 		"genre": [],
 		"length": 127,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history – the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big."
 	},
 	{
 		"title": "Barry Lyndon",
@@ -2582,10 +2796,11 @@
 			"Stanley Kubrick"
 		],
 		"clip": "clips/movie215.mp4",
+		"thumb": "thumbs/movie215.jpg",
 		"genre": [],
 		"length": 185,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon."
 	},
 	{
 		"title": "House of Flying Daggers",
@@ -2594,10 +2809,11 @@
 			"Zhang Yimou"
 		],
 		"clip": "clips/movie216.mp4",
+		"thumb": "thumbs/movie216.jpg",
 		"genre": [],
 		"length": 119,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In 9th century China, a corrupt government wages war against a rebel army called the Flying Daggers. A romantic warrior breaks a beautiful rebel out of prison to help her rejoin her fellows, but things are not what they seem."
 	},
 	{
 		"title": "The End",
@@ -2606,10 +2822,11 @@
 			"Joshua Oppenheimer"
 		],
 		"clip": "clips/movie217.mp4",
+		"thumb": "thumbs/movie217.jpg",
 		"genre": [],
 		"length": 149,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Twenty-five years after environmental collapse left the Earth uninhabitable, Mother, Father and Son are confined to their palatial bunker, where they struggle to maintain hope and a sense of normalcy by clinging to the rituals of daily life—until the arrival of a stranger, Girl, upends their happy routine. As tensions rise, their seemingly idyllic existence starts to crumble."
 	},
 	{
 		"title": "Burning",
@@ -2618,10 +2835,11 @@
 			"Lee Chang-dong"
 		],
 		"clip": "clips/movie218.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie218.jpg",
+		"genre": ["Thriller","Mystery","Drama"],
 		"length": 148,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Deliveryman Jong-su is out on a job when he runs into Hae-mi, a girl who once lived in his neighborhood. She asks if he'd mind looking after her cat while she's away on a trip to Africa. On her return, she introduces to Jong-su an enigmatic young man named Ben, who she met during her trip. One day Ben tells Jong-su about his most unusual hobby."
 	},
 	{
 		"title": "Aftersun",
@@ -2630,10 +2848,11 @@
 			"Charlotte Wells"
 		],
 		"clip": "clips/movie219.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie219.jpg",
+		"genre": ["Drama"],
 		"length": 101,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between miniDV footage as she tries to reconcile the father she knew with the man she didn't."
 	},
 	{
 		"title": "Beautiful Boy",
@@ -2642,10 +2861,11 @@
 			"Felix van Groeningen"
 		],
 		"clip": "clips/movie220.mp4",
+		"thumb": "thumbs/movie220.jpg",
 		"genre": [],
 		"length": 119,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "After he and his first wife separate, journalist David Sheff struggles to help their teenage son, who goes from experimenting with drugs to becoming devastatingly addicted to methamphetamine."
 	},
 	{
 		"title": "Black Narcissus",
@@ -2655,10 +2875,11 @@
 			"Michael Powell"
 		],
 		"clip": "clips/movie221.mp4",
+		"thumb": "thumbs/movie221.jpg",
 		"genre": [],
 		"length": 100,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A group of Anglican nuns, led by Sister Clodagh, are sent to a mountain in the Himalayas. The climate in the region is hostile and the nuns are housed in an odd old palace. They work to establish a school and a hospital, but slowly their focus shifts. Sister Ruth falls for a government worker, Mr. Dean, and begins to question her vow of celibacy. As Sister Ruth obsesses over Mr. Dean, Sister Clodagh becomes immersed in her own memories of love."
 	},
 	{
 		"title": "Blade Runner",
@@ -2667,10 +2888,11 @@
 			"Ridley Scott"
 		],
 		"clip": "clips/movie222.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie222.jpg",
+		"genre": ["Thriller","Drama","Science Fiction"],
 		"length": 118,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans."
 	},
 	{
 		"title": "The Green Knight",
@@ -2679,10 +2901,11 @@
 			"David Lowery"
 		],
 		"clip": "clips/movie223.mp4",
+		"thumb": "thumbs/movie223.jpg",
 		"genre": [],
 		"length": 130,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur's reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men."
 	},
 	{
 		"title": "Léon The Professional",
@@ -2691,10 +2914,11 @@
 			"Luc Besson"
 		],
 		"clip": "clips/movie224.mp4",
+		"thumb": "thumbs/movie224.jpg",
 		"genre": [],
 		"length": 111,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps."
 	},
 	{
 		"title": "1917",
@@ -2703,10 +2927,11 @@
 			"Sam Mendes"
 		],
 		"clip": "clips/movie225.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie225.jpg",
+		"genre": ["War","History","Thriller"],
 		"length": 119,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers."
 	},
 	{
 		"title": "Raiders of the Lost Ark",
@@ -2715,10 +2940,11 @@
 			"Steven Spielberg"
 		],
 		"clip": "clips/movie226.mp4",
+		"thumb": "thumbs/movie226.jpg",
 		"genre": [],
 		"length": 115,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime."
 	},
 	{
 		"title": "Pleasantville",
@@ -2727,10 +2953,11 @@
 			"Gary Ross"
 		],
 		"clip": "clips/movie227.mp4",
+		"thumb": "thumbs/movie227.jpg",
 		"genre": [],
 		"length": 124,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Geeky teenager David and his popular twin sister, Jennifer, get sucked into the black-and-white world of a 1950s TV sitcom called \"Pleasantville,\" and find a world where everything is peachy keen all the time. But when Jennifer's modern attitude disrupts Pleasantville's peaceful but boring routine, she literally brings color into its life."
 	},
 	{
 		"title": "Climax",
@@ -2739,10 +2966,11 @@
 			"Gaspar Noé"
 		],
 		"clip": "clips/movie228.mp4",
+		"thumb": "thumbs/movie228.jpg",
 		"genre": [],
 		"length": 97,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "When a dance troupe is lured to an empty school, a bowl of drug-laced sangria causes their jubilant rehearsal to descend into a dark and explosive nightmare as they try to survive the night—and find who's responsible—before it's too late."
 	},
 	{
 		"title": "Unforgiven",
@@ -2751,10 +2979,11 @@
 			"Clint Eastwood"
 		],
 		"clip": "clips/movie229.mp4",
+		"thumb": "thumbs/movie229.jpg",
 		"genre": [],
 		"length": 130,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "William Munny is a retired, once-ruthless killer turned gentle widower and hog farmer. To help support his two motherless children, he accepts one last bounty-hunter mission to find the men who brutalized a prostitute. Joined by his former partner and a cocky greenhorn, he takes on a corrupt sheriff."
 	},
 	{
 		"title": "Berberian Sound Studio",
@@ -2763,10 +2992,11 @@
 			"Peter Strickland"
 		],
 		"clip": "clips/movie230.mp4",
+		"thumb": "thumbs/movie230.jpg",
 		"genre": [],
 		"length": 92,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In the 1970s, a British sound technician is brought to Italy to work on the sound effects for a gruesome horror film. His nightmarish task slowly takes over his psyche, driving him to confront his own past."
 	},
 	{
 		"title": "8½",
@@ -2775,10 +3005,11 @@
 			"Federico Fellini"
 		],
 		"clip": "clips/movie231.mp4",
+		"thumb": "thumbs/movie231.jpg",
 		"genre": [],
 		"length": 139,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Guido Anselmi, a film director, finds himself creatively barren at the peak of his career. Urged by his doctors to rest, Anselmi heads for a luxurious resort, but a sorry group gathers—his producer, staff, actors, wife, mistress, and relatives—each one begging him to get on with the show. In retreat from their dependency, he fantasizes about past women and dreams of his childhood."
 	},
 	{
 		"title": "Nope",
@@ -2787,10 +3018,11 @@
 			"Jordan Peele"
 		],
 		"clip": "clips/movie232.mp4",
+		"thumb": "thumbs/movie232.jpg",
 		"genre": [],
 		"length": 130,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery."
 	},
 	{
 		"title": "The Witch",
@@ -2799,10 +3031,11 @@
 			"Robert Eggers"
 		],
 		"clip": "clips/movie233.mp4",
+		"thumb": "thumbs/movie233.jpg",
 		"genre": [],
 		"length": 92,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In 1630, a farmer relocates his family to a remote plot of land on the edge of a forest where strange, unsettling things happen. With suspicion and paranoia mounting, each family member's faith, loyalty and love are tested in shocking ways."
 	},
 	{
 		"title": "La Haine",
@@ -2811,10 +3044,11 @@
 			"Mathieu Kassovitz"
 		],
 		"clip": "clips/movie234.mp4",
+		"thumb": "thumbs/movie234.jpg",
 		"genre": [],
 		"length": 98,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "After a chaotic night of rioting in a marginal suburb of Paris, three young friends, Vinz, Hubert and Saïd, wander around unoccupied waiting for news about the state of health of a mutual friend who has been seriously injured when confronting the police."
 	},
 	{
 		"title": "Under the Skin",
@@ -2823,10 +3057,11 @@
 			"Jonathan Glazer"
 		],
 		"clip": "clips/movie235.mp4",
+		"thumb": "thumbs/movie235.jpg",
 		"genre": [],
 		"length": 108,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A seductive stranger prowls the streets of Glasgow in search of prey: unsuspecting men who fall under her spell."
 	},
 	{
 		"title": "Blow-Up",
@@ -2835,10 +3070,11 @@
 			"Michelangelo Antonioni"
 		],
 		"clip": "clips/movie236.mp4",
+		"thumb": "thumbs/movie236.jpg",
 		"genre": [],
 		"length": 111,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A successful mod photographer in London whose world is bounded by fashion, pop music, marijuana, and easy sex, feels his life is boring and despairing. But in the course of a single day he unknowingly captures a death on film."
 	},
 	{
 		"title": "Lamb",
@@ -2847,10 +3083,11 @@
 			"Valdimar Jóhannsson"
 		],
 		"clip": "clips/movie237.mp4",
+		"thumb": "thumbs/movie237.jpg",
 		"genre": [],
 		"length": 106,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "An Icelandic couple live with their herd of sheep on a beautiful but remote farm. When they discover a mysterious newborn on their land, they decide to keep it and raise it as their own. This unexpected development and the prospects of a new family brings them much joy before ultimately destroying them."
 	},
 	{
 		"title": "There Will Be Blood",
@@ -2859,10 +3096,11 @@
 			"Paul Thomas Anderson"
 		],
 		"clip": "clips/movie238.mp4",
+		"thumb": "thumbs/movie238.jpg",
 		"genre": [],
 		"length": 158,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives."
 	},
 	{
 		"title": "Knight of Cups",
@@ -2871,10 +3109,11 @@
 			"Terrence Malick"
 		],
 		"clip": "clips/movie239.mp4",
+		"thumb": "thumbs/movie239.jpg",
 		"genre": [],
 		"length": 118,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Rick is a screenwriter living in Los Angeles. While successful in his career, his life feels empty. Haunted and confused, he finds temporary solace in the decadent Hollywood excess that defines his existence. Women provide a distraction to his daily pain, and every encounter brings him closer to finding his place in the world."
 	},
 	{
 		"title": "The Brutalist",
@@ -2883,10 +3122,11 @@
 			"Brady Corbet"
 		],
 		"clip": "clips/movie240.mp4",
+		"thumb": "thumbs/movie240.jpg",
 		"genre": [],
 		"length": 215,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "When a visionary architect and his wife flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern United States, their lives are changed forever by a mysterious, wealthy client."
 	},
 	{
 		"title": "Rashomon",
@@ -2895,10 +3135,11 @@
 			"Akira Kurosawa"
 		],
 		"clip": "clips/movie241.mp4",
+		"thumb": "thumbs/movie241.jpg",
 		"genre": [],
 		"length": 88,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Four people recount different versions of the story of a man's murder and the rape of his wife."
 	},
 	{
 		"title": "Arrival",
@@ -2907,10 +3148,11 @@
 			"Denis Villeneuve"
 		],
 		"clip": "clips/movie242.mp4",
-		"genre": [],
+		"thumb": "thumbs/movie242.jpg",
+		"genre": ["Mystery","Science Fiction","Drama"],
 		"length": 116,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat."
 	},
 	{
 		"title": "Life of Pi",
@@ -2919,10 +3161,11 @@
 			"Ang Lee"
 		],
 		"clip": "clips/movie243.mp4",
+		"thumb": "thumbs/movie243.jpg",
 		"genre": [],
 		"length": 127,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean."
 	},
 	{
 		"title": "Minari",
@@ -2931,10 +3174,11 @@
 			"Lee Isaac Chung"
 		],
 		"clip": "clips/movie244.mp4",
+		"thumb": "thumbs/movie244.jpg",
 		"genre": [],
 		"length": 115,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of this new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home."
 	},
 	{
 		"title": "Amadeus",
@@ -2943,10 +3187,11 @@
 			"Miloš Forman"
 		],
 		"clip": "clips/movie245.mp4",
+		"thumb": "thumbs/movie245.jpg",
 		"genre": [],
 		"length": 160,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Viennese composer Wolfgang Amadeus Mozart."
 	},
 	{
 		"title": "Taste of Cherry",
@@ -2955,10 +3200,11 @@
 			"Abbas Kiarostami"
 		],
 		"clip": "clips/movie246.mp4",
+		"thumb": "thumbs/movie246.jpg",
 		"genre": [],
 		"length": 99,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A middle-aged Tehranian man, Mr. Badii is intent on killing himself and seeks someone to bury him after his demise. Driving around the city, the seemingly well-to-do Badii meets with numerous people, including a Muslim student, asking them to take on the job, but initially he has little luck. Eventually, Badii finds a man who is up for the task because he needs the money, but his new associate soon tries to talk him out of committing suicide."
 	},
 	{
 		"title": "Kundun",
@@ -2967,10 +3213,11 @@
 			"Martin Scorsese"
 		],
 		"clip": "clips/movie247.mp4",
+		"thumb": "thumbs/movie247.jpg",
 		"genre": [],
 		"length": 134,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "The Tibetans refer to the Dalai Lama as 'Kundun', which means 'The Presence'. He was forced to escape from his native home, Tibet, when communist China invaded and enforced an oppressive regime upon the peaceful nation. The Dalai Lama escaped to India in 1959 and has been living in exile in Dharamsala ever since."
 	},
 	{
 		"title": "The American Friend",
@@ -2979,10 +3226,11 @@
 			"Wim Wenders"
 		],
 		"clip": "clips/movie248.mp4",
+		"thumb": "thumbs/movie248.jpg",
 		"genre": [],
 		"length": 125,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Tom Ripley, an American who deals in forged art, is slighted at an auction in Hamburg by picture framer Jonathan Zimmerman. When Ripley is asked by gangster Raoul Minot to kill a rival, he suggests Zimmerman, and the two, exploiting Zimmerman's terminal illness, coerce him into being a hitman."
 	},
 	{
 		"title": "Chime",
@@ -2991,10 +3239,11 @@
 			"Kiyoshi Kurosawa"
 		],
 		"clip": "clips/movie249.mp4",
+		"thumb": "thumbs/movie249.jpg",
 		"genre": [],
 		"length": 45,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A chef's life is disrupted by a chime that brings with it an increasing sense of dread."
 	},
 	{
 		"title": "A Different Man",
@@ -3003,10 +3252,11 @@
 			"Aaron Schimberg"
 		],
 		"clip": "clips/movie250.mp4",
+		"thumb": "thumbs/movie250.jpg",
 		"genre": [],
 		"length": 112,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Aspiring actor Edward undergoes a radical medical procedure to drastically transform his appearance. But his new dream face quickly turns into a nightmare, as he loses out on the role he was born to play and becomes obsessed with reclaiming what was lost."
 	},
 	{
 		"title": "Causeway",
@@ -3015,10 +3265,11 @@
 			"Lila Neugebauer"
 		],
 		"clip": "clips/movie251.mp4",
+		"thumb": "thumbs/movie251.jpg",
 		"genre": [],
 		"length": 96,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home in New Orleans. When she meets local mechanic James, the pair begin to forge an unexpected bond."
 	},
 	{
 		"title": "Taipei Story",
@@ -3027,10 +3278,11 @@
 			"Edward Yang"
 		],
 		"clip": "clips/movie252.mp4",
+		"thumb": "thumbs/movie252.jpg",
 		"genre": [],
 		"length": 120,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A young woman urgently seeks to navigate the maze of contemporary Taipei and find a future. She hopes that her boyfriend Lung is the key to the future, but Lung is stuck in a past that combines baseball and traditional loyalty that leads him to squander his nest egg bailing her father out of financial trouble."
 	},
 	{
 		"title": "Ginger & Rosa",
@@ -3039,10 +3291,11 @@
 			"Sally Potter"
 		],
 		"clip": "clips/movie253.mp4",
+		"thumb": "thumbs/movie253.jpg",
 		"genre": [],
 		"length": 90,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A look at the lives of two teenage girls - inseparable friends Ginger and Rosa -- growing up in 1960s London as the Cuban Missile Crisis looms, and the pivotal event the comes to redefine their relationship."
 	},
 	{
 		"title": "The Taste of Tea",
@@ -3051,10 +3304,11 @@
 			"Katsuhito Ishii"
 		],
 		"clip": "clips/movie254.mp4",
+		"thumb": "thumbs/movie254.jpg",
 		"genre": [],
 		"length": 143,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A spell of time in the life of a family in rural Tochigi prefecture. Yoshiko is not an ordinary housewife, instead working on an animated film project. Uncle Ayano, a successful music producer, is looking to get his head together after living in Tokyo. Meanwhile, Sachiko is concerned with why she seems to be followed by a giant version of herself. As the lazy days pass by, each member of the family is followed in a series of episodic vignettes."
 	},
 	{
 		"title": "The Man Who Wasn't There",
@@ -3063,10 +3317,11 @@
 			"Joel Coen"
 		],
 		"clip": "clips/movie255.mp4",
+		"thumb": "thumbs/movie255.jpg",
 		"genre": [],
 		"length": 116,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A tale of murder, crime and punishment set in the summer of 1949. Ed Crane, a barber in a small California town, is dissatisfied with his life, but his wife Doris' infidelity and a mysterious opportunity presents him with a chance to change it."
 	},
 	{
 		"title": "Before Sunrise",
@@ -3075,10 +3330,11 @@
 			"Richard Linklater"
 		],
 		"clip": "clips/movie256.mp4",
+		"thumb": "thumbs/movie256.jpg",
 		"genre": [],
 		"length": 101,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together."
 	},
 	{
 		"title": "At Eternity's Gate",
@@ -3087,10 +3343,11 @@
 			"Julian Schnabel"
 		],
 		"clip": "clips/movie257.mp4",
+		"thumb": "thumbs/movie257.jpg",
 		"genre": [],
 		"length": 111,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Famed but tormented artist Vincent van Gogh spends his final years in Arles, France, painting masterworks of the natural world that surrounds him."
 	},
 	{
 		"title": "Poor Things",
@@ -3099,10 +3356,11 @@
 			"Yorgos Lanthimos"
 		],
 		"clip": "clips/movie258.mp4",
+		"thumb": "thumbs/movie258.jpg",
 		"genre": [],
 		"length": 141,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation."
 	},
 	{
 		"title": "The Animatrix",
@@ -3110,17 +3368,14 @@
 		"director": [
 			"Koji Morimoto",
 			"Peter Chung",
-			"Shinichiro Watanabe",
-			"Mahiro Maeda",
-			"Yoshiaki Kawajiri",
-			"Takeshi Koike",
-			"Andrew R. Jones"
+			"Shinichiro Watanabe"
 		],
 		"clip": "clips/movie259.mp4",
+		"thumb": "thumbs/movie259.jpg",
 		"genre": [],
 		"length": 102,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Straight from the creators of the groundbreaking Matrix trilogy, this collection of short animated films from the world's leading anime directors fuses computer graphics and Japanese anime to provide the background of the Matrix universe and the conflict between man and machines. The shorts include Final Flight of the Osiris, The Second Renaissance, Kid's Story, Program, World Record, Beyond, A Detective Story and Matriculated."
 	},
 	{
 		"title": "Babylon",
@@ -3129,10 +3384,11 @@
 			"Damien Chazelle"
 		],
 		"clip": "clips/movie260.mp4",
+		"thumb": "thumbs/movie260.jpg",
 		"genre": [],
 		"length": 189,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters in an era of unbridled decadence and depravity during Hollywood's transition from silent films to sound films in the late 1920s."
 	},
 	{
 		"title": "Crouching Tiger, Hidden Dragon",
@@ -3141,10 +3397,11 @@
 			"Ang Lee"
 		],
 		"clip": "clips/movie261.mp4",
+		"thumb": "thumbs/movie261.jpg",
 		"genre": [],
 		"length": 120,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life."
 	},
 	{
 		"title": "Vertigo",
@@ -3153,10 +3410,11 @@
 			"Alfred Hitchcock"
 		],
 		"clip": "clips/movie262.mp4",
+		"thumb": "thumbs/movie262.jpg",
 		"genre": [],
 		"length": 128,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her."
 	},
 	{
 		"title": "Millennium Mambo",
@@ -3165,10 +3423,11 @@
 			"Hou Hsiao-hsien"
 		],
 		"clip": "clips/movie263.mp4",
+		"thumb": "thumbs/movie263.jpg",
 		"genre": [],
 		"length": 106,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Vicky recalls her romances with her exes Hao Hao and Jack in the neon-lit clubs of Taipei."
 	},
 	{
 		"title": "Mystery Train",
@@ -3177,10 +3436,11 @@
 			"Jim Jarmusch"
 		],
 		"clip": "clips/movie264.mp4",
+		"thumb": "thumbs/movie264.jpg",
 		"genre": [],
 		"length": 106,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In Memphis, Tennessee, over the course of a single night, the Arcade Hotel, run by an eccentric night clerk and a clueless bellboy, is visited by a young Japanese couple traveling in search of the roots of rock; an Italian woman in mourning who stumbles upon a fleeing charlatan girl; and a comical trio of accidental thieves looking for a place to hide."
 	},
 	{
 		"title": "Anatomy of a Fall",
@@ -3189,10 +3449,11 @@
 			"Justine Triet"
 		],
 		"clip": "clips/movie265.mp4",
+		"thumb": "thumbs/movie265.jpg",
 		"genre": [],
 		"length": 151,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness."
 	},
 	{
 		"title": "Lessons of Darkness",
@@ -3201,10 +3462,11 @@
 			"Werner Herzog"
 		],
 		"clip": "clips/movie266.mp4",
+		"thumb": "thumbs/movie266.jpg",
 		"genre": [],
 		"length": 54,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Shortly after the Gulf War, oil fires were raging all through Kuwait. In the week before this sea of fire would be extinguished, Werner Herzog filmed this apocalyptic landscape with its murky skies, scorched earth and capricious flames."
 	},
 	{
 		"title": "Sexy Beast",
@@ -3213,10 +3475,11 @@
 			"Jonathan Glazer"
 		],
 		"clip": "clips/movie267.mp4",
+		"thumb": "thumbs/movie267.jpg",
 		"genre": [],
 		"length": 89,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Ex-safecracker Gal Dove has served his time behind bars and is blissfully retired to a Spanish villa paradise with a wife he adores. The idyll is shattered by the arrival of his nemesis Don Logan, intent on persuading Gal to return to London for one last big job."
 	},
 	{
 		"title": "My First Film",
@@ -3225,10 +3488,11 @@
 			"Zia Anger"
 		],
 		"clip": "clips/movie268.mp4",
+		"thumb": "thumbs/movie268.jpg",
 		"genre": [],
 		"length": 100,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A young filmmaker, Vita, revisits her first chaotic attempt at filmmaking 15 years prior. Shooting a semi-autobiographical film starring her friend Dina, Vita’s eager but inexperienced approach causes the production to spiral into chaos, leading to significant disruptions and a near-fatal accident."
 	},
 	{
 		"title": "Stop Making Sense",
@@ -3237,10 +3501,11 @@
 			"Jonathan Demme"
 		],
 		"clip": "clips/movie269.mp4",
+		"thumb": "thumbs/movie269.jpg",
 		"genre": [],
 		"length": 88,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A concert film documenting Talking Heads at the height of their popularity, on tour for their 1983 album \"Speaking in Tongues.\" The band takes the stage one by one and is joined by a cadre of guest musicians for a career-spanning and cinematic performance that features creative choreography and visuals."
 	},
 	{
 		"title": "Frank",
@@ -3249,10 +3514,11 @@
 			"Lenny Abrahamson"
 		],
 		"clip": "clips/movie270.mp4",
+		"thumb": "thumbs/movie270.jpg",
 		"genre": [],
 		"length": 95,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A young wannabe musician discovers he has bitten off more than he can chew when he joins an eccentric pop band led by the mysterious and enigmatic Frank."
 	},
 	{
 		"title": "Love Lies Bleeding",
@@ -3261,10 +3527,11 @@
 			"Rose Glass"
 		],
 		"clip": "clips/movie271.mp4",
+		"thumb": "thumbs/movie271.jpg",
 		"genre": [],
 		"length": 104,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Reclusive gym manager Lou falls hard for Jackie, an ambitious bodybuilder headed through town to Las Vegas in pursuit of her dream. But their love ignites violence, pulling them deep into the web of Lou’s criminal family."
 	},
 	{
 		"title": "Trap",
@@ -3273,10 +3540,11 @@
 			"M. Night Shyamalan"
 		],
 		"clip": "clips/movie272.mp4",
+		"thumb": "thumbs/movie272.jpg",
 		"genre": [],
 		"length": 105,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A father and teen daughter attend a pop concert, where they realize they're at the center of a dark and sinister event."
 	},
 	{
 		"title": "Beau Is Afraid",
@@ -3285,10 +3553,11 @@
 			"Ari Aster"
 		],
 		"clip": "clips/movie273.mp4",
+		"thumb": "thumbs/movie273.jpg",
 		"genre": [],
 		"length": 179,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Following the sudden death of his mother, a mild-mannered but anxiety-ridden man confronts his darkest fears as he embarks on an epic, Kafkaesque odyssey back home."
 	},
 	{
 		"title": "Wildlife",
@@ -3297,10 +3566,11 @@
 			"Paul Dano"
 		],
 		"clip": "clips/movie274.mp4",
+		"thumb": "thumbs/movie274.jpg",
 		"genre": [],
 		"length": 105,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "14-year-old Joe is the only child of Jeanette and Jerry — a housewife and a golf pro — in a small town in 1960s Montana. Nearby, an uncontrolled forest fire rages close to the Canadian border, and when Jerry loses his job (and his sense of purpose) he decides to join the cause of fighting the fire, leaving his wife and son to fend for themselves."
 	},
 	{
 		"title": "Good Morning",
@@ -3309,10 +3579,11 @@
 			"Yasujirō Ozu"
 		],
 		"clip": "clips/movie275.mp4",
+		"thumb": "thumbs/movie275.jpg",
 		"genre": [],
 		"length": 94,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "A lighthearted take on director Yasujiro Ozu’s perennial theme of the challenges of inter­generational relationships, Good Morning tells the story of two young boys who stop speaking in protest after their parents refuse to buy a television set. Ozu weaves a wealth of subtle gags through a family portrait as rich as those of his dramatic films, mocking the foibles of the adult world through the eyes of his child protagonists. Shot in stunning color and set in a suburb of Tokyo where housewives gossip about the neighbors’ new washing machine and unemployed husbands look for work as door-to-door salesmen, this charming comedy refashions Ozu’s own silent classic I Was Born, But . . . to gently satirize consumerism in postwar Japan."
 	},
 	{
 		"title": "The Station Agent",
@@ -3321,10 +3592,11 @@
 			"Tom McCarthy"
 		],
 		"clip": "clips/movie276.mp4",
+		"thumb": "thumbs/movie276.jpg",
 		"genre": [],
 		"length": 88,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "When his only friend dies, a man born with dwarfism moves to rural New Jersey to live a life of solitude, only to meet a chatty hot dog vendor and a woman dealing with her own personal loss."
 	},
 	{
 		"title": "Taxi Driver",
@@ -3333,10 +3605,11 @@
 			"Martin Scorsese"
 		],
 		"clip": "clips/movie277.mp4",
+		"thumb": "thumbs/movie277.jpg",
 		"genre": [],
 		"length": 114,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action."
 	},
 	{
 		"title": "Fantastic Mr. Fox",
@@ -3345,10 +3618,11 @@
 			"Wes Anderson"
 		],
 		"clip": "clips/movie278.mp4",
+		"thumb": "thumbs/movie278.jpg",
 		"genre": [],
 		"length": 87,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family."
 	},
 	{
 		"title": "The Color of Pomegranates",
@@ -3357,10 +3631,11 @@
 			"Sergei Parajanov"
 		],
 		"clip": "clips/movie279.mp4",
+		"thumb": "thumbs/movie279.jpg",
 		"genre": [],
 		"length": 80,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "The life of the revered 18th-century Armenian poet and musician Sayat-Nova. Portraying events in the life of the artist from childhood up to his death, the movie addresses in particular his relationships with women, including his muse. The production tells Sayat-Nova's dramatic story by using both his poems and largely still camerawork, creating a work hailed as revolutionary by Mikhail Vartanov."
 	},
 	{
 		"title": "Wind River",
@@ -3369,10 +3644,11 @@
 			"Taylor Sheridan"
 		],
 		"clip": "clips/movie280.mp4",
+		"thumb": "thumbs/movie280.jpg",
 		"genre": [],
 		"length": 107,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "An FBI agent teams with the town's veteran game tracker to investigate a murder that occurred on a Native American reservation."
 	},
 	{
 		"title": "The Handmaiden",
@@ -3381,10 +3657,11 @@
 			"Park Chan-wook"
 		],
 		"clip": "clips/movie281.mp4",
+		"thumb": "thumbs/movie281.jpg",
 		"genre": [],
 		"length": 145,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "1930s Korea, in the period of Japanese occupation, a new girl, Sookee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to elope with him, rob her of her fortune, and lock her up in a madhouse. The plan seems to proceed according to plan until Sookee and Hideko discover some unexpected emotions."
 	},
 	{
 		"title": "Air",
@@ -3393,10 +3670,11 @@
 			"Ben Affleck"
 		],
 		"clip": "clips/movie282.mp4",
+		"thumb": "thumbs/movie282.jpg",
 		"genre": [],
 		"length": 111,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Discover the game-changing partnership between a then undiscovered Michael Jordan and Nike's fledgling basketball division which revolutionized the world of sports and culture with the Air Jordan brand."
 	},
 	{
 		"title": "Out of the Furnace",
@@ -3405,10 +3683,11 @@
 			"Scott Cooper"
 		],
 		"clip": "clips/movie283.mp4",
+		"thumb": "thumbs/movie283.jpg",
 		"genre": [],
 		"length": 116,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Two brothers live in the economically-depressed Rust Belt, when a cruel twist of fate lands one in prison. His brother is then lured into one of the most violent crime rings in the Northeast."
 	},
 	{
 		"title": "The Boy in the Striped Pyjamas",
@@ -3417,10 +3696,11 @@
 			"Mark Herman"
 		],
 		"clip": "clips/movie284.mp4",
+		"thumb": "thumbs/movie284.jpg",
 		"genre": [],
 		"length": 94,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "When his family moves from their home in Berlin to a strange new house in Poland, young Bruno befriends Shmuel, a boy who lives on the other side of the fence where everyone seems to be wearing striped pajamas. Unaware of Shmuel's fate as a Jewish prisoner or the role his own Nazi father plays in his imprisonment, Bruno embarks on a dangerous journey inside the camp's walls."
 	},
 	{
 		"title": "Flux Gourmet",
@@ -3429,10 +3709,11 @@
 			"Peter Strickland"
 		],
 		"clip": "clips/movie285.mp4",
+		"thumb": "thumbs/movie285.jpg",
 		"genre": [],
 		"length": 112,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "At an institute devoted to culinary and alimentary performance, a collective finds themselves embroiled in power struggles, artistic vendettas and gastrointestinal disorders."
 	},
 	{
 		"title": "Dr. Strangelove",
@@ -3441,10 +3722,11 @@
 			"Stanley Kubrick"
 		],
 		"clip": "clips/movie286.mp4",
+		"thumb": "thumbs/movie286.jpg",
 		"genre": [],
 		"length": 95,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop the nuclear strike."
 	},
 	{
 		"title": "La Collectionneuse",
@@ -3453,10 +3735,11 @@
 			"Éric Rohmer"
 		],
 		"clip": "clips/movie287.mp4",
+		"thumb": "thumbs/movie287.jpg",
 		"genre": [],
 		"length": 86,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A bombastic, womanizing art dealer and his painter friend go to a seventeenth-century villa on the Riviera for a relaxing summer getaway. But their idyll is disturbed by the presence of the bohemian Haydée, accused of being a “collector” of men."
 	},
 	{
 		"title": "Hell or High Water",
@@ -3465,10 +3748,11 @@
 			"David Mackenzie"
 		],
 		"clip": "clips/movie288.mp4",
+		"thumb": "thumbs/movie288.jpg",
 		"genre": [],
 		"length": 102,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A divorced dad and his ex-con brother resort to a desperate scheme in order to save their family's farm in West Texas."
 	},
 	{
 		"title": "Don't Worry, He Won't Get Far on Foot",
@@ -3477,10 +3761,11 @@
 			"Gus Van Sant"
 		],
 		"clip": "clips/movie289.mp4",
+		"thumb": "thumbs/movie289.jpg",
 		"genre": [],
 		"length": 115,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "On the rocky path to sobriety after a life-changing accident, John Callahan discovers the healing power of art, willing his injured hands into drawing hilarious, often controversial cartoons, which bring him a new lease on life."
 	},
 	{
 		"title": "The Devil All the Time",
@@ -3489,10 +3774,11 @@
 			"Antonio Campos"
 		],
 		"clip": "clips/movie290.mp4",
+		"thumb": "thumbs/movie290.jpg",
 		"genre": [],
 		"length": 138,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family."
 	},
 	{
 		"title": "A Gentle Breeze in the Village",
@@ -3501,10 +3787,11 @@
 			"Nobuhiro Yamashita"
 		],
 		"clip": "clips/movie291.mp4",
+		"thumb": "thumbs/movie291.jpg",
 		"genre": [],
 		"length": 121,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "When eighth-grade cool guy Hiromi transfers from Tokyo to a small elementary/middle school with only six kids enrolled, wholesome and honest Soyo becomes enthralled with his sophisticated world."
 	},
 	{
 		"title": "A Most Violent Year",
@@ -3513,10 +3800,11 @@
 			"J.C. Chandor"
 		],
 		"clip": "clips/movie292.mp4",
+		"thumb": "thumbs/movie292.jpg",
 		"genre": [],
 		"length": 124,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A thriller set in New York City during the winter of 1981, statistically one of the most violent years in the city's history, and centered on the lives of an immigrant and his family trying to expand their business and capitalize on opportunities as the rampant violence, decay, and corruption of the day drag them in and threaten to destroy all they have built."
 	},
 	{
 		"title": "Swan Song",
@@ -3525,10 +3813,11 @@
 			"Benjamin Cleary"
 		],
 		"clip": "clips/movie293.mp4",
+		"thumb": "thumbs/movie293.jpg",
 		"genre": [],
 		"length": 112,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate in this thought-provoking exploration of love, loss, and sacrifice."
 	},
 	{
 		"title": "The Invisible Guest",
@@ -3537,22 +3826,24 @@
 			"Oriol Paulo"
 		],
 		"clip": "clips/movie294.mp4",
+		"thumb": "thumbs/movie294.jpg",
 		"genre": [],
 		"length": 107,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Barcelona, Spain. Adrián Doria, a young and successful businessman accused of murder, meets one night with Virginia Goodman, an expert interrogation lawyer, in order to devise a defense strategy."
 	},
 	{
-		"title": "Dune − Part Two",
+		"title": "Dune: Part Two",
 		"year": 2024,
 		"director": [
 			"Denis Villeneuve"
 		],
 		"clip": "clips/movie295.mp4",
+		"thumb": "thumbs/movie295.jpg",
 		"genre": [],
 		"length": 167,
 		"rating": 2,
-		"synopsis": ""
+		"synopsis": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee."
 	},
 	{
 		"title": "The Banshees of Inisherin",
@@ -3561,10 +3852,11 @@
 			"Martin McDonagh"
 		],
 		"clip": "clips/movie296.mp4",
+		"thumb": "thumbs/movie296.jpg",
 		"genre": [],
 		"length": 114,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them."
 	},
 	{
 		"title": "2046",
@@ -3573,10 +3865,11 @@
 			"Wong Kar-Wai"
 		],
 		"clip": "clips/movie297.mp4",
+		"thumb": "thumbs/movie297.jpg",
 		"genre": [],
 		"length": 128,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Women enter and exit a science fiction author's life over the course of a few years after the author loses the woman he considers his one true love."
 	},
 	{
 		"title": "Infernal Affairs",
@@ -3586,10 +3879,11 @@
 			"Andrew Lau Wai-Keung"
 		],
 		"clip": "clips/movie298.mp4",
+		"thumb": "thumbs/movie298.jpg",
 		"genre": [],
 		"length": 100,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Chan Wing Yan, a young police officer, has been sent undercover as a mole in the local mafia. Lau Kin Ming, a young mafia member, infiltrates the police force. Years later, their older counterparts, Chen Wing Yan and Inspector Lau Kin Ming, respectively, race against time to expose the mole within their midst."
 	},
 	{
 		"title": "Lust, Caution",
@@ -3598,10 +3892,11 @@
 			"Ang Lee"
 		],
 		"clip": "clips/movie299.mp4",
+		"thumb": "thumbs/movie299.jpg",
 		"genre": [],
 		"length": 158,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "During World War II, a secret agent must seduce and assassinate an official who works for the Japanese puppet government in Shanghai."
 	},
 	{
 		"title": "The Northman",
@@ -3610,10 +3905,11 @@
 			"Robert Eggers"
 		],
 		"clip": "clips/movie300.mp4",
+		"thumb": "thumbs/movie300.jpg",
 		"genre": [],
 		"length": 137,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father."
 	},
 	{
 		"title": "To the Ends of the Earth",
@@ -3622,10 +3918,11 @@
 			"Kiyoshi Kurosawa"
 		],
 		"clip": "clips/movie301.mp4",
+		"thumb": "thumbs/movie301.jpg",
 		"genre": [],
 		"length": 120,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "A young Japanese woman named Yoko finds her cautious and insular nature tested when she travels to Uzbekistan to shoot the latest episode of her travel variety show."
 	},
 	{
 		"title": "Hunger",
@@ -3634,10 +3931,11 @@
 			"Steve McQueen"
 		],
 		"clip": "clips/movie302.mp4",
+		"thumb": "thumbs/movie302.jpg",
 		"genre": [],
 		"length": 96,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "The story of Bobby Sands, the IRA member who led the 1981 hunger strike during The Troubles in which Irish Republican prisoners tried to win political status."
 	},
 	{
 		"title": "Our Friend",
@@ -3646,21 +3944,166 @@
 			"Gabriela Cowperthwaite"
 		],
 		"clip": "clips/movie303.mp4",
+		"thumb": "thumbs/movie303.jpg",
 		"genre": [],
 		"length": 124,
 		"rating": 1,
-		"synopsis": ""
+		"synopsis": "After learning that his terminally ill wife has six months to live, a man welcomes the support of his best friend who moves into their home to help out."
 	},
 	{
-		"title": "Kusama − Infinity",
+		"title": "Kusama: Infinity",
 		"year": 2018,
 		"director": [
 			"Heather Lenz"
 		],
 		"clip": "clips/movie304.mp4",
+		"thumb": "thumbs/movie304.jpg",
 		"genre": [],
 		"length": 80,
 		"rating": 0,
-		"synopsis": ""
+		"synopsis": "Now one of the world’s most celebrated artists, Yayoi Kusama broke free of the rigid society in which she was raised, and overcame sexism, racism, and mental illness to bring her artistic vision to the world stage. At 88 she lives in a mental hospital and continues to create art."
+	},
+	{
+		"title": "Apocalypse Now",
+		"year": 1979,
+		"director": [
+			"Francis Ford Coppola"
+		],
+		"clip": "clips/movie305.mp4",
+		"thumb": "thumbs/movie305.jpg",
+		"genre": [],
+		"length": 147,
+		"rating": 0,
+		"synopsis": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory."
+	},
+	{
+		"title": "Three Colours: White",
+		"year": 1994,
+		"director": [
+			"Krzysztof Kieślowski"
+		],
+		"clip": "clips/movie306.mp4",
+		"thumb": "thumbs/movie306.jpg",
+		"genre": [],
+		"length": 92,
+		"rating": 0,
+		"synopsis": "Polish immigrant Karol Karol finds himself out of a marriage, a job and a country when his French wife, Dominique, divorces him after six months due to his impotence. Forced to leave France after losing the business they jointly owned, Karol enlists fellow Polish expatriate Mikołaj to smuggle him back to their homeland."
+	},
+	{
+		"title": "The Humans",
+		"year": 2021,
+		"director": [
+			"Stephen Karam"
+		],
+		"clip": "clips/movie307.mp4",
+		"thumb": "thumbs/movie307.jpg",
+		"genre": [],
+		"length": 108,
+		"rating": 0,
+		"synopsis": "Erik Blake has gathered three generations of his Pennsylvania family to celebrate Thanksgiving at his daughter’s apartment in lower Manhattan. As darkness falls outside and eerie things start to go bump in the night, the group’s deepest fears are laid bare."
+	},
+	{
+		"title": "Only Lovers Left Alive",
+		"year": 2013,
+		"director": [
+			"Jim Jarmusch"
+		],
+		"clip": "clips/movie308.mp4",
+		"thumb": "thumbs/movie308.jpg",
+		"genre": [],
+		"length": 123,
+		"rating": 1,
+		"synopsis": "A depressed musician reunites with his lover. However, their romance, already played over several centuries, is disrupted by the arrival of her uncontrollable younger sister."
+	},
+	{
+		"title": "Lawrence of Arabia",
+		"year": 1962,
+		"director": [
+			"David Lean"
+		],
+		"clip": "clips/movie309.mp4",
+		"thumb": "thumbs/movie309.jpg",
+		"genre": [],
+		"length": 228,
+		"rating": 1,
+		"synopsis": "The story of British officer T.E. Lawrence's mission to aid the Arab tribes in their revolt against the Ottoman Empire during the First World War. Lawrence becomes a flamboyant, messianic figure in the cause of Arab unity but his psychological instability threatens to undermine his achievements."
+	},
+	{
+		"title": "Pig",
+		"year": 2021,
+		"director": [
+			"Michael Sarnoski"
+		],
+		"clip": "clips/movie310.mp4",
+		"thumb": "thumbs/movie310.jpg",
+		"genre": [],
+		"length": 92,
+		"rating": 0,
+		"synopsis": "A truffle hunter who lives alone in the Oregon wilderness must visit Portland to find the mysterious person who stole his beloved foraging pig."
+	},
+	{
+		"title": "Crimes of the Future",
+		"year": 2022,
+		"director": [
+			"David Cronenberg"
+		],
+		"clip": "clips/movie311.mp4",
+		"thumb": "thumbs/movie311.jpg",
+		"genre": [],
+		"length": 107,
+		"rating": 0,
+		"synopsis": "With his partner, a celebrity performance artist publicly showcases the metamorphosis of his organs in avant-garde performances. An investigator from the National Organ Registry obsessively tracks their movements, which is when a mysterious group is revealed... Their mission — to use the artist's notoriety to shed light on the next phase of human evolution."
+	},
+	{
+		"title": "Under the Silver Lake",
+		"year": 2018,
+		"director": [
+			"David Robert Mitchell"
+		],
+		"clip": "clips/movie312.mp4",
+		"thumb": "thumbs/movie312.jpg",
+		"genre": [],
+		"length": 139,
+		"rating": 0,
+		"synopsis": "Young and disenchanted Sam meets a mysterious and beautiful woman who's swimming in his building's pool one night. When she suddenly vanishes the next morning, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal and conspiracy."
+	},
+	{
+		"title": "The Shining",
+		"year": 1980,
+		"director": [
+			"Stanley Kubrick"
+		],
+		"clip": "clips/movie313.mp4",
+		"thumb": "thumbs/movie313.jpg",
+		"genre": [],
+		"length": 144,
+		"rating": 0,
+		"synopsis": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within."
+	},
+	{
+		"title": "Kwaidan",
+		"year": 1964,
+		"director": [
+			"Masaki Kobayashi"
+		],
+		"clip": "clips/movie314.mp4",
+		"thumb": "thumbs/movie314.jpg",
+		"genre": [],
+		"length": 183,
+		"rating": 0,
+		"synopsis": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup."
+	},
+	{
+		"title": "The Master",
+		"year": 2012,
+		"director": [
+			"Paul Thomas Anderson"
+		],
+		"clip": "clips/movie315.mp4",
+		"thumb": "thumbs/movie315.jpg",
+		"genre": [],
+		"length": 137,
+		"rating": 0,
+		"synopsis": "Freddie, a volatile, heavy-drinking veteran who suffers from post-traumatic stress disorder, finds some semblance of a family when he stumbles onto the ship of Lancaster Dodd, the charismatic leader of a new \"religion\" he forms after World War II."
 	}
 ]

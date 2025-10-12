@@ -11,6 +11,7 @@ async function loadMovies() {
 	const directorFilter = document.getElementById("filter-director");
 	const yearFilter = document.getElementById("filter-year");
 	const lengthFilter = document.getElementById("filter-length");
+	const ratingFilter = document.getElementById("filter-rating");
 	const sortSelect = document.getElementById("sort");
 
 	const genres = [...new Set(movies.flatMap(m => m.genre))].sort();
@@ -30,13 +31,13 @@ async function loadMovies() {
 	yearFilter.innerHTML = `<option value="">All Years</option>` + years.map(y => `<option value="${y}">${y}</option>`).join("");
 	lengthFilter.innerHTML = lengthOptions.map(opt => `<option value="${opt.value}">${opt.label}</option>`).join("");
 
-	const posters = [
-		"posters-mini/sep-mini-01.png",
-		"posters-mini/sep-mini-02.png"
-	];
+	// const posters = [
+	// 	"posters-mini/sep-mini-01.png",
+	// 	"posters-mini/sep-mini-02.png"
+	// ];
 
-	const randomIndex = Math.floor(Math.random() * posters.length);
-	document.getElementById("randomPoster").src = posters[randomIndex];
+	// const randomIndex = Math.floor(Math.random() * posters.length);
+	// document.getElementById("randomPoster").src = posters[randomIndex];
 
 	// render
 	function render(list) {
@@ -49,40 +50,25 @@ async function loadMovies() {
 			<div class="movie">
 				<div class="movie-info">
 					<p style="flex: 1; font-weight: bold; text-transform: uppercase; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">${m.title}</p>
-					<p style="">${m.director.join(", ")}</p>
+					<p style="text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">${m.director.join(", ")}</p>
 				</div>
 				<div class="movie-info">
 					<p style="text-align:left;">${m.year} ${star}</p>
 					<p style="flex: 1; text-align:center;">${m.genre.join("  •  ")}</p>
 					<p style="text-align:right;">${m.length}m</p>
 				</div>
-				<div class="movie-video-container">
-					<video class="movie-video" muted loop preload="metadata">
-						${m.clip ? `<source src="${m.clip}" type="video/mp4">` : ""}
-					</video>
+				<div class="movie-video-container" data-clip="${m.clip}">
+					<img class="thumb" src="${m.thumb}" alt="${m.title}">
 				</div>
 				<div style="margin-top: 16px">
-					
 					<div class="movie-info">
-						<p style="text-align:justify; color: #f0f6f0; opacity: 0.4">${m.synopsis}</p>
+						<p style="text-align:justify; color: var(--text-secondary-color);">${m.synopsis}</p>
 					</div>
 				</div>
 			</div>
 			</div>
 		`;
 		}).join("");
-
-		document.querySelectorAll(".movie-video").forEach(video => {
-			const parent = video.closest(".movie");
-
-			parent.addEventListener("mouseenter", () => {
-				video.play();
-			});
-
-			parent.addEventListener("mouseleave", () => {
-				video.pause();
-			});
-		});
 
 		const movies = document.querySelectorAll(".movie");
 		let resetTimer = null;
@@ -95,7 +81,7 @@ async function loadMovies() {
 				}
 				movies.forEach(m => m.style.opacity = "1");
 				movies.forEach(m => {
-					if (m !== movie) m.style.opacity = "0.3";
+					if (m !== movie) m.style.opacity = "0.2";
 				});
 			});
 
@@ -104,6 +90,61 @@ async function loadMovies() {
 					movies.forEach(m => m.style.opacity = "1");
 					resetTimer = null;
 				}, 80);
+			});
+		});
+
+		// Hover-swap behavior: triggers on the whole movie card
+		const cards = document.querySelectorAll(".movie");
+
+		const observer = new IntersectionObserver(entries => {
+			for (const entry of entries) {
+				const card = entry.target;
+				const box = card.querySelector(".movie-video-container");
+				const video = box.querySelector("video");
+				if (!entry.isIntersecting && video) {
+					video.pause();
+					video.removeAttribute("src");
+					video.load(); // unload when scrolled far away
+				}
+			}
+		}, { threshold: 0, rootMargin: "600px 0px" });
+
+		cards.forEach(card => {
+			const box = card.querySelector(".movie-video-container");
+			const clip = box.dataset.clip;
+			let video = null;
+
+			card.addEventListener("mouseenter", () => {
+				if (!video) {
+					video = document.createElement("video");
+					video.src = clip;
+					video.muted = true;
+					video.loop = true;
+					video.preload = "metadata";
+					video.className = "movie-video";
+					video.style.objectFit = "cover";
+					box.appendChild(video); // sits on top of the image
+					video.play();
+					observer.observe(card);
+				} else {
+					// if video exists but has no src (was unloaded), reload it
+					if (!video.src) {
+						video.src = clip;
+						video.load();
+					}
+					video.play();
+				}
+			});
+
+			card.addEventListener("mouseleave", () => {
+				if (video) video.pause();
+			});
+		});
+
+		document.querySelectorAll("select").forEach(sel => {
+			sel.addEventListener("change", () => {
+				if (sel.selectedIndex > 0) sel.classList.add("active");
+				else sel.classList.remove("active");
 			});
 		});
 	}
@@ -121,6 +162,7 @@ async function loadMovies() {
 		const d = directorFilter.value;
 		const y = yearFilter.value;
 		const l = lengthFilter.value;
+		const r = ratingFilter.value;
 
 		if (g) results = results.filter(m => m.genre.includes(g));
 		if (d) results = results.filter(m => m.director.includes(d));
@@ -133,6 +175,15 @@ async function loadMovies() {
 				if (l === "2") return len >= 105 && len <= 134;
 				if (l === "2.5") return len >= 135 && len <= 164;
 				if (l === "3") return len >= 165;
+			});
+		}
+		if (r) {
+			results = results.filter(m => {
+				const rating = m.rating;
+				if (r === "all") return rating >= 0;
+				if (r === "positive") return rating > 0;
+				if (r === "favorite") return rating == 2;
+				if (r === "good") return rating == 1;
 			});
 		}
 
@@ -171,7 +222,22 @@ async function loadMovies() {
 	directorFilter.addEventListener("change", updateResults);
 	yearFilter.addEventListener("change", updateResults);
 	lengthFilter.addEventListener("change", updateResults);
+	ratingFilter.addEventListener("change", updateResults);
 	sortSelect.addEventListener("change", updateResults);
+
+	const filters = document.querySelector('.filters');
+	const sentinel = document.createElement('div');
+	filters.parentNode.insertBefore(sentinel, filters); // place above it
+
+	const observer = new IntersectionObserver(entries => {
+		if (!entries[0].isIntersecting) {
+			filters.classList.add('stuck');
+		} else {
+			filters.classList.remove('stuck');
+		}
+	});
+	observer.observe(sentinel);
+
 }
 
 loadMovies();
