@@ -57,6 +57,8 @@ h3 {
 	border-color: var(--bg-color);
 	border-width: 1px;
 	/* padding: 20px; */
+	cursor: crosshair !important;
+	pointer-events: auto;
 }
 
 .movie-video {
@@ -115,6 +117,7 @@ h3 {
 	/* background-color: var(--bg-color); */
 	/* border-color: var(--border-color); */
 	opacity: 1.0;
+	/* cursor: crosshair; */
 	/* transform: scale(1.02);
 	z-index: 10; */
 }
@@ -233,4 +236,34 @@ select.active:hover {
 	margin: 0;
 	padding: 0;
 	overflow: visible; /* or hidden if you want clipping */
+}
+
+#videoOverlay {
+	position: fixed;
+	inset: 0;
+	display: none;
+	align-items: center;
+	justify-content: center;
+	z-index: 9999;
+	cursor: zoom-out !important;
+	pointer-events: auto;
+}
+
+#videoOverlay.active {
+	display: flex;
+}
+
+.overlay-bg {
+	position: absolute;
+	inset: 0;
+	background: rgba(0, 0, 0, 0.8);
+	backdrop-filter: blur(4px);
+}
+
+#overlayVideo {
+	position: relative;
+	max-width: 90%;
+	max-height: 90%;
+	/* box-shadow: 0 0 20px rgba(0,0,0,0.6); */
+	border-radius: 12px;
 }

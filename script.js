@@ -238,6 +238,28 @@ async function loadMovies() {
 	});
 	observer.observe(sentinel);
 
+	const overlay = document.getElementById("videoOverlay");
+	const overlayVideo = document.getElementById("overlayVideo");
+
+	// Open overlay when a movie card is clicked
+	document.addEventListener("click", e => {
+		const card = e.target.closest(".movie");
+		if (!card) return;
+
+		const clip = card.querySelector(".movie-video-container")?.dataset.clip;
+		if (!clip) return;
+
+		overlayVideo.src = clip;
+		overlayVideo.play();
+		overlay.classList.add("active");
+	});
+
+	// Close overlay on click anywhere in it
+	overlay.addEventListener("click", () => {
+		overlayVideo.pause();
+		overlayVideo.src = "";
+		overlay.classList.remove("active");
+	});
 }
 
 loadMovies();
