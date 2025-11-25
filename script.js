@@ -4,7 +4,7 @@ let originalMovies = [];
 async function loadMovies() {
 	const res = await fetch("data/movies.json");
 	movies = await res.json();
-	originalMovies = [...movies]; // copy for restoring
+	originalMovies = [...movies];
 
 	const container = document.getElementById("movies");
 	const genreFilter = document.getElementById("filter-genre");
@@ -13,6 +13,7 @@ async function loadMovies() {
 	const lengthFilter = document.getElementById("filter-length");
 	const ratingFilter = document.getElementById("filter-rating");
 	const sortSelect = document.getElementById("sort");
+	const resultCount = document.getElementById("resultCount");
 
 	const genres = [...new Set(movies.flatMap(m => m.genre))].sort();
 	const directors = [...new Set(movies.flatMap(m => m.director))].sort();
@@ -30,14 +31,6 @@ async function loadMovies() {
 	directorFilter.innerHTML = `<option value="">All Directors</option>` + directors.map(d => `<option value="${d}">${d}</option>`).join("");
 	yearFilter.innerHTML = `<option value="">All Years</option>` + years.map(y => `<option value="${y}">${y}</option>`).join("");
 	lengthFilter.innerHTML = lengthOptions.map(opt => `<option value="${opt.value}">${opt.label}</option>`).join("");
-
-	// const posters = [
-	// 	"posters-mini/sep-mini-01.png",
-	// 	"posters-mini/sep-mini-02.png"
-	// ];
-
-	// const randomIndex = Math.floor(Math.random() * posters.length);
-	// document.getElementById("randomPoster").src = posters[randomIndex];
 
 	// render
 	function render(list) {
@@ -81,7 +74,7 @@ async function loadMovies() {
 				}
 				movies.forEach(m => m.style.opacity = "1");
 				movies.forEach(m => {
-					if (m !== movie) m.style.opacity = "0.2";
+					if (m !== movie) m.style.opacity = "0.5";
 				});
 			});
 
@@ -104,7 +97,7 @@ async function loadMovies() {
 				if (!entry.isIntersecting && video) {
 					video.pause();
 					video.removeAttribute("src");
-					video.load(); // unload when scrolled far away
+					video.load();
 				}
 			}
 		}, { threshold: 0, rootMargin: "600px 0px" });
@@ -151,12 +144,9 @@ async function loadMovies() {
 
 	render(movies);
 
-	// search + filter
-	const fuse = new Fuse(movies, { keys: ["title", "year", "genre", "director", "synopsis"] });
-
+	// filter
 	function updateResults() {
-		const searchTerm = document.getElementById("search").value;
-		let results = searchTerm ? fuse.search(searchTerm).map(r => r.item) : movies;
+		let results = movies;
 
 		const g = genreFilter.value;
 		const d = directorFilter.value;
@@ -214,10 +204,12 @@ async function loadMovies() {
 				break;
 		}
 
+		resultCount.textContent = "Results: " + results.length;
 		render(results);
 	}
 
-	document.getElementById("search").addEventListener("input", updateResults);
+	updateResults();
+
 	genreFilter.addEventListener("change", updateResults);
 	directorFilter.addEventListener("change", updateResults);
 	yearFilter.addEventListener("change", updateResults);
@@ -225,15 +217,31 @@ async function loadMovies() {
 	ratingFilter.addEventListener("change", updateResults);
 	sortSelect.addEventListener("change", updateResults);
 
-	const filters = document.querySelector('.filters');
+	// Reset filters
+	const resetFilters = document.getElementById("resetFilters");
+	
+	resetFilters.addEventListener("click", () => {
+		console.log('Test');
+		genreFilter.selectedIndex = 0;
+		directorFilter.selectedIndex = 0;
+		yearFilter.selectedIndex = 0;
+		lengthFilter.selectedIndex = 0;
+		ratingFilter.selectedIndex = 0;
+		sortSelect.selectedIndex = 0;
+
+		document.querySelectorAll("select").forEach(s => s.classList.remove("active"));
+
+		updateResults();
+	});
+
+	const header = document.querySelector('.header');
 	const sentinel = document.createElement('div');
-	filters.parentNode.insertBefore(sentinel, filters); // place above it
 
 	const observer = new IntersectionObserver(entries => {
 		if (!entries[0].isIntersecting) {
-			filters.classList.add('stuck');
+			header.classList.add('stuck');
 		} else {
-			filters.classList.remove('stuck');
+			header.classList.remove('stuck');
 		}
 	});
 	observer.observe(sentinel);
@@ -243,6 +251,7 @@ async function loadMovies() {
 
 	// Open overlay when a movie card is clicked
 	document.addEventListener("click", e => {
+		if (window.getSelection().toString().length > 0) return;
 		const card = e.target.closest(".movie");
 		if (!card) return;
 
@@ -252,6 +261,7 @@ async function loadMovies() {
 		overlayVideo.src = clip;
 		overlayVideo.play();
 		overlay.classList.add("active");
+		document.body.style.overflow = "hidden";
 	});
 
 	// Close overlay on click anywhere in it
@@ -259,6 +269,23 @@ async function loadMovies() {
 		overlayVideo.pause();
 		overlayVideo.src = "";
 		overlay.classList.remove("active");
+		document.body.style.overflow = "";
+	});
+
+	// Custom select
+	const wrap = document.querySelector('.select-wrap');
+	const native = wrap.querySelector('.native-select');
+	const label = wrap.querySelector('.select-label');
+
+	// Update label when user picks from native dropdown
+	native.addEventListener('change', () => {
+		label.textContent = native.options[native.selectedIndex].textContent;
+	});
+
+	document.querySelectorAll("select").forEach(sel => {
+		sel.addEventListener("change", () => {
+			sel.blur();   // commits choice immediately on mobile
+		});
 	});
 }
 

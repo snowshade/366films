@@ -3,63 +3,49 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>366MOVIES</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="theme-color" content="#0d0d0d">
+	<title>YEAR IN FRAMES</title>
 	<link rel="stylesheet" href="style.css">
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="normalize.css">
 </head>
 
 <body>
-	<!-- <div style="display: flex; flex-direction: row;">
-		<div>
-			<img src="logo_part1.svg" class="logo">
-			<p>A collection of short clips from 366 movies that I watched over the course of 1 year.</p>
-		</div>
-		<div>
-			<img src="logo_part2.svg" class="logo">
-			<p>The process of collecting these clips made me appreciate small nuances of cinematogaphy like camera movement, use of color, lighting, framing, composition.</p>
-		</div>
-		<div>
-			<img src="logo_part3.svg" class="logo">
-			<p>There are no ratings, recommendations or reviews here. Some movies have a ☆ or ★ next to their title, which just indicates movies that I enjoyed the most.</p>
-		</div>
-		<div>
-			<img src="logo_part4.svg" class="logo">
-			<p>Enjoy the collection.</p>
-		</div>
-	</div> -->
 	<div class="header">
-		<div class="info">
-			<p>A collection of short clips from 366 movies that I watched over the course of 1 year.</p>
-			<p>The process of collecting these clips made me appreciate small nuances of cinematogaphy like camera movement, use of color, lighting, framing, composition.</p>
-			<p>There are no ratings, recommendations or reviews here. Some movies have a star next to their title, which just indicates movies that I enjoyed the most.</p>
-			<p>Enjoy the collection.<br><a href="https://x.com/snowshade">Made by</a></p>
-			<!-- <img id="randomPoster" src="posters-mini/sep-mini-01.png"> -->
-		</div>
 		<img src="logo.svg" class="logo">
-	</div>
-	<div class="filters">
-		<input type="text" id="search" placeholder="Search movies...">
-		<select id="filter-genre"></select>
-		<select id="filter-director"></select>
-		<select id="filter-year"></select>
-		<select id="filter-length"></select>
-		<select id="filter-rating">
-			<option value="all">All movies</option>
-			<option value="positive">Only ★ and ☆</option>
-			<option value="favorite">Only ★</option>
-			<option value="good">Only ☆</option>
-		</select>
-		<select id="sort">
-			<option value="original">Original order</option>
-			<option value="title-asc">Title (A → Z)</option>
-			<option value="title-desc">Title (Z → A)</option>
-			<option value="year-asc">Year (old → new)</option>
-			<option value="year-desc">Year (new → old)</option>
-			<option value="length-asc">Length (short → long)</option>
-			<option value="length-desc">Length (long → short)</option>
-		</select>
+		<div class="filters">
+			<select class="styled-select" id="filter-genre">
+				<option value="all">All genres</option>
+			</select>
+			<select class="styled-select" id="filter-director">
+				<option value="all">All directors</option>
+			</select>
+			<select class="styled-select" id="filter-year">
+				<option value="all">All years</option>
+			</select>
+			<select class="styled-select" id="filter-length">
+				<option value="all">All lengths</option>
+			</select>
+			<select class="styled-select" id="filter-rating">
+				<option value="all">All movies</option>
+				<option value="positive">Only ★ and ☆</option>
+				<option value="favorite">Only ★</option>
+				<option value="good">Only ☆</option>
+			</select>
+			<select class="styled-select" id="sort">
+				<option value="original">Original order</option>
+				<option value="title-asc">Title (A → Z)</option>
+				<option value="title-desc">Title (Z → A)</option>
+				<option value="year-asc">Year (old → new)</option>
+				<option value="year-desc">Year (new → old)</option>
+				<option value="length-asc">Length (short → long)</option>
+				<option value="length-desc">Length (long → short)</option>
+			</select>
+		</div>
+		<div class="results">
+			<span id="resetFilters" class="reset">Reset</span>
+			<span id="resultCount" class="count"></span>
+		</div>
 	</div>
 	<div id="movies"></div>
 
