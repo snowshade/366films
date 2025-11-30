@@ -364,8 +364,6 @@ async function loadMovies() {
 				card.classList.remove("touch-active");
 				return;
 			}
-
-			openPopupForCard(card);
 		});
 
 		card.addEventListener("touchmove", () => {

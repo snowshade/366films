@@ -5120,5 +5120,19 @@
 		"length": 123,
 		"rating": 0,
 		"synopsis": "Frank is an expert professional safecracker, specialized in high-profile diamond heists. He plans to use his ill-gotten income to retire from crime and build a nice life for himself complete with a home, wife and kids. To accelerate the process, he signs on with a top gangster for a big score."
+	},
+	{
+		"title": "Kiki’s Delivery Service",
+		"year": 1989,
+		"director": [
+			"Hayao Miyazaki"
+		],
+		"clip": "clips/movie366.mp4",
+		"clip_small": "clips_small/movie366_small.mp4",
+		"thumb": "thumbs/movie366.jpg",
+		"genre": ["Fantasy","Animation","Family"],
+		"length": 103,
+		"rating": 2,
+		"synopsis": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service."
 	}
 ]
