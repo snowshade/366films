@@ -13,7 +13,7 @@
 	/* Radius */
 	--radius-small: 0.25rem;
 	--radius-medium: 0.75rem;
-	--radius-large: 2.5rem;
+	--radius-large: 1.5rem;
 }
 
 @media (hover: hover) {
@@ -75,11 +75,12 @@ p {
 	flex-direction: column;
 	overflow: hidden;
 	transition: background-color 0.2s, opacity 0.2s ease-out;
-	border: solid;
-	border-color: var(--bg-color);
-	border-width: 1px;
+	/* border-top: dashed;
+	border-color: var(--border-color);
+	border-width: 1px; */
 	cursor: crosshair !important;
 	pointer-events: auto;
+	/* padding-top: 10px; */
 }
 
 .movie-video,
@@ -160,7 +161,7 @@ p {
 	margin: 0;
 	padding: 0;
 	overflow: visible;
-	width: 204px;
+	width: 122px;
 }
 
 #videoOverlay {

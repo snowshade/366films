@@ -47,10 +47,10 @@ async function loadMovies() {
 				</div>
 				<div class="movie-info">
 					<p style="text-align:left;">${m.year} ${star}</p>
-					<p style="flex: 1; text-align:center;">${m.genre.join("  •  ")}</p>
-					<p style="text-align:right;">${m.length}m</p>
+					<p style="flex: 1; text-align:center;">${m.genre.join("<span style=\"color: var(--text-secondary-color)\"> ✢ </span>")}</p>
+					<p style="text-align:right;"><span style=\"color: var(--text-secondary-color)\">ⴵ</span> ${m.length}m</p>
 				</div>
-				<div class="movie-video-container" data-clip="${m.clip}">
+				<div class="movie-video-container" data-clip="${m.clip_small}" data-clip_full="${m.clip}">
 					<img class="thumb" src="${m.thumb}" alt="${m.title}">
 				</div>
 				<div style="margin-top: 16px">
@@ -74,7 +74,7 @@ async function loadMovies() {
 				}
 				movies.forEach(m => m.style.opacity = "1");
 				movies.forEach(m => {
-					if (m !== movie) m.style.opacity = "0.5";
+					if (m !== movie) m.style.opacity = "0.3";
 				});
 			});
 
@@ -89,49 +89,92 @@ async function loadMovies() {
 		// Hover-swap behavior: triggers on the whole movie card
 		const cards = document.querySelectorAll(".movie");
 
-		const observer = new IntersectionObserver(entries => {
+		const preloadObserver = new IntersectionObserver(entries => {
 			for (const entry of entries) {
+				if (!entry.isIntersecting) continue;
+
 				const card = entry.target;
 				const box = card.querySelector(".movie-video-container");
 				const video = box.querySelector("video");
-				if (!entry.isIntersecting && video) {
-					video.pause();
+
+				// If we've already assigned src, skip
+				if (!video.dataset.src) continue;
+
+				// Assign real src and begin buffering
+				video.src = video.dataset.src;
+				video.load();
+
+				// Remove dataset flag so we don't reload again
+				delete video.dataset.src;
+			}
+		}, { rootMargin: "300px 0px" });
+
+		// Unload videos when far away (optional)
+		const unloadObserver = new IntersectionObserver(entries => {
+			for (const entry of entries) {
+				if (entry.isIntersecting) continue;
+
+				const card = entry.target;
+				const box = card.querySelector(".movie-video-container");
+				const video = box.querySelector("video");
+
+				if (!video) return;
+
+				video.pause();
+
+				// Unload ONLY if not currently hovered
+				if (!card.matches(":hover")) {
 					video.removeAttribute("src");
-					video.load();
+					video.load(); // clears buffer
+					video.dataset.src = box.dataset.clip; // restore for reload later
 				}
 			}
 		}, { threshold: 0, rootMargin: "600px 0px" });
 
+
+		// Build video elements upfront (never on hover again)
 		cards.forEach(card => {
 			const box = card.querySelector(".movie-video-container");
 			const clip = box.dataset.clip;
-			let video = null;
 
+			// Create video element hidden behind image
+			const video = document.createElement("video");
+			video.className = "movie-video";
+			video.muted = true;
+			video.loop = true;
+			video.preload = "metadata"; // start minimal load
+			video.playsInline = true;
+
+			// Store real src for later
+			video.dataset.src = clip;
+
+			// Styling: video hidden by default
+			video.classList.add("movie-video");
+			video.style.opacity = "0";
+			video.style.transition = "opacity 0.12s ease";
+
+			// Put video on top of the image
+			box.style.position = "relative";
+			box.appendChild(video);
+
+			// Hover behavior (only opacity + play/pause)
 			card.addEventListener("mouseenter", () => {
-				if (!video) {
-					video = document.createElement("video");
-					video.src = clip;
-					video.muted = true;
-					video.loop = true;
-					video.preload = "metadata";
-					video.className = "movie-video";
-					video.style.objectFit = "cover";
-					box.appendChild(video); // sits on top of the image
-					video.play();
-					observer.observe(card);
-				} else {
-					// if video exists but has no src (was unloaded), reload it
-					if (!video.src) {
-						video.src = clip;
-						video.load();
-					}
-					video.play();
+				// If src was unloaded, reload it
+				if (!video.src && video.dataset.src) {
+					video.src = video.dataset.src;
+					video.load();
 				}
+				video.play();
+				video.style.opacity = "1";
 			});
 
 			card.addEventListener("mouseleave", () => {
-				if (video) video.pause();
+				video.pause();
 			});
+
+			// Observe for preload and unload
+			preloadObserver.observe(card);
+			unloadObserver.observe(card);
 		});
 
 		document.querySelectorAll("select").forEach(sel => {
@@ -255,7 +298,7 @@ async function loadMovies() {
 		const card = e.target.closest(".movie");
 		if (!card) return;
 
-		const clip = card.querySelector(".movie-video-container")?.dataset.clip;
+		const clip = card.querySelector(".movie-video-container")?.dataset.clip_full;
 		if (!clip) return;
 
 		overlayVideo.src = clip;
