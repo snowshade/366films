@@ -330,6 +330,44 @@ async function loadMovies() {
 			sel.blur();   // commits choice immediately on mobile
 		});
 	});
+
+	let pressTimer;
+	let longPressActive = false;
+
+	const isMobile = matchMedia("(pointer: coarse)").matches;
+
+	if (isMobile) {
+		card.addEventListener("touchstart", (e) => {
+			if (e.touches.length > 1) return;
+
+			longPressActive = false;
+
+			pressTimer = setTimeout(() => {
+				longPressActive = true;
+				video.play();
+				video.style.opacity = "1";
+			}, 220);
+		});
+
+		card.addEventListener("touchend", () => {
+			clearTimeout(pressTimer);
+			if (longPressActive) {
+				video.pause();
+				return;
+			}
+			openPopupForCard(card);
+		});
+
+		card.addEventListener("touchmove", (e) => {
+			clearTimeout(pressTimer);
+
+			if (longPressActive) {
+				video.pause();
+			}
+
+			longPressActive = false;
+		});
+	}
 }
 
 loadMovies();
