@@ -81,6 +81,10 @@ p {
 	cursor: crosshair !important;
 	pointer-events: auto;
 	/* padding-top: 10px; */
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+	touch-action: manipulation;
 }
 
 .movie-video,
@@ -123,6 +127,15 @@ p {
 	display: flex;
 	align-items: center;
 	gap: 10px;
+}
+
+.movie.touch-active .thumb {
+	filter: grayscale(0);
+}
+
+.movie.touch-active {
+	transform: scale(1.02);
+	z-index: 3;
 }
 
 .header {
@@ -239,3 +252,4 @@ p {
 	gap: 10px;
 	width: 110px;
 }
+

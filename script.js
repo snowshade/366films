@@ -337,6 +337,9 @@ async function loadMovies() {
 	const isMobile = matchMedia("(pointer: coarse)").matches;
 
 	if (isMobile) {
+		let pressTimer;
+		let longPressActive = false;
+
 		card.addEventListener("touchstart", (e) => {
 			if (e.touches.length > 1) return;
 
@@ -344,6 +347,10 @@ async function loadMovies() {
 
 			pressTimer = setTimeout(() => {
 				longPressActive = true;
+
+				// mimic hover state
+				card.classList.add("touch-active");
+
 				video.play();
 				video.style.opacity = "1";
 			}, 220);
@@ -351,18 +358,22 @@ async function loadMovies() {
 
 		card.addEventListener("touchend", () => {
 			clearTimeout(pressTimer);
+
 			if (longPressActive) {
 				video.pause();
+				card.classList.remove("touch-active");
 				return;
 			}
+
 			openPopupForCard(card);
 		});
 
-		card.addEventListener("touchmove", (e) => {
+		card.addEventListener("touchmove", () => {
 			clearTimeout(pressTimer);
 
 			if (longPressActive) {
 				video.pause();
+				card.classList.remove("touch-active");
 			}
 
 			longPressActive = false;
